@@ -50,7 +50,7 @@ bottomSections:
     styles:
       self:
         justifyContent: center
-    hoverEffect: move-up
+    hoverEffect: thick-underline
 slug: Ralf_Namibia
 isFeatured: false
 isDraft: false
