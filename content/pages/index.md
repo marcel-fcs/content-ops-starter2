@@ -485,7 +485,7 @@ sections:
 seo:
   metaTitle: Fliegerclub Schönebeck e.V.
   metaDescription: 'Segelflug, Motorflug und Modellflug'
-  socialImage: /images/main-hero.jpg
+  socialImage: /images/FLiegerclub_Logo_klein.jpg
   type: Seo
 type: PageLayout
 isDraft: false
