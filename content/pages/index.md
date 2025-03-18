@@ -97,6 +97,7 @@ sections:
           styles:
             self:
               borderRadius: x-large
+        tagline: Bericht
       - title: 20x
         subtitle: The Job Stuff
         text: >-
