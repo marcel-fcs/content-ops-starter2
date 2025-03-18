@@ -112,7 +112,7 @@ sections:
             self:
               borderRadius: x-large
         tagline: Bericht
-      - title: 20x
+      - title: Unser Norbert ist seit 51 Jahren Fluglehrer!
         subtitle: The Job Stuff
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
