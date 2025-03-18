@@ -154,7 +154,7 @@ sections:
         tagline: Bericht
       - title: Anfliegen
         subtitle: ''
-        text: "So, nach langer Winterpause gehts jetzt endlich wieder los! Nachdem unsere Vereinsflugzeuge am Freitag die jährliche Prüfung bekommen haben, wurde am Samstag der erste Flugbetrieb des Jahres\_veranstaltet. Morgens war es noch bedeckt, und saukalt. Ab Mittags kam aber dann doch die Sonne raus, und ermöglichte sogar längere Thermikflüge! Ralf und Ilvie haben es auf 2 Stunden und 900m Höhe gebracht. für den 1. März doch enorm!\n\nWir freuen uns auf die weiteren Wochenenden.\n\n![](https://www.fliegerclub-sbk.de/wp-content/uploads/2025/03/anfliegen_1-300x125.jpeg)\n\n![](https://www.fliegerclub-sbk.de/wp-content/uploads/2025/03/anfliegen_2-300x262.jpeg)\n"
+        text: "So, nach langer Winterpause gehts jetzt endlich wieder los! Nachdem unsere Vereinsflugzeuge am Freitag die jährliche Prüfung bekommen haben, wurde am Samstag der erste Flugbetrieb des Jahres\_veranstaltet....\n\n![](https://www.fliegerclub-sbk.de/wp-content/uploads/2025/03/anfliegen_1-300x125.jpeg)\n\n![](https://www.fliegerclub-sbk.de/wp-content/uploads/2025/03/anfliegen_2-300x262.jpeg)\n"
         image:
           url: /images/Bild3.jpg
           altText: Featured icon three
