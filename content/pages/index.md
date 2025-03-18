@@ -214,7 +214,7 @@ sections:
     colors: bg-light-fg-dark
     styles:
       self:
-        justifyContent: center
+        justifyContent: flex-start
         padding:
           - pt-8
           - pl-8
