@@ -70,7 +70,7 @@ sections:
     items:
       - type: FeaturedItem
         title: 1.122 Kilometer im Segelflug
-        subtitle: Numbers Done
+        subtitle: ''
         text: >
           Vom 03. bis zum 13. Januar 2025 sind Norbert und Ralf in Bitterwasser
           geflogen. Auf diesem weltberühmten Segelflugplatz in Namibia wurden in
