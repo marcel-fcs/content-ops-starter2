@@ -186,7 +186,7 @@ sections:
         type: FeaturedItem
         tagline: Bericht
     actions:
-      - label: ältere Post
+      - label: ältere Berichte
         altText: ''
         url: /
         showIcon: false
