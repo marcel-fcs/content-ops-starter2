@@ -221,7 +221,7 @@ sections:
           - pb-5
           - pr-0
         margin:
-          - mt-16
+          - mt-7
           - ml-0
           - mb-7
           - mr-0
