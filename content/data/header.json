@@ -139,7 +139,7 @@
     "secondaryLinks": [
         {
             "label": "Log in",
-            "url": "/",
+            "url": "/www.vereinsflieger.de",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "primary",
