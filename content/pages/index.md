@@ -40,7 +40,7 @@ sections:
         padding:
           - pt-11
           - pl-11
-          - pb-11
+          - pb-24
           - pr-11
         justifyContent: flex-start
       text:
