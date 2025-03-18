@@ -167,7 +167,7 @@ sections:
           - pr-16
         justifyContent: center
       subtitle:
-        textAlign: center
+        textAlign: left
         fontWeight: 400
   - subtitle: Impressionen
     images:
