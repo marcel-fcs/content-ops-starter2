@@ -11,7 +11,7 @@
             {
                 "label": "Vorstand",
                 "altText": "Features page",
-                "url": "/",
+                "url": "/verein",
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
