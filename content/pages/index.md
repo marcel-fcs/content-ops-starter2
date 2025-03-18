@@ -175,7 +175,7 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - subtitle: Award winning enterprises trust us
+  - subtitle: Impressionen
     images:
       - url: /images/Bild3.jpg
         altText: Empathy logo
