@@ -140,6 +140,7 @@ sections:
             textAlign: left
             justifyContent: center
         type: FeaturedItem
+        tagline: Bericht
       - title: 200%
         subtitle: Faster
         text: >-
