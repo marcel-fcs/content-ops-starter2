@@ -22,7 +22,7 @@
         },
         {
             "label": "Verein",
-            "altText": "Blog",
+            "altText": "Verein",
             "url": "/verein",
             "icon": "arrowRight",
             "iconPosition": "right",
