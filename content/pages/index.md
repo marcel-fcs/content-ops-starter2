@@ -28,7 +28,7 @@ sections:
       - label: Hier geht's zu deinem Flug
         altText: ''
         url: /gaeste
-        showIcon: true
+        showIcon: false
         icon: arrowRight
         iconPosition: right
         style: primary
