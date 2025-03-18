@@ -39,10 +39,10 @@ sections:
       styles:
         self:
           padding:
-            - pt-56
-            - pl-56
-            - pb-56
-            - pr-56
+            - pt-10
+            - pl-10
+            - pb-10
+            - pr-10
           borderWidth: 0
           margin:
             - mt-56
