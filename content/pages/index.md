@@ -50,7 +50,7 @@ sections:
           - pt-32
           - pl-32
           - pb-32
-          - pr-4
+          - pr-1
     backgroundImage:
       type: BackgroundImage
       altText: altText of the image
