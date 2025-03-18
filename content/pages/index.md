@@ -223,7 +223,7 @@ sections:
       altText: altText of the image
       backgroundSize: contain
       backgroundPosition: center
-      backgroundRepeat: repeat-y
+      backgroundRepeat: repeat
       opacity: 100
       url: /images/LS4-768x485.jpeg
   - posts:
