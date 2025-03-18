@@ -21,15 +21,6 @@
             "type": "Link"
         },
         {
-            "label": "Verein",
-            "altText": "Verein",
-            "url": "/verein",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "type": "Link"
-        },
-        {
             "type": "Link",
             "label": "Ausbildung",
             "altText": "",
