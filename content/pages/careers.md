@@ -1,5 +1,5 @@
 ---
-title: Careers
+title: Gästeflug
 slug: careers
 sections:
   - title:
