@@ -60,7 +60,7 @@ sections:
       url: /images/Bild2.jpg
   - type: FeaturedItemsSection
     title:
-      text: Key Benefits
+      text: Aktuelles
       color: text-dark
       styles:
         self:
