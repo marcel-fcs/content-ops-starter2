@@ -31,7 +31,7 @@
         },
         {
             "type": "SubNav",
-            "label": "Dropdown",
+            "label": "Verein",
             "altText": "Dropdown",
             "links": [
                 {
