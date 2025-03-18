@@ -27,7 +27,7 @@ sections:
         type: Button
       - label: Hier geht's zu deinem Flug
         altText: ''
-        url: /
+        url: /gaeste
         showIcon: true
         icon: arrowRight
         iconPosition: right
