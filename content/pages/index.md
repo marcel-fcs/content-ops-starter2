@@ -224,7 +224,7 @@ sections:
           - mt-16
           - ml-0
           - mb-16
-          - mr-6
+          - mr-0
       subtitle:
         textAlign: center
     type: ImageGallerySection
