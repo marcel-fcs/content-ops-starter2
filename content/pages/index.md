@@ -221,7 +221,7 @@ sections:
           - pb-8
           - pr-8
         margin:
-          - mt-24
+          - mt-16
           - ml-6
           - mb-16
           - mr-6
