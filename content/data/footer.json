@@ -50,7 +50,7 @@
             },
             {
                 "label": "FAQ",
-                "url": "/blog",
+                "url": "/ausbildung",
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
