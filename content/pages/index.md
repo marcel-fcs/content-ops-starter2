@@ -114,10 +114,12 @@ sections:
         tagline: Bericht
       - title: Unser Norbert ist seit 51 Jahren Fluglehrer!
         subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+          Norbert Oelze wurde am 8.3. auf der Hauptversammlung des
+          Luftsportverbands Sachsen-Anhalt für 50 Jahre Fluglehrertätigkeit mit
+          der goldenen Ehrennadel ausgezeichnet (eigentlich waren es 51 Jahre…).
+          Eine verdiente Auszeichnung!...
+
         image:
           url: /images/Wam.jpg
           altText: Featured icon two
