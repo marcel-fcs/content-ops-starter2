@@ -56,10 +56,10 @@ sections:
         alignItems: center
         flexDirection: row
         padding:
-          - pt-5
-          - pl-5
-          - pb-5
-          - pr-5
+          - pt-11
+          - pl-11
+          - pb-11
+          - pr-11
         justifyContent: flex-start
       text:
         textAlign: left
