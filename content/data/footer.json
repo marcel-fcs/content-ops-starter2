@@ -42,7 +42,7 @@
             {
                 "label": "Wie werde ich Pilot?",
                 "altText": "careers page",
-                "url": "/careers",
+                "url": "/ausbildung",
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
