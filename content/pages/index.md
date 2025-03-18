@@ -59,7 +59,7 @@ sections:
           - pt-0
           - pl-11
           - pb-0
-          - pr-11
+          - pr-96
         justifyContent: flex-start
       text:
         textAlign: left
