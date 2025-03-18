@@ -178,6 +178,7 @@ sections:
             borderRadius: x-large
             flexDirection: row
         type: FeaturedItem
+        tagline: Bericht
     actions:
       - label: Get started
         altText: ''
