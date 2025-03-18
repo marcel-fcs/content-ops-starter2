@@ -47,7 +47,7 @@
                 },
                 {
                     "type": "Link",
-                    "label": "Dropdown item",
+                    "label": "Luftfahrzeuge",
                     "altText": "",
                     "url": "/",
                     "showIcon": false,
