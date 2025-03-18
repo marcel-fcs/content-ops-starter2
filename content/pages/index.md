@@ -30,7 +30,7 @@ sections:
         url: /gaeste
         showIcon: true
         icon: arrowRight
-        iconPosition: right
+        iconPosition: left
         style: primary
         elementId: ''
         type: Link
