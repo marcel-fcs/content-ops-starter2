@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       text: Fliegerclub Schönebeck e.V.
-      color: text-dark
+      color: text-primary
       type: TitleBlock
     subtitle: Subtitle goes here
     text: >
