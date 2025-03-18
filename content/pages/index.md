@@ -11,9 +11,9 @@ sections:
         self:
           fontWeight: 400
     subtitle: Entdecke mit uns eine neue Dimension!
-    text: >
-      Schon immer davon geträumt Pilot zu werden? Mit uns kann Ihr Traum wahr
-      werden!
+    text: |
+      Schon immer davon geträumt Pilot zu werden?
+      Mit uns kann Ihr Traum wahr werden!
     actions:
       - label: Hier geht's zu deinem Flug
         altText: ''
