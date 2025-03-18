@@ -25,7 +25,7 @@ sections:
         style: secondary
         elementId: ''
         type: Button
-      - label: See Tutorials
+      - label: Hier geht's zu deinem Flug
         altText: ''
         url: /
         showIcon: true
