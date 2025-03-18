@@ -180,7 +180,7 @@ sections:
       - url: /images/Bild3.jpg
         altText: Empathy logo
         type: ImageBlock
-      - url: /images/wellster-logo.svg
+      - url: /images/Astir.jpg
         altText: Wellster logo
         type: ImageBlock
       - url: /images/vise-logo.svg
