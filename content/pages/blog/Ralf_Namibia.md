@@ -23,7 +23,7 @@ bottomSections:
     subtitle: ''
     images:
       - type: ImageBlock
-        url: /images/empathy-logo.svg
+        url: /images/Bild2.jpg
         altText: Empathy logo
         elementId: ''
       - type: ImageBlock
