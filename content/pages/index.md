@@ -218,6 +218,13 @@ sections:
       subtitle:
         textAlign: center
     type: ImageGallerySection
+    backgroundImage:
+      type: BackgroundImage
+      altText: altText of the image
+      backgroundSize: auto
+      backgroundPosition: center
+      backgroundRepeat: no-repeat
+      opacity: 100
   - posts:
       - content/pages/blog/case-study-1.md
       - content/pages/blog/case-study-2.md
