@@ -76,7 +76,7 @@
     },
     "linkPrimary": {
         "weight": "medium",
-        "case": "none",
+        "case": "capitalize",
         "letterSpacing": "normal",
         "type": "ThemeStyleLink"
     },
