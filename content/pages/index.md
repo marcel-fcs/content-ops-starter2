@@ -130,7 +130,16 @@ sections:
 
           Ralf
           Gerigk![](/images/Bild2.jpg)![](https://preview--tourmaline-buttercream-b159d1-995ee.stackbit.dev/_static/app-assets/public/images/Twin.jpg)
-        actions: []
+        actions:
+          - type: Link
+            label: See Tutorials
+            altText: ''
+            url: /blog
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            style: secondary
+            elementId: ''
         elementId: null
         colors: bg-neutralAlt-fg-dark
         styles:
