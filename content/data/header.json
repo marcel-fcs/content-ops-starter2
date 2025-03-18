@@ -23,7 +23,7 @@
         {
             "label": "Verein",
             "altText": "Blog",
-            "url": "/blog",
+            "url": "/verein",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
