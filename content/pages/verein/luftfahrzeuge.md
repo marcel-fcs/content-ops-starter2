@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: Vorstand
+title: Luftfahrzeuge
 sections: []
 slug: /verein/luftfahrzeuge
 isDraft: false
