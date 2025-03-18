@@ -27,7 +27,7 @@
             },
             {
                 "label": "Fahrzeuge",
-                "url": "/",
+                "url": "/verein",
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
