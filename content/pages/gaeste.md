@@ -1,6 +1,6 @@
 ---
 title: Gästeflug
-slug: careers
+slug: gaeste
 sections:
   - title:
       text: A team that works closely together
