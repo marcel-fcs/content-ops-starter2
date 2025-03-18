@@ -36,6 +36,13 @@ sections:
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
+      styles:
+        self:
+          padding:
+            - pt-3
+            - pl-3
+            - pb-3
+            - pr-3
     badge:
       label: This is a badge
       color: text-primary
