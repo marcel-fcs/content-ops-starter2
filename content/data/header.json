@@ -58,7 +58,7 @@
                 },
                 {
                     "type": "Link",
-                    "label": "Dropdown item",
+                    "label": "Fahrzeuge",
                     "altText": "",
                     "url": "/",
                     "showIcon": false,
