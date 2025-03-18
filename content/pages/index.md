@@ -220,6 +220,11 @@ sections:
           - pl-8
           - pb-8
           - pr-8
+        margin:
+          - mt-24
+          - ml-24
+          - mb-24
+          - mr-24
       subtitle:
         textAlign: center
     type: ImageGallerySection
