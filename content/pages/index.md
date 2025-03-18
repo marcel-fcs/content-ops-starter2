@@ -62,7 +62,7 @@ sections:
           - pr-5
         justifyContent: flex-start
       text:
-        textAlign: center
+        textAlign: left
     backgroundImage:
       type: BackgroundImage
       altText: altText of the image
