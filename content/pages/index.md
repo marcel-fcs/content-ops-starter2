@@ -186,7 +186,7 @@ sections:
         type: FeaturedItem
         tagline: Bericht
     actions:
-      - label: Get started
+      - label: ältere Post
         altText: ''
         url: /
         showIcon: false
