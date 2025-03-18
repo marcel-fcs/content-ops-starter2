@@ -24,24 +24,6 @@ sections:
         style: primary
         elementId: ''
         type: Link
-    media:
-      url: /images/Bild3.jpg
-      altText: Unblock your team boost your time to production preview
-      elementId: ''
-      type: ImageBlock
-      styles:
-        self:
-          padding:
-            - pt-0
-            - pl-0
-            - pb-0
-            - pr-0
-          borderWidth: 0
-          margin:
-            - mt-32
-            - ml-32
-            - mb-32
-            - mr-32
     badge:
       label: ''
       color: text-primary
