@@ -84,7 +84,7 @@ sections:
           - type: Link
             label: weiterlesen
             altText: ''
-            url: /blog
+            url: /blog/1222 km im Segelflug
             showIcon: true
             icon: arrowRight
             iconPosition: right
