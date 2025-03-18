@@ -43,7 +43,7 @@ sections:
             - mb-32
             - mr-32
     badge:
-      label: This is a badge
+      label: ''
       color: text-primary
       type: Badge
       styles:
