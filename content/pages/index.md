@@ -45,10 +45,10 @@ sections:
             - pr-56
           borderWidth: 0
           margin:
-            - mt-5
-            - ml-5
-            - mb-5
-            - mr-5
+            - mt-36
+            - ml-36
+            - mb-36
+            - mr-36
     badge:
       label: This is a badge
       color: text-primary
