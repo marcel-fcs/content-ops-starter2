@@ -6,35 +6,32 @@
     },
     "text": "Fliegerclub Schönebeck e.V.\n\nZackmünde 11\n\n39249  Barby / OT Pömmelte\n\nTelefon:  +49 3928 400647\n\nEmail:  <info@fliegerclub-sbk.de>\n",
     "primaryLinks": {
-        "title": "VEREIN",
+        "type": "FooterLinksGroup",
+        "title": "Company",
         "links": [
             {
-                "label": "Vorstand",
-                "altText": "Features page",
-                "url": "/verein",
+                "type": "Link",
+                "label": "About",
+                "altText": "",
+                "url": "/",
+                "showIcon": false,
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
-                "type": "Link"
+                "elementId": ""
             },
             {
-                "label": "Luftfahrzeuge",
-                "url": "/verein",
+                "type": "Link",
+                "label": "Blog",
+                "altText": "",
+                "url": "/blog",
+                "showIcon": false,
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
-                "type": "Link"
-            },
-            {
-                "label": "Fahrzeuge",
-                "url": "/verein",
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "style": "secondary",
-                "type": "Link"
+                "elementId": ""
             }
-        ],
-        "type": "FooterLinksGroup"
+        ]
     },
     "secondaryLinks": {
         "title": "Segelflugausbildung",
