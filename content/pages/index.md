@@ -43,6 +43,7 @@ sections:
             - pl-56
             - pb-56
             - pr-56
+          borderWidth: 2
     badge:
       label: This is a badge
       color: text-primary
