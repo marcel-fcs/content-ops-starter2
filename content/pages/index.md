@@ -2,6 +2,70 @@
 title: Home
 slug: /
 sections:
+  - type: GenericSection
+    title:
+      text: Fliegerclub Schönebeck e.V.
+      color: text-dark
+      type: TitleBlock
+      styles:
+        self:
+          fontWeight: 400
+    subtitle: Subtitle goes here
+    text: >
+      A Netlify Create website is a git repo that you own. Every code commit is
+      instantly reflected in the visual editor and since every visual edit is a
+      git commit, git workflows and collaboration just work.
+    actions:
+      - label: Hier geht's zu deinem Flug
+        altText: ''
+        url: /gaeste
+        showIcon: true
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
+        type: Link
+    media:
+      url: /images/Bild3.jpg
+      altText: Unblock your team boost your time to production preview
+      elementId: ''
+      type: ImageBlock
+      styles:
+        self:
+          padding:
+            - pt-0
+            - pl-0
+            - pb-0
+            - pr-0
+          borderWidth: 0
+          margin:
+            - mt-32
+            - ml-32
+            - mb-32
+            - mr-32
+    badge:
+      label: This is a badge
+      color: text-primary
+      type: Badge
+    elementId: ''
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        alignItems: center
+        flexDirection: row
+        padding:
+          - pt-5
+          - pl-5
+          - pb-5
+          - pr-5
+    backgroundImage:
+      type: BackgroundImage
+      altText: altText of the image
+      backgroundSize: auto
+      backgroundPosition: center
+      backgroundRepeat: no-repeat
+      opacity: 100
+      url: /images/Bild2.jpg
   - type: FeaturedItemsSection
     title:
       text: Key Benefits
@@ -119,70 +183,6 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - type: GenericSection
-    title:
-      text: Fliegerclub Schönebeck e.V.
-      color: text-dark
-      type: TitleBlock
-      styles:
-        self:
-          fontWeight: 400
-    subtitle: Subtitle goes here
-    text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
-    actions:
-      - label: Hier geht's zu deinem Flug
-        altText: ''
-        url: /gaeste
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
-        type: Link
-    media:
-      url: /images/Bild3.jpg
-      altText: Unblock your team boost your time to production preview
-      elementId: ''
-      type: ImageBlock
-      styles:
-        self:
-          padding:
-            - pt-0
-            - pl-0
-            - pb-0
-            - pr-0
-          borderWidth: 0
-          margin:
-            - mt-32
-            - ml-32
-            - mb-32
-            - mr-32
-    badge:
-      label: This is a badge
-      color: text-primary
-      type: Badge
-    elementId: ''
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        alignItems: center
-        flexDirection: row
-        padding:
-          - pt-5
-          - pl-5
-          - pb-5
-          - pr-5
-    backgroundImage:
-      type: BackgroundImage
-      altText: altText of the image
-      backgroundSize: auto
-      backgroundPosition: center
-      backgroundRepeat: no-repeat
-      opacity: 100
-      url: /images/Bild2.jpg
   - subtitle: Award winning enterprises trust us
     images:
       - url: /images/empathy-logo.svg
