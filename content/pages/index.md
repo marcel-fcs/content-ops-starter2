@@ -186,7 +186,7 @@ sections:
       - url: /images/Feuerweher.jpg
         altText: Vise logo
         type: ImageBlock
-      - url: /images/telus-logo.svg
+      - url: /images/Bild2.jpg
         altText: Telus logo
         type: ImageBlock
     motion: move-to-left
