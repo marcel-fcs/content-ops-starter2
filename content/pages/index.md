@@ -44,7 +44,7 @@ sections:
           - pr-11
         justifyContent: flex-start
         margin:
-          - ml-72
+          - ml-0
       text:
         textAlign: left
     backgroundImage:
