@@ -168,6 +168,7 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
+        fontWeight: 400
   - subtitle: Impressionen
     images:
       - url: /images/Bild3.jpg
