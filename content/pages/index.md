@@ -484,7 +484,7 @@ sections:
         textAlign: center
 seo:
   metaTitle: Fliegerclub Schönebeck e.V.
-  metaDescription: This demo site is built with Netlify Create.
+  metaDescription: 'Segelflug, Motorflug und Modellflug'
   socialImage: /images/main-hero.jpg
   type: Seo
 type: PageLayout
