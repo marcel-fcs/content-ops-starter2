@@ -34,7 +34,7 @@
             "label": "Get started",
             "altText": "",
             "url": "/vorstand",
-            "showIcon": false,
+            "showIcon": true,
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "primary",
