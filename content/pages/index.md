@@ -219,7 +219,7 @@ sections:
           - pt-8
           - pl-0
           - pb-8
-          - pr-8
+          - pr-0
         margin:
           - mt-16
           - ml-6
