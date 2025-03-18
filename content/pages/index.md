@@ -60,6 +60,7 @@ sections:
           - pl-5
           - pb-5
           - pr-5
+        justifyContent: center
     backgroundImage:
       type: BackgroundImage
       altText: altText of the image
