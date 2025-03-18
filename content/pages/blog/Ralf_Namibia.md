@@ -19,17 +19,6 @@ featuredImage:
         - pb-0
         - pr-0
 bottomSections:
-  - type: DividerSection
-    title: Divider
-    elementId: ''
-    colors: bg-neutral-fg-dark
-    styles:
-      self:
-        padding:
-          - pt-3
-          - pl-3
-          - pb-3
-          - pr-3
   - type: ImageGallerySection
     subtitle: Our customers
     images:
@@ -79,6 +68,17 @@ bottomSections:
         justifyContent: center
       subtitle:
         textAlign: center
+  - type: DividerSection
+    title: Divider
+    elementId: ''
+    colors: bg-neutral-fg-dark
+    styles:
+      self:
+        padding:
+          - pt-3
+          - pl-3
+          - pb-3
+          - pr-3
   - type: RecentPostsSection
     title:
       type: TitleBlock
