@@ -75,7 +75,7 @@
         "type": "ThemeStyleButton"
     },
     "linkPrimary": {
-        "weight": "bold",
+        "weight": "medium",
         "case": "none",
         "letterSpacing": "normal",
         "type": "ThemeStyleLink"
