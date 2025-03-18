@@ -60,7 +60,7 @@ sections:
           - pl-5
           - pb-5
           - pr-5
-        justifyContent: center
+        justifyContent: flex-start
     backgroundImage:
       type: BackgroundImage
       altText: altText of the image
