@@ -140,7 +140,7 @@
         {
             "label": "Log in",
             "url": "https://www.vereinsflieger.de",
-            "icon": "arrowRight",
+            "icon": "chevronBigRight",
             "iconPosition": "right",
             "style": "primary",
             "type": "Button",
