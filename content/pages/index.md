@@ -84,7 +84,7 @@ sections:
           - type: Link
             label: weiterlesen
             altText: ''
-            url: /blog/1222 km im Segelflug
+            url: /blog/Ralf_Namibia
             showIcon: true
             icon: arrowRight
             iconPosition: right
