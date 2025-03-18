@@ -226,6 +226,10 @@ sections:
       backgroundRepeat: repeat
       opacity: 36
       url: /images/LS4-768x485.jpeg
+    badge:
+      type: Badge
+      label: This is a badge
+      color: text-primary
   - posts:
       - content/pages/blog/case-study-1.md
       - content/pages/blog/case-study-2.md
