@@ -21,13 +21,67 @@
             "type": "Link"
         },
         {
-            "label": "Verein",
-            "altText": "Verein",
-            "url": "/verein",
+            "type": "Link",
+            "label": "Ausbildung",
+            "altText": "",
+            "url": "/ausbildung",
+            "showIcon": false,
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
-            "type": "Link"
+            "elementId": ""
+        },
+        {
+            "type": "SubNav",
+            "label": "Verein",
+            "altText": "Dropdown",
+            "links": [
+                {
+                    "type": "Link",
+                    "label": "Vorstand",
+                    "altText": "",
+                    "url": "/verein/vorstand",
+                    "showIcon": false,
+                    "icon": "arrowRight",
+                    "iconPosition": "right",
+                    "style": "secondary",
+                    "elementId": ""
+                },
+                {
+                    "type": "Link",
+                    "label": "Luftfahrzeuge",
+                    "altText": "",
+                    "url": "/verein/luftfahrzeuge",
+                    "showIcon": false,
+                    "icon": "arrowRight",
+                    "iconPosition": "right",
+                    "style": "secondary",
+                    "elementId": ""
+                },
+                {
+                    "type": "Link",
+                    "label": "Fahrzeuge",
+                    "altText": "",
+                    "url": "/verein/fahrzeuge",
+                    "showIcon": false,
+                    "icon": "arrowRight",
+                    "iconPosition": "right",
+                    "style": "secondary",
+                    "elementId": ""
+                },
+                {
+                    "type": "Link",
+                    "label": "Geschichte",
+                    "altText": "",
+                    "url": "/verein/geschichte",
+                    "showIcon": false,
+                    "icon": "arrowRight",
+                    "iconPosition": "right",
+                    "style": "secondary",
+                    "elementId": ""
+                }
+            ],
+            "labelStyle": "secondary"
         },
         {
             "label": "Gästeflug",
@@ -37,6 +91,17 @@
             "iconPosition": "right",
             "style": "secondary",
             "type": "Link"
+        },
+        {
+            "type": "Link",
+            "label": "Für Piloten",
+            "altText": "",
+            "url": "/piloten",
+            "showIcon": false,
+            "icon": "arrowRight",
+            "iconPosition": "right",
+            "style": "secondary",
+            "elementId": ""
         },
         {
             "label": "Links",
@@ -73,21 +138,13 @@
     ],
     "secondaryLinks": [
         {
-            "label": "Sign up",
-            "altText": "Sign up",
-            "url": "https://app.netlify.com/signup",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "type": "Button"
-        },
-        {
             "label": "Log in",
-            "url": "/",
-            "icon": "arrowRight",
+            "url": "https://www.vereinsflieger.de",
+            "icon": "chevronBigRight",
             "iconPosition": "right",
             "style": "primary",
-            "type": "Button"
+            "type": "Button",
+            "showIcon": true
         }
     ],
     "variant": "logo-left-primary-nav-centered",

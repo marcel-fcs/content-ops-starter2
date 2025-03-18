@@ -1,56 +1,75 @@
 {
     "logo": {
-        "url": "/images/logo-white.svg",
+        "url": "/images/FLiegerclub_Logo_klein.jpg",
         "altText": "Logo light",
         "type": "ImageBlock"
     },
     "text": "Fliegerclub Schönebeck e.V.\n\nZackmünde 11\n\n39249  Barby / OT Pömmelte\n\nTelefon:  +49 3928 400647\n\nEmail:  <info@fliegerclub-sbk.de>\n",
     "primaryLinks": {
-        "title": "Product",
+        "type": "FooterLinksGroup",
+        "title": "Verein",
         "links": [
             {
-                "label": "Features",
-                "altText": "Features page",
-                "url": "/",
+                "type": "Link",
+                "label": "Vorstand",
+                "altText": "",
+                "url": "/verein",
+                "showIcon": false,
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
-                "type": "Link"
+                "elementId": ""
             },
             {
-                "label": "Pricing",
-                "url": "/pricing",
+                "type": "Link",
+                "label": "Luftfahrzeuge",
+                "altText": "",
+                "url": "/verein",
+                "showIcon": false,
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
-                "type": "Link"
+                "elementId": ""
             },
             {
-                "label": "Documentation",
-                "url": "/",
+                "type": "Link",
+                "label": "Fahrzeuge",
+                "altText": "",
+                "url": "/verein",
+                "showIcon": false,
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
-                "type": "Link"
+                "elementId": ""
+            },
+            {
+                "type": "Link",
+                "label": "Geschichte",
+                "altText": "",
+                "url": "/verein",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "style": "secondary",
+                "elementId": ""
             }
-        ],
-        "type": "FooterLinksGroup"
+        ]
     },
     "secondaryLinks": {
-        "title": "Company",
+        "title": "Segelflugausbildung",
         "links": [
             {
-                "label": "Careers",
+                "label": "Wie werde ich Pilot?",
                 "altText": "careers page",
-                "url": "/careers",
+                "url": "/ausbildung",
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
                 "type": "Link"
             },
             {
-                "label": "Blog",
-                "url": "/blog",
+                "label": "FAQ",
+                "url": "/ausbildung",
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
@@ -61,21 +80,9 @@
     },
     "socialLinks": [
         {
-            "altText": "GitHub link",
-            "url": "https://github.com/netlify",
-            "icon": "github",
-            "type": "Social"
-        },
-        {
-            "altText": "Twitter link",
-            "url": "https://twitter.com/netlify",
-            "icon": "twitter",
-            "type": "Social"
-        },
-        {
-            "altText": "LinkedIn link",
-            "url": "https://www.linkedin.com/company/netlify",
-            "icon": "linkedin",
+            "altText": "Instagram link",
+            "url": "https://www.instagram.com/FCS",
+            "icon": "instagram",
             "type": "Social"
         },
         {
