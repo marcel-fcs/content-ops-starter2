@@ -49,7 +49,7 @@
                     "type": "Link",
                     "label": "Luftfahrzeuge",
                     "altText": "",
-                    "url": "/",
+                    "url": "/verein/luftfahrzeuge",
                     "showIcon": false,
                     "icon": "arrowRight",
                     "iconPosition": "right",
