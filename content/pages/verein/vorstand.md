@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: Verein
+title: Vorstand
 sections: []
 slug: /verein/vorstand
 isDraft: false
