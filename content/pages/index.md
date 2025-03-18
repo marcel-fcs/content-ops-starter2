@@ -54,7 +54,7 @@ sections:
     styles:
       self:
         alignItems: center
-        flexDirection: col
+        flexDirection: row
         padding:
           - pt-5
           - pl-5
