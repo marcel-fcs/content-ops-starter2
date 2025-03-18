@@ -20,7 +20,7 @@ featuredImage:
         - pr-0
 bottomSections:
   - type: ImageGallerySection
-    subtitle: Our customers
+    subtitle: ''
     images:
       - type: ImageBlock
         url: /images/empathy-logo.svg
