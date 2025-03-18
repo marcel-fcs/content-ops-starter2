@@ -142,7 +142,7 @@
             "url": "/www.vereinsflieger.de",
             "icon": "arrowRight",
             "iconPosition": "right",
-            "style": "primary",
+            "style": "secondary",
             "type": "Button"
         }
     ],
