@@ -85,7 +85,7 @@ sections:
             label: See Tutorials
             altText: ''
             url: /blog
-            showIcon: false
+            showIcon: true
             icon: arrowRight
             iconPosition: right
             style: secondary
