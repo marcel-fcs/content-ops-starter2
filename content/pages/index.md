@@ -152,7 +152,7 @@ sections:
             justifyContent: center
         type: FeaturedItem
         tagline: Bericht
-      - title: 200%
+      - title: Anfliegen
         subtitle: Faster
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
