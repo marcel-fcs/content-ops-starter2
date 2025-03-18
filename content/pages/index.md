@@ -183,7 +183,7 @@ sections:
       - url: /images/Astir.jpg
         altText: Wellster logo
         type: ImageBlock
-      - url: /images/vise-logo.svg
+      - url: /images/Feuerweher.jpg
         altText: Vise logo
         type: ImageBlock
       - url: /images/telus-logo.svg
