@@ -43,6 +43,8 @@ sections:
           - pb-60
           - pr-11
         justifyContent: flex-start
+        margin:
+          - ml-72
       text:
         textAlign: left
     backgroundImage:
