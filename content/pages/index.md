@@ -45,6 +45,9 @@ sections:
         justifyContent: flex-start
         margin:
           - ml-0
+          - mt-0
+          - mb-0
+          - mr-0
       text:
         textAlign: left
     backgroundImage:
