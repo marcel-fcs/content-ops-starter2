@@ -224,7 +224,7 @@ sections:
       backgroundSize: contain
       backgroundPosition: center
       backgroundRepeat: repeat
-      opacity: 66
+      opacity: 49
       url: /images/LS4-768x485.jpeg
   - posts:
       - content/pages/blog/case-study-1.md
