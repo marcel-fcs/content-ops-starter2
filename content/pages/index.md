@@ -222,7 +222,7 @@ sections:
           - pr-0
         margin:
           - mt-16
-          - ml-6
+          - ml-0
           - mb-16
           - mr-6
       subtitle:
