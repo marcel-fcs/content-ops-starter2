@@ -232,7 +232,7 @@ sections:
       type: BackgroundImage
       altText: altText of the image
       backgroundSize: contain
-      backgroundPosition: center
+      backgroundPosition: bottom
       backgroundRepeat: repeat
       opacity: 36
       url: /images/LS4-768x485.jpeg
