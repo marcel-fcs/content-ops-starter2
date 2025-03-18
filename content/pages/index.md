@@ -82,7 +82,7 @@ sections:
           Metern....
         actions:
           - type: Link
-            label: See Tutorials
+            label: weiterlesen
             altText: ''
             url: /blog
             showIcon: true
