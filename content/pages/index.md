@@ -58,6 +58,7 @@ sections:
       backgroundPosition: center
       backgroundRepeat: no-repeat
       opacity: 100
+      url: /images/Bild2.jpg
   - type: FeaturedItemsSection
     title:
       text: Key Benefits
