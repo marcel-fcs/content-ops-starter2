@@ -4,8 +4,10 @@ title: Anfliegen!
 date: '2025-03-05'
 author: content/data/person2.json
 excerpt: >-
-  Facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper.
-  Donec sed facilisis nibh.
+  So, nach langer Winterpause gehts jetzt endlich wieder los! Nachdem unsere
+  Vereinsflugzeuge am Freitag die jährliche Prüfung bekommen haben, wurde am
+  Samstag der erste Flugbetrieb des Jahres veranstaltet. Morgens war es noch
+  bedeckt, und saukalt.
 featuredImage:
   type: ImageBlock
   url: /images/Bild3.jpg
