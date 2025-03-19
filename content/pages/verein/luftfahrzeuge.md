@@ -13,7 +13,7 @@ sections:
     subtitle: ''
     items:
       - type: FeaturedItem
-        title: SKP - Startkontrollpunkt
+        title: "TWIN II\_– unser Schulungs-Doppelsitzer"
         tagline: ''
         subtitle: "Hier sitzt der Startleiter. Er hat das Sagen\_und sorgt für einen reibungsfreien Flugbetrieb."
         text: ''
