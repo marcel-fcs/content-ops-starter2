@@ -42,7 +42,7 @@ sections:
           - pl-11
           - pb-60
           - pr-11
-        justifyContent: flex-start
+        justifyContent: flex-end
         margin:
           - ml-0
           - mt-0
