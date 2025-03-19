@@ -62,7 +62,7 @@ sections:
     subtitle: 'Hier ein paar Antworten auf oft gestellte Fragen:'
     items:
       - type: FeaturedItem
-        title: Account Executive
+        title: Wie fliegt ein Segelflugzeug
         subtitle: Sales
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
