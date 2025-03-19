@@ -313,18 +313,65 @@ sections:
         title: Ein kleiner Anhang für besorgte Eltern
         subtitle: ''
         text: >+
-          Segelflugzeuge brauchen zum Fliegen keinen Wind. Sie fliegen auch –
-          und genauso gut – wenn es windstill ist. Beim Start wird das
-          Segelflugzeug durch eine Winde oder ein Motorflugzeug auf eine
-          bestimmte Höhe gebracht. Anschließend fliegt es auf einer schwach nach
-          unten geneigten Bahn. Dabei muss es für seinen Gleitflug ständig etwas
-          von seiner Ausgangshöhe opfern. Das Segelflugzeug setzt seine Flughöhe
-          in Flugstrecke um – solange, bis die Höhe verbraucht ist und das
-          Flugzeug landen muss.
+          Wir möchten Ihnen im folgenden Text ein paar Argumente liefern, die
+          Sie vielleicht dazu bewegen können, Ihrem Kind diese reizvolle
+          Freizeitbeschäftigung zu ermöglichen. Fliegen, insbesondere
+          Segelfliegen ist eine sehr sichere Angelegenheit.
 
-          Moderne Segelflugzeuge erreichen spielend 250 km/h. Der
-          Höhenweltrekord liegt bei 14.000 Metern, die weiteste geflogene
-          Strecke bei 2050 km.
+
+          Der Fliegerclub Schönebeck e.V. bildet seit über 50 Jahren
+          Nachwuchspiloten aus. Die Ausbildung erfolgt auf der Grundlage
+          gesetzlich vorgegebenen Richtlinien von engagierten Fluglehrern. Der
+          Abschluss der Ausbildung bildet eine theoretische und praktische
+          Prüfung vor einem staatlich bestellten Prüfer.
+
+
+          Fliegen stärkt das Selbstbewusstsein, zeigt aber auch sehr schnell die
+          eigenen Grenzen auf und lehrt, das Selbstbewusstsein nicht in Arroganz
+          ausarten zu lassen. Fliegen bedeutet, Verantwortung zu übernehmen; für
+          sich und für andere. Gerade Fliegen im Verein ist eine
+          Gemeinschaftsaufgabe, bei der Nachwuchskräfte schon früh an
+          verantwortungsvolle Aufgaben herangeführt werden.
+
+
+          Die größte Verantwortung übernehmen die Flugschüler für sich selbst,
+          wenn sie nach gründlicher Ausbildung am Doppelsteuer schließlich zu
+          ihren ersten Alleinflügen starten. Diese Flüge erfolgreich zu beenden,
+          ist ein ungeheuer positives Erfolgserlebnis. Gleichzeitig lernen
+          Nachwuchspiloten zu einem sehr frühen Zeitpunkt den Umgang mit dem,
+          vom Verein zur Verfügung gestellten wertvollen Fluggerät. Flugzeuge
+          kosten in der Anschaffung beträchtliche Summen. Die Achtung vor und
+          den richtigen Umgang mit solchen Vermögenswerten lernt man bei kaum
+          einer anderen Freizeitbetätigung.
+
+
+          Beim Fliegen wird auch das technische Verständnis gefördert. Der
+          Umgang mit Holz und Kunststoffen wie er in Segel- und Motorflugzeugen
+          zu finden ist, oder der Umgang mit GPS und anderer Bordelektronik
+          lässt sich am besten durch eigene Erfahrung trainieren.
+
+
+          Nicht zu vergessen ist vor allem bei einer Schulung im Verein der
+          soziale Aspekt des Fliegens. Die Fliegerei hört im Verein nicht mit
+          der Landung auf. Gemeinsames Lernen, sich Wissen anzueignen und
+          weiterzugeben ist schon mit jungen Jahren möglich. Allerdings gilt
+          dieser spezielle Aspekt – zugegebenermaßen – für alle
+          Freizeitbetätigungen, nicht nur fürs Fliegen.
+
+          Wer früh mit dem Fliegen beginnt, wird gefordert, aber er wird dadurch
+          auch gefördert. Vorausschauendes Denken, geplantes und strukturiertes
+          Handeln, handwerkliches Können, klare Kommunikation und technisches
+          Verständnis sind nur ein paar Tugenden, die Flugschüler auf dem Weg zu
+          ihrem Pilotenschein im Idealfall vermittelt bekommen.
+
+
+          Diese Fähigkeiten helfen bei der späteren Arbeitsplatzsuche, egal, in
+          welchem Bereich. Junge Leute sind bereit, Verantwortung zu übernehmen.
+          Sie sind selbstbewusst und wissbegierig. Unterstützen Sie doch Ihre
+          Tochter bzw. Ihren Sohn und bieten Sie ihnen die Möglichkeit, Pilot zu
+          werden.
+
+
 
         actions: []
         colors: bg-dark-fg-light
