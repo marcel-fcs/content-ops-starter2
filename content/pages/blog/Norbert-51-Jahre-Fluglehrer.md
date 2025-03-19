@@ -78,10 +78,7 @@ bottomSections:
         title: ''
         tagline: Feature 2
         subtitle: Be in good company
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: ''
         image:
           type: ImageBlock
           url: /images/PHOTO-2025-03-08-16-07-57-768x576.jpg
