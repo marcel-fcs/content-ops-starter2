@@ -130,6 +130,17 @@
                     "iconPosition": "right",
                     "style": "secondary",
                     "type": "Link"
+                },
+                {
+                    "type": "Link",
+                    "label": "See Tutorials",
+                    "altText": "",
+                    "url": "https://xn--gemeinde-pmmelte-vwb.de/feuerwehr/",
+                    "showIcon": false,
+                    "icon": "arrowRight",
+                    "iconPosition": "right",
+                    "style": "secondary",
+                    "elementId": ""
                 }
             ],
             "labelStyle": "secondary",
