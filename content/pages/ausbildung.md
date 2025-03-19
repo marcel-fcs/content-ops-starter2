@@ -406,7 +406,7 @@ sections:
     actions:
       - type: Button
         label: Werde jetzt Mitglied
-        url: /
+        url: /kontakt
         icon: arrowRight
         iconPosition: right
         style: primary
