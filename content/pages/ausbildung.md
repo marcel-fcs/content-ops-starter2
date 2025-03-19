@@ -59,7 +59,7 @@ sections:
           Strecke bei 2050 km.
 
         actions: []
-        colors: bg-neutral-fg-dark
+        colors: bg-dark-fg-light
         styles:
           self:
             padding:
