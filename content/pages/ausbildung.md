@@ -431,8 +431,11 @@ sections:
         self:
           textAlign: left
     subtitle: ''
-    text: |+
-      ###### <sup></sup>
+    text: >+
+      ###### <sup>Der Text wurde zum überwiegenden Teil von der Segelfluggruppe
+      Wershofen übernommen.</sup>
+
+
 
     actions: []
     colors: bg-light-fg-dark
