@@ -285,7 +285,7 @@ sections:
   - type: CarouselSection
     items:
       - type: FeaturedItem
-        title: Feature Item One
+        title: Flugbetrieb
         tagline: This is the tagline
         subtitle: This is the item subtitle
         text: |
