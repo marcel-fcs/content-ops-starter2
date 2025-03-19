@@ -95,7 +95,7 @@ sections:
         title: >-
           Wie kommt es, dass Segelflugzeuge viele hundert Kilometer weit fliegen
           können?
-        subtitle: Marketing
+        subtitle: ''
         text: >+
           Während des Gleitfluges versucht der Segelflieger Thermik zu finden.
           Thermik ist von der Sonneneinstrahlung erwärmte Luft, die vom Boden
