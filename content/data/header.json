@@ -40,7 +40,7 @@
                     "type": "Link",
                     "label": "Verein",
                     "altText": "",
-                    "url": "/verein",
+                    "url": "/verein/geschichte",
                     "showIcon": false,
                     "icon": "arrowRight",
                     "iconPosition": "right",
