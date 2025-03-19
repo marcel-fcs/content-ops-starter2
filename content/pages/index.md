@@ -95,18 +95,7 @@ sections:
       - type: FeaturedItem
         title: ''
         subtitle: $ 88 – $ 176
-        text: >+
-          Available in a range of colors and patterns, we make it easy to pick
-          the perfect look for you.
-
-
-
-
-          Our faux fur is incredibly soft, plush and oh-so inviting. It's like
-          the real deal (but better)!
-
-
-
+        text: "Sie erreichen den Flugplatz telefonisch unter 03928/400647. Das Telefon ist aber nicht immer besetzt. Bei dringenden Nachrichten sprechen sie bitte auf die Sprachbox. Danke!\_ \nMitteilung an die Gäste des FCS:\nMomentan sind leider keine Rundflüge mit unserem Motorsegler möglich. Sollten Sie bereits einen Gutschein dafür erworben haben, melden Sie sich gerne bei uns, über einen passenden Ersatz kann dann gemeinsam gesprochen werden. Vielen Dank für Ihr Verständnis!\n\n"
         image:
           type: ImageBlock
           url: /images/img-placeholder.svg
