@@ -44,9 +44,9 @@ sections:
         title: "Astir STD III\_– unser Schulungs-Einsitzer"
         tagline: ''
         subtitle: ''
-        text: |+
-          **Technische Daten
-          **Spannweite: 15,0 m
+        text: |
+          **Technische Daten \\**
+          Spannweite: 15,0 m \\
           Rumpflänge: 6,75 m
           Flügelfläche: 12,4 m²
           Streckung: 18,0
@@ -57,7 +57,6 @@ sections:
           Gleitzahl: 36 bei 92 km/h
           Höchstgeschwindigkeit: 250 km/h
           Manövergeschwindigkeit: 170 km/h
-
         image:
           type: ImageBlock
           url: /images/Feuerweher.jpg
