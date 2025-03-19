@@ -45,8 +45,8 @@ sections:
         tagline: ''
         subtitle: ''
         text: |
-          **Technische Daten \\**
-          Spannweite: 15,0 m \\
+          **Technische Daten \**
+          Spannweite: 15,0 m \
           Rumpflänge: 6,75 m
           Flügelfläche: 12,4 m²
           Streckung: 18,0
