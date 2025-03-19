@@ -94,7 +94,7 @@ sections:
     items:
       - type: FeaturedItem
         title: ''
-        subtitle: $ 88 – $ 176
+        subtitle: ''
         text: "Sie erreichen den Flugplatz telefonisch unter 03928/400647. Das Telefon ist aber nicht immer besetzt. Bei dringenden Nachrichten sprechen sie bitte auf die Sprachbox. Danke!\_<br />\nMitteilung an die Gäste des FCS:<br />\nMomentan sind leider keine Rundflüge mit unserem Motorsegler möglich. Sollten Sie bereits einen Gutschein dafür erworben haben, melden Sie sich gerne bei uns, über einen passenden Ersatz kann dann gemeinsam gesprochen werden. Vielen Dank für Ihr Verständnis!\n\n"
         image:
           type: ImageBlock
