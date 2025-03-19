@@ -27,7 +27,6 @@ bottomSections:
         tagline: ''
         subtitle: ''
         text: |+
-          <div style="text-align: center"></div>
 
         image:
           type: ImageBlock
