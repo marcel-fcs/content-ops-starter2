@@ -144,7 +144,7 @@ sections:
     showAuthor: true
     actions:
       - type: Button
-        label: Get started
+        label: ältere Beiträge
         altText: ''
         url: /blogs
         showIcon: false
