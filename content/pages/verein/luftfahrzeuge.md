@@ -13,7 +13,7 @@ sections:
     subtitle: ''
     items:
       - type: FeaturedItem
-        title: "TWIN II\_– unser Schulungs-Doppelsitzer"
+        title: "TWIN II\_"
         tagline: ''
         subtitle: unser Schulungs-Doppelsitzer
         text: |
