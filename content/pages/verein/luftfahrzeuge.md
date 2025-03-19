@@ -41,7 +41,7 @@ sections:
             borderRadius: x-large
             flexDirection: col
       - type: FeaturedItem
-        title: "Astir STD III\_– unser Schulungs-Einsitzer"
+        title: ''
         tagline: ''
         subtitle: "Astir STD III\_– unser Schulungs-Einsitzer"
         text: |+
