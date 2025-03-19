@@ -147,7 +147,7 @@ sections:
           gebracht haben. Dann steht der Prüfung nichts mehr im Weg.
 
         actions: []
-        colors: bg-neutral-fg-dark
+        colors: bg-dark-fg-light
         styles:
           self:
             padding:
