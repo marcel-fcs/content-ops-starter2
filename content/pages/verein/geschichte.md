@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: Gesschichte
+title: Verein
 sections:
   - type: GenericSection
     title:
