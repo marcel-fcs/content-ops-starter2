@@ -38,6 +38,17 @@
             "links": [
                 {
                     "type": "Link",
+                    "label": "Verein",
+                    "altText": "",
+                    "url": "/verein/geschichte",
+                    "showIcon": false,
+                    "icon": "arrowRight",
+                    "iconPosition": "right",
+                    "style": "secondary",
+                    "elementId": ""
+                },
+                {
+                    "type": "Link",
                     "label": "Vorstand",
                     "altText": "",
                     "url": "/verein/vorstand",
@@ -68,17 +79,6 @@
                     "iconPosition": "right",
                     "style": "secondary",
                     "elementId": ""
-                },
-                {
-                    "type": "Link",
-                    "label": "Geschichte",
-                    "altText": "",
-                    "url": "/verein/geschichte",
-                    "showIcon": false,
-                    "icon": "arrowRight",
-                    "iconPosition": "right",
-                    "style": "secondary",
-                    "elementId": ""
                 }
             ],
             "labelStyle": "secondary"
@@ -94,9 +94,20 @@
         },
         {
             "type": "Link",
-            "label": "Für Piloten",
+            "label": "Flugplatz",
             "altText": "",
             "url": "/piloten",
+            "showIcon": false,
+            "icon": "arrowRight",
+            "iconPosition": "right",
+            "style": "secondary",
+            "elementId": ""
+        },
+        {
+            "type": "Link",
+            "label": "Hier Landen: Fliegen ohne Betriebsleiter",
+            "altText": "",
+            "url": "/landen",
             "showIcon": false,
             "icon": "arrowRight",
             "iconPosition": "right",
@@ -108,28 +119,39 @@
             "altText": "Dropdown",
             "links": [
                 {
-                    "label": "Dropdown item",
-                    "url": "/",
+                    "label": "Deutsche Flugsicherung",
+                    "url": "https://secais.dfs.de/pilotservice/home.jsp",
+                    "icon": "arrowRight",
+                    "iconPosition": "left",
+                    "style": "secondary",
+                    "type": "Link"
+                },
+                {
+                    "label": "Deutscher Aero Club",
+                    "url": "https://www.daec.de/",
                     "icon": "arrowRight",
                     "iconPosition": "right",
                     "style": "secondary",
                     "type": "Link"
                 },
                 {
-                    "label": "Dropdown item",
-                    "url": "/",
+                    "label": "Ringheiligtum Pömmelte",
+                    "url": "https://www.himmelswege.de/orte/ringheiligtum-poemmelte",
                     "icon": "arrowRight",
                     "iconPosition": "right",
                     "style": "secondary",
                     "type": "Link"
                 },
                 {
-                    "label": "Dropdown item",
-                    "url": "/",
+                    "type": "Link",
+                    "label": "Freiwillige Feuerwehr Pömmelte",
+                    "altText": "",
+                    "url": "https://xn--gemeinde-pmmelte-vwb.de/feuerwehr/",
+                    "showIcon": false,
                     "icon": "arrowRight",
                     "iconPosition": "right",
                     "style": "secondary",
-                    "type": "Link"
+                    "elementId": ""
                 }
             ],
             "labelStyle": "secondary",
@@ -147,7 +169,7 @@
             "showIcon": true
         }
     ],
-    "variant": "logo-left-primary-nav-centered",
+    "variant": "logo-left-primary-nav-right",
     "colors": "bg-light-fg-dark",
     "type": "Header"
 }
