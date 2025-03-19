@@ -106,7 +106,7 @@
     "legalLinks": [
         {
             "label": "Terms",
-            "url": "/",
+            "url": "/impressum",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
