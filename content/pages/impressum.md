@@ -29,10 +29,6 @@ sections:
       type: ImageBlock
       url: /images/FLiegerclub_Logo_klein.jpg
       altText: Dope design preview
-    badge:
-      type: Badge
-      label: This is a badge
-      color: text-primary
     colors: bg-light-fg-dark
     styles:
       self:
