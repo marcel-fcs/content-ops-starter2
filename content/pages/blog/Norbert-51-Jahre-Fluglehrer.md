@@ -75,7 +75,7 @@ bottomSections:
             flexDirection: row
             justifyContent: center
       - type: FeaturedItem
-        title: Business Consulting
+        title: ''
         tagline: ''
         subtitle: ''
         text: ''
