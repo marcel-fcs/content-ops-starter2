@@ -32,16 +32,16 @@ sections:
         self:
           textAlign: center
     elementId: ''
-    colors: bg-light-fg-dark
+    colors: bg-dark-fg-light
     styles:
       self:
         alignItems: center
         flexDirection: row
         padding:
           - pt-32
-          - pl-11
+          - pl-0
           - pb-60
-          - pr-11
+          - pr-72
         justifyContent: flex-start
         margin:
           - ml-0
@@ -57,7 +57,7 @@ sections:
       backgroundPosition: center
       backgroundRepeat: no-repeat
       opacity: 100
-      url: /images/Bild2.jpg
+      url: /images/GEPO1789.JPG
   - type: FeaturedItemsSection
     title:
       text: Aktuelles
