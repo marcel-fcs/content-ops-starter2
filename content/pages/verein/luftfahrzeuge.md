@@ -85,7 +85,7 @@ sections:
       - type: FeaturedItem
         title: "Motorsegler Grob G109B\_– unser Schleppflugzeug"
         tagline: ''
-        subtitle: This is the item subtitle
+        subtitle: unser Schleppflugzeug
         text: |+
 
 
