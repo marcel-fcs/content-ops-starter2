@@ -190,7 +190,7 @@ sections:
     actions:
       - label: ältere Berichte
         altText: ''
-        url: /post
+        url: /blog/Ralf_Namibia
         showIcon: true
         icon: arrowRight
         iconPosition: right
