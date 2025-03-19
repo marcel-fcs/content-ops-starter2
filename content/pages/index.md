@@ -57,7 +57,7 @@ sections:
       backgroundPosition: center
       backgroundRepeat: no-repeat
       opacity: 100
-      url: /images/Bild2.jpg
+      url: /images/GEPO1789.JPG
   - type: FeaturedItemsSection
     title:
       text: Aktuelles
