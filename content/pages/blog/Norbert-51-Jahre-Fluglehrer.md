@@ -30,7 +30,6 @@ bottomSections:
         text: ''
         image:
           type: ImageBlock
-          url: /images/urkunde-638x1024.jpg
           altText: ''
           styles:
             self:
