@@ -34,6 +34,7 @@ bottomSections:
           styles:
             self:
               borderRadius: full
+          url: /images/Mose-1.jpg
         actions: []
         colors: bg-light-fg-dark
         styles:
