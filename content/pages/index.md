@@ -332,7 +332,7 @@ sections:
             flexDirection: col
     actions:
       - type: Button
-        label: Get started
+        label: Ältere Berichte
         altText: ''
         url: /blog
         showIcon: false
