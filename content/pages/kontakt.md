@@ -1,27 +1,7 @@
 ---
 type: PageLayout
 title: Kontakt
-sections:
-  - type: GenericSection
-    title:
-      type: TitleBlock
-      text: Kontakt
-      color: text-dark
-    subtitle: ''
-    text: "| Anschrift:             | **Fliegerclub\_Schönebeck e.V.**                          |\n| ---------------------- | -------------------------------------------------------- |\n|                        | **Flugplatz Zackmünde**                                  |\n|                        | **39249\_Pömmelte**                                       |\n|                        |                                                          |\n|                        |                                                          |\n| Telefon:               | **+49 3928 400647**                                      |\n| -Nur am Wochenende-    |                                                          |\n| **+49\_170 1601004**    |                                                          |\n| -Auch unter der Woche- |                                                          |\n| Telefax:               | **+49 3928 400647**                                      |\n| E-Mail:                | <info@fliegerclub-sbk.de>                                |\n| Homepage:              | [www.fliegerclub-sbk.de](http://www.fliegerclub-sbk.de/) |\n\n"
-    actions: []
-    media:
-      type: ImageBlock
-      url: /images/Anfahrt.png
-      altText: Fun feature preview
-    badge:
-      type: Badge
-      label: ''
-      color: text-primary
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        alignItems: center
+sections: []
 slug: /kontakt
 isDraft: false
 seo:
