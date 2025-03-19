@@ -289,7 +289,7 @@ sections:
         tagline: This is the tagline
         subtitle: jeden Samstag von 10 Uhr bis 18 Uhr
         text: |
-          Follow the tutorial to build your first Netlify Create site.
+          zusätzlich an gesetzlichen Feiertagen
         image:
           type: ImageBlock
           url: /images/icon-uhr.png
