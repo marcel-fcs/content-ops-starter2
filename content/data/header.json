@@ -104,6 +104,17 @@
             "elementId": ""
         },
         {
+            "type": "Link",
+            "label": "See Tutorials",
+            "altText": "",
+            "url": "/landen",
+            "showIcon": false,
+            "icon": "arrowRight",
+            "iconPosition": "right",
+            "style": "secondary",
+            "elementId": ""
+        },
+        {
             "label": "Links",
             "altText": "Dropdown",
             "links": [
