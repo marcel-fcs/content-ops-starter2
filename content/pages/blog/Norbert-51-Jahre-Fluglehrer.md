@@ -26,9 +26,8 @@ bottomSections:
         title: ''
         tagline: ''
         subtitle: ''
-        text: >+
-          <div style="text-align:
-          center">![](/images/PHOTO-2025-03-08-16-07-57-768x576.jpg)</div>
+        text: |+
+          <div style="text-align: center"></div>
 
         image:
           type: ImageBlock
