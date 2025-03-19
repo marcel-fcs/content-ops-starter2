@@ -20,7 +20,7 @@ featuredImage:
         - pr-0
 bottomSections:
   - type: CarouselSection
-    subtitle: This is a subtitle
+    subtitle: ''
     items:
       - type: FeaturedItem
         title: ''
