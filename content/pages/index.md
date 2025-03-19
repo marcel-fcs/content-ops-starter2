@@ -214,7 +214,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: List of features here
+      text: Aktuelles
       color: text-dark
       styles:
         self:
