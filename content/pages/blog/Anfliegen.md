@@ -1,6 +1,6 @@
 ---
 title: Anfliegen!
-slug: five-tips-for-starting-a-startup
+slug: Anfliegen
 date: '2023-03-05'
 excerpt: >-
   So, nach langer Winterpause gehts jetzt endlich wieder los! Nachdem unsere
