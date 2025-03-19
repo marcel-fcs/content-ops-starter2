@@ -56,7 +56,7 @@ bottomSections:
         text: ''
         image:
           type: ImageBlock
-          url: /images/img-placeholder-dark.png
+          url: /images/urkunde-638x1024.jpg
           altText: Jane Doe
           styles:
             self:
