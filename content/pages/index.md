@@ -294,7 +294,7 @@ sections:
           explicabo.
         image:
           type: ImageBlock
-          url: /images/img-placeholder.svg
+          url: /images/icon-uhr.png
           altText: Featured item
           styles:
             self:
