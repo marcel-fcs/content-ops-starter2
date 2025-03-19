@@ -81,39 +81,7 @@ sections:
         self:
           textAlign: center
     subtitle: "Sie erreichen den Flugplatz telefonisch unter 03928/400647. Das Telefon ist aber nicht immer besetzt. Bei dringenden Nachrichten sprechen sie bitte auf die Sprachbox. Danke!\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ Mitteilung an die Gäste des FCS:\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ Momentan sind leider keine Rundflüge mit unserem Motorsegler möglich. Sollten Sie bereits einen Gutschein dafür erworben haben, melden Sie sich gerne bei uns, über einen passenden Ersatz kann dann gemeinsam gesprochen werden. Vielen Dank für Ihr Verständnis!"
-    items:
-      - type: FeaturedItem
-        title: Anfliegen
-        tagline: Bericht
-        subtitle: ''
-        text: "So, nach langer Winterpause gehts jetzt endlich wieder los! Nachdem unsere Vereinsflugzeuge am Freitag die jährliche Prüfung bekommen haben, wurde am Samstag der erste Flugbetrieb des Jahres\_veranstaltet....\n\n![](https://www.fliegerclub-sbk.de/wp-content/uploads/2025/03/anfliegen_1-300x125.jpeg)\n\n\n\n\n\n\n\n"
-        image:
-          type: ImageBlock
-          url: /images/Bild3.jpg
-          altText: Placeholder image
-          styles:
-            self:
-              borderRadius: x-large
-        actions:
-          - type: Link
-            label: weiterlesen
-            altText: ''
-            url: /blog
-            showIcon: true
-            icon: arrowRight
-            iconPosition: right
-            style: secondary
-            elementId: ''
-        colors: bg-dark-fg-light
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: col
+    items: []
     actions:
       - type: Button
         label: ältere Berichte
