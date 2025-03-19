@@ -59,7 +59,7 @@ sections:
           Manövergeschwindigkeit: 170 km/h<br />
         image:
           type: ImageBlock
-          url: /images/Feuerweher.jpg
+          url: /images/Astir.jpg
           altText: Placeholder image
           styles:
             self:
