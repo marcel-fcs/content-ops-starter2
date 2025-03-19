@@ -88,22 +88,6 @@ sections:
               - pr-8
             borderRadius: x-large
             flexDirection: col
-      - type: FeaturedItem
-        title: Faux Fur Throw
-        subtitle: $ 88 – $ 176
-        actions: []
-        colors: bg-light-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-0
-              - pl-0
-              - pb-0
-              - pr-0
-            textAlign: left
-            borderRadius: none
-            flexDirection: col
-            justifyContent: center
     actions: []
     variant: two-col-grid
     colors: bg-light-fg-dark
