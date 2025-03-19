@@ -31,6 +31,10 @@ sections:
     styles:
       self:
         alignItems: center
+    badge:
+      type: Badge
+      label: 'Hier Landen: Fliegen ohne Betriebsleiter'
+      color: text-primary
 slug: /landen
 isDraft: false
 seo:
