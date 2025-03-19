@@ -136,7 +136,7 @@ sections:
             borderRadius: x-large
             flexDirection: row
       - type: FeaturedItem
-        title: Wie fliegt ein Segelflugzeug?
+        title: Behördliche Voraussetzungen für den Beginn der Ausbildung
         subtitle: ''
         text: >+
           Sie brauchen nichts weiter als ein polizeiliches Führungszeugnis und
