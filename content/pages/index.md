@@ -128,7 +128,7 @@ sections:
         textAlign: center
     badge:
       type: Badge
-      label: ' f'
+      label: '   '
       color: text-primary
   - type: CarouselSection
     items:
