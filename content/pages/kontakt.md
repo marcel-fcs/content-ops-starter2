@@ -8,9 +8,7 @@ sections:
       text: Kontakt
       color: text-dark
     subtitle: Increase your reach
-    text: >
-      A service that helps businesses to manage their social media accounts and
-      posts.
+    text: "| nschrift: | **Fliegerclub\_Schönebeck e.V.**                                                                |\n| --------- | ---------------------------------------------------------------------------------------------- |\n|           | **Flugplatz Zackmünde**                                                                        |\n|           | **39249\_Pömmelte**                                                                             |\n|           |                                                                                                |\n|           |                                                                                                |\n| Telefon:  | **+49 3928 400647**\n-Nur am Wochenende-\n**+49\_170 1601004**\n-Auch unter der Woche- |\n| Telefax:  | **+49 3928 400647**                                                                            |\n| E-Mail:   | <info@fliegerclub-sbk.de>                                                                      |\n| Homepage: | [www.fliegerclub-sbk.de](http://www.fliegerclub-sbk.de/)                                       |\n\n\n\n"
     actions:
       - type: Button
         label: Get started
