@@ -127,7 +127,7 @@ sections:
         text: ''
         image:
           type: ImageBlock
-          url: /images/Wam.jpg
+          url: /images/LS4-768x485.jpeg
           altText: Placeholder text
           styles:
             self:
