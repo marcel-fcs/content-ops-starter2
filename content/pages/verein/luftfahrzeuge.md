@@ -10,10 +10,7 @@ sections:
       styles:
         self:
           textAlign: center
-    subtitle: >-
-      In unserem Verein gibt es nicht nur Flugzeuge. Wir benötigen auch normale
-      Fahrzeugtechnik, um unsere Geräte, wie Flugzeuge und Winde, auf dem
-      Flugplatz zu bewegen.
+    subtitle: ''
     items:
       - type: FeaturedItem
         title: SKP - Startkontrollpunkt
