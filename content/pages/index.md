@@ -83,46 +83,6 @@ sections:
     subtitle: "Sie erreichen den Flugplatz telefonisch unter 03928/400647. Das Telefon ist aber nicht immer besetzt. Bei dringenden Nachrichten sprechen sie bitte auf die Sprachbox. Danke!\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ Mitteilung an die Gäste des FCS:\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ Momentan sind leider keine Rundflüge mit unserem Motorsegler möglich. Sollten Sie bereits einen Gutschein dafür erworben haben, melden Sie sich gerne bei uns, über einen passenden Ersatz kann dann gemeinsam gesprochen werden. Vielen Dank für Ihr Verständnis!"
     items:
       - type: FeaturedItem
-        title: 1.122 Kilometer im Segelflug
-        tagline: Bericht
-        subtitle: ''
-        text: >
-          Vom 03. bis zum 13. Januar 2025 sind Norbert und Ralf in Bitterwasser
-          geflogen. Auf diesem weltberühmten Segelflugplatz in Namibia wurden in
-          den letzten Jahren in der dortigen Flugsaison (November bis Januar)
-          jeweils weltweit die größte Anzahl an Segelflügen über 1.000 Kilometer
-          geflogen, neben vielen Landes- und auch Weltrekorden. Als Flugzeug
-          haben beide einen der leistungsfähigsten Doppelsitzer der Welt
-          gechartert, eine „EB 28 Edition“ mit einer Spannweite von über 28
-          Metern....
-        image:
-          type: ImageBlock
-          url: /images/Bild2.jpg
-          altText: Placeholder Image
-          styles:
-            self:
-              borderRadius: x-large
-        actions:
-          - type: Link
-            label: weiterlesen
-            altText: ''
-            url: /blog/Ralf_Namibia
-            showIcon: true
-            icon: arrowRight
-            iconPosition: right
-            style: secondary
-            elementId: ''
-        colors: bg-dark-fg-light
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: col
-      - type: FeaturedItem
         title: Unser Norbert ist seit 51 Jahren Fluglehrer!
         tagline: Bericht
         subtitle: ''
