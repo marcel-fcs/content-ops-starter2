@@ -69,13 +69,7 @@ sections:
     text: >
       A service that helps businesses to manage their social media accounts and
       posts.
-    actions:
-      - type: Button
-        label: Get started
-        url: /
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
+    actions: []
     colors: bg-light-fg-dark
     styles:
       self:
