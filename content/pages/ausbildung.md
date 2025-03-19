@@ -213,7 +213,7 @@ sections:
             flexDirection: row
             justifyContent: center
       - type: FeaturedItem
-        title: Ist Segelfliegen gefährlich?
+        title: ''
         subtitle: Ist Segelfliegen gefährlich?
         text: >+
           Einen Motor, der stehen bleiben könnte, gibt es nicht. Die Festigkeit
