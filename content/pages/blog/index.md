@@ -1,6 +1,6 @@
 ---
 title: Verein
-slug: /verein
+slug: /blog
 numOfPostsPerPage: 8
 enableSearch: true
 topSections:
