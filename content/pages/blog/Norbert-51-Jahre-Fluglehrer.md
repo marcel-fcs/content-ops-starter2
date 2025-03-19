@@ -26,10 +26,8 @@ bottomSections:
         title: ''
         tagline: ''
         subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: |
+          ![](/images/PHOTO-2025-03-08-16-07-57-768x576.jpg)
         image:
           type: ImageBlock
           url: /images/norbert.jpg
