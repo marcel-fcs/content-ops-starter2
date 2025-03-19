@@ -77,7 +77,7 @@ bottomSections:
       - type: FeaturedItem
         title: ''
         tagline: Feature 2
-        subtitle: Be in good company
+        subtitle: ''
         text: ''
         image:
           type: ImageBlock
