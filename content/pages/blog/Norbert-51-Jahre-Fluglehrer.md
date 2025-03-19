@@ -57,7 +57,7 @@ bottomSections:
         image:
           type: ImageBlock
           url: /images/urkunde-638x1024.jpg
-          altText: Jane Doe
+          altText: ''
           styles:
             self:
               borderRadius: full
