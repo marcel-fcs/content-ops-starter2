@@ -269,7 +269,7 @@ sections:
       altText: altText of the image
       backgroundSize: contain
       backgroundPosition: left-top
-      backgroundRepeat: repeat
+      backgroundRepeat: no-repeat
       opacity: 36
       url: /images/LS4-768x485.jpeg
   - title: Divider
