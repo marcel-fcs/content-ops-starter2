@@ -83,7 +83,7 @@ sections:
             borderRadius: x-large
             flexDirection: col
       - type: FeaturedItem
-        title: "Motorsegler Grob G109B\_– unser Schleppflugzeug"
+        title: Motorsegler Grob G109B
         tagline: ''
         subtitle: unser Schleppflugzeug
         text: |+
