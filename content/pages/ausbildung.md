@@ -48,7 +48,7 @@ sections:
       styles:
         self:
           textAlign: center
-    subtitle: ''
+    subtitle: 'Hier ein paar Antworten auf oft gestellte Fragen:'
     items:
       - type: FeaturedItem
         title: Account Executive
