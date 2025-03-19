@@ -9,7 +9,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Fliegen Sie mit uns mit!
+    subtitle: Kommen Sie vorbei und fliegen Sie bei uns mit!
     text: "Der gute Rod Steward wollte sicher einmal Segelflieger werden. Denn was gibt es schöneres, als wie ein Vogel durch die Lüfte zu fliegen. Bei uns können Sie diese einmalige Gefühl an Bord eines unserer Flugzeuge erleben. Wenn Sie dazu mehr wissen wollen, rufen sie uns an: +49 3928 400647. Wenn keiner da ist, besprechen Sie bitte den Anrufbeantworter, oder schreiben uns eine eMail:\_<info@fliegerclub-sbk.de>. Sie haben dabei die freie Auswahl zwischen dem Segelflug oder dem Motorflug.\n\n"
     actions:
       - label: See open positions
