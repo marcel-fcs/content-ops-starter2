@@ -1,9 +1,9 @@
 {
     "type": "Person",
-    "name": "Faizah Chan",
-    "role": "Co-founder & CEO",
+    "name": "Hartmut Schütze",
+    "role": "2. Vorsitzender",
     "image": {
-        "url": "/images/avatar2.svg",
+        "url": "/images/IMG_0150-221x300.jpeg",
         "altText": "Faizah Chan",
         "styles": {
             "self": {
@@ -33,5 +33,5 @@
             "justifyContent": "center"
         }
     },
-    "bio": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.\n"
+    "bio": "<div style=\"text-align: left\">Telefon: 0179 / 7540109 \nEmail: <hartmut.schuetze@schuetze-staebe.de></div>\n\n"
 }

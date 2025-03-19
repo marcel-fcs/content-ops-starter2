@@ -1,9 +1,9 @@
 {
     "type": "Person",
-    "name": "Asher Schmitt",
-    "role": "Co-founder & CEO",
+    "name": "Ralf Gerigk",
+    "role": "Schatzmeister",
     "image": {
-        "url": "/images/avatar3.svg",
+        "url": "/images/Gerigk-2016-268x300 (1).jpg",
         "altText": "Asher Schmitt",
         "styles": {
             "self": {
@@ -33,5 +33,5 @@
             "justifyContent": "center"
         }
     },
-    "bio": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.\n"
+    "bio": "Telefon: 0175 / 5734174 <br />\nEmail: <schatzmeister.fcs@gmail.com>\n"
 }

@@ -1,10 +1,10 @@
 {
     "type": "Person",
-    "name": "Nina Mercado",
-    "role": "Co-founder & CEO",
+    "name": "Heiner Nierlich",
+    "role": "Abteilungsleiter Modellflug",
     "image": {
-        "url": "/images/avatar4.svg",
-        "altText": "Nina Mercado",
+        "url": "/images/Heiner-Nierlich-232x300.jpg",
+        "altText": "Heiner Nierlich",
         "styles": {
             "self": {
                 "borderRadius": "medium",
@@ -33,5 +33,5 @@
             "justifyContent": "center"
         }
     },
-    "bio": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.\n"
+    "bio": "Telefon: 0152 27182835 <br />\nEmail: <heiner.nierlich@gmx.de>\n"
 }
