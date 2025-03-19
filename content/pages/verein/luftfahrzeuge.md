@@ -45,7 +45,7 @@ sections:
         tagline: ''
         subtitle: ''
         text: |
-          \**Technische Daten <br />**
+          *Technische Daten <br />*
           Spannweite: 15,0 m <br />
           Rumpflänge: 6,75 m <br />
           Flügelfläche: 12,4 m² <br />
