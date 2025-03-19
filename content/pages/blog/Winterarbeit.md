@@ -8,7 +8,7 @@ excerpt: >-
   Donec sed facilisis nibh.
 featuredImage:
   type: ImageBlock
-  url: /images/abstract-feature1.svg
+  url: /images/WhatsApp-Image-2025-02-01-at-15.46.16-768x432.jpeg
   altText: Thumbnail
   elementId: ''
   styles:
