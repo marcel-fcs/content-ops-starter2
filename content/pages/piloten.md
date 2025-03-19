@@ -1,28 +1,7 @@
 ---
 type: PageLayout
 title: Für Piloten
-sections:
-  - type: RecentPostsSection
-    title:
-      type: TitleBlock
-      text: Recent posts
-      color: text-dark
-      styles:
-        self:
-          textAlign: center
-    recentCount: 60
-    showThumbnail: true
-    showExcerpt: true
-    showDate: false
-    showAuthor: true
-    actions: []
-    elementId: ''
-    variant: three-col-grid
-    colors: bg-light-fg-dark
-    hoverEffect: shadow-plus-move-up
-    styles:
-      self:
-        justifyContent: center
+sections: []
 slug: /piloten
 isDraft: false
 seo:
