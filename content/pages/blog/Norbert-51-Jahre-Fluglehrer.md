@@ -28,13 +28,6 @@ bottomSections:
         tagline: ''
         subtitle: ''
         text: ''
-        image:
-          type: ImageBlock
-          altText: ''
-          styles:
-            self:
-              borderRadius: full
-          url: /images/Mose-1.jpg
         actions: []
         colors: bg-light-fg-dark
         styles:
