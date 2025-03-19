@@ -18,7 +18,7 @@ sections:
       - content/data/person5.json
     actions: []
     variant: three-col-grid
-    colors: bg-neutral-fg-dark
+    colors: bg-dark-fg-light
     styles:
       self:
         padding:
