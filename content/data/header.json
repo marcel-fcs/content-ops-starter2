@@ -111,7 +111,7 @@
                     "label": "Deutsche Flugsicherung",
                     "url": "https://secais.dfs.de/pilotservice/home.jsp",
                     "icon": "arrowRight",
-                    "iconPosition": "right",
+                    "iconPosition": "left",
                     "style": "secondary",
                     "type": "Link"
                 },
