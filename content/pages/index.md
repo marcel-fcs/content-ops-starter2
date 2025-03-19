@@ -285,7 +285,7 @@ sections:
   - type: CarouselSection
     items:
       - type: FeaturedItem
-        title: Social Media Management
+        title: Flugbetrieb
         tagline: Feature 1
         subtitle: Increase your reach
         text: >-
