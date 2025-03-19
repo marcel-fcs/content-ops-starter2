@@ -15,7 +15,7 @@ sections:
       - type: FeaturedItem
         title: SKP
         tagline: ''
-        subtitle: This is the item subtitle
+        subtitle: "Hier sitzt der Startleiter. Er hat das Sagen\_und sorgt für einen reibungsfreien Flugbetrieb."
         text: ''
         image:
           type: ImageBlock
