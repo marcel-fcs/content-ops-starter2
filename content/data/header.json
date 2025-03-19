@@ -49,6 +49,17 @@
                 },
                 {
                     "type": "Link",
+                    "label": "Geschichte",
+                    "altText": "",
+                    "url": "/verein/geschichte",
+                    "showIcon": false,
+                    "icon": "arrowRight",
+                    "iconPosition": "right",
+                    "style": "secondary",
+                    "elementId": ""
+                },
+                {
+                    "type": "Link",
                     "label": "Luftfahrzeuge",
                     "altText": "",
                     "url": "/verein/luftfahrzeuge",
@@ -63,17 +74,6 @@
                     "label": "Fahrzeuge",
                     "altText": "",
                     "url": "/verein/fahrzeuge",
-                    "showIcon": false,
-                    "icon": "arrowRight",
-                    "iconPosition": "right",
-                    "style": "secondary",
-                    "elementId": ""
-                },
-                {
-                    "type": "Link",
-                    "label": "Geschichte",
-                    "altText": "",
-                    "url": "/verein/geschichte",
                     "showIcon": false,
                     "icon": "arrowRight",
                     "iconPosition": "right",
