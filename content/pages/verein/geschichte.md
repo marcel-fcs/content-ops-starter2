@@ -8,9 +8,34 @@ sections:
       text: Social Media Management
       color: text-dark
     subtitle: Increase your reach
-    text: >
-      A service that helps businesses to manage their social media accounts and
-      posts.
+    text: >+
+      Der Fliegerclub Schönebeck besteht seit 1990 als eingetragener Verein. Die
+      ersten Starts wurden aber bereits 1958 auf diesem Flugplatz
+      ([EDOZ](https://www.fliegerclub-sbk.de/kontakt/)) durchgeführt. Derzeit
+      setzt sich der Verein aus den Sektionen Segelflug und Modellflug zusammen.
+      Prinzipiell steht unser Verein aber allen Luftsportarten offen gegenüber.
+
+
+      Im Club sind aktuell 45 Mitglieder organisiert: 18 im Segelflug, 24
+      Modellflieger, 3 Motorflieger sowie fördernde (passive) Mitglieder und
+      mehrere Kinder.
+
+
+      Wir nehmen aber gerne Mitglieder auf, auch noch-nicht-Flieger, die sich
+      zum Segelflugzeugführer ausbilden lassen möchten!
+
+
+      Im Flugzeugbestand des Clubs befinden sich 1 Motorsegler, 1 doppelsitziges
+      Segelflugzeug und 1 einsitziges Segelflugzeug. Zusätzlich sind weitere 2
+      private Segelflugzeuge am Platz. Diese gehören unseren einzelnen
+      Mitgliedern.
+
+
+      Die Modellflieger verfügen über ein clubeigenes Motormodell mit einem
+      Lehrer-Schüler-Sendesystem.
+
+
+
     actions:
       - type: Button
         label: Get started
