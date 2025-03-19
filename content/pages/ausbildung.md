@@ -188,18 +188,16 @@ sections:
         title: 'Wie lange dauert es, bis man alleine fliegen darf?'
         subtitle: ''
         text: >+
-          Segelflugzeuge brauchen zum Fliegen keinen Wind. Sie fliegen auch –
-          und genauso gut – wenn es windstill ist. Beim Start wird das
-          Segelflugzeug durch eine Winde oder ein Motorflugzeug auf eine
-          bestimmte Höhe gebracht. Anschließend fliegt es auf einer schwach nach
-          unten geneigten Bahn. Dabei muss es für seinen Gleitflug ständig etwas
-          von seiner Ausgangshöhe opfern. Das Segelflugzeug setzt seine Flughöhe
-          in Flugstrecke um – solange, bis die Höhe verbraucht ist und das
-          Flugzeug landen muss.
+          Im allgemeinen hängt es von jedem selbst ab, nach welcher Zeit er/sie
+          den ersten Solostart macht. Das kann nach wenigen Wochen oder erst
+          nach Monaten der Fall sein. Bei der Schulung in einem Verein stehen
+          für die Ausbildung in der Regel nur die Wochenenden und Feiertage zur
+          Verfügung. Daher dauert es etwas länger als in den gewerblichen
+          Flugschulen, ist jedoch um vieles preiswerter.
 
-          Moderne Segelflugzeuge erreichen spielend 250 km/h. Der
-          Höhenweltrekord liegt bei 14.000 Metern, die weiteste geflogene
-          Strecke bei 2050 km.
+          Wie beim Auto-Führerschein auch hat das Lebensalter, die
+          Auffassungsgabe und das Gefühl für den Umgang mit Technik einen
+          Einfluss auf die Dauer der Ausbildung.
 
         actions: []
         colors: bg-dark-fg-light
