@@ -248,7 +248,7 @@ sections:
       - type: FeaturedItem
         title: Unser Norbert ist seit 51 Jahren Fluglehrer!
         tagline: Bericht
-        subtitle: This is the item subtitle
+        subtitle: ''
         text: >+
           Norbert Oelze wurde am 8.3. auf der Hauptversammlung des
           Luftsportverbands Sachsen-Anhalt für 50 Jahre Fluglehrertätigkeit mit
