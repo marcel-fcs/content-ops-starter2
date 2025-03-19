@@ -5,7 +5,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: Open positions
+      text: Wie werde ich Pilot?
       color: text-dark
       styles:
         self:
