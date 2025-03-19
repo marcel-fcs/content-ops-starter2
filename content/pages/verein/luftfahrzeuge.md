@@ -5,7 +5,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: Fahrzeuge
+      text: Luftfahrzeuge
       color: text-primary
       styles:
         self:
