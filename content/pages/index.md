@@ -126,6 +126,10 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
+    badge:
+      type: Badge
+      label: ' f'
+      color: text-primary
   - type: CarouselSection
     items:
       - type: FeaturedItem
