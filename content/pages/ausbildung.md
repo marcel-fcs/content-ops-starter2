@@ -240,18 +240,11 @@ sections:
         title: ist Segelfliegen teuer?
         subtitle: ''
         text: >+
-          Segelflugzeuge brauchen zum Fliegen keinen Wind. Sie fliegen auch –
-          und genauso gut – wenn es windstill ist. Beim Start wird das
-          Segelflugzeug durch eine Winde oder ein Motorflugzeug auf eine
-          bestimmte Höhe gebracht. Anschließend fliegt es auf einer schwach nach
-          unten geneigten Bahn. Dabei muss es für seinen Gleitflug ständig etwas
-          von seiner Ausgangshöhe opfern. Das Segelflugzeug setzt seine Flughöhe
-          in Flugstrecke um – solange, bis die Höhe verbraucht ist und das
-          Flugzeug landen muss.
-
-          Moderne Segelflugzeuge erreichen spielend 250 km/h. Der
-          Höhenweltrekord liegt bei 14.000 Metern, die weiteste geflogene
-          Strecke bei 2050 km.
+          Schwer zu sagen. Jedenfalls nicht teurer als beispielsweise Skifahren,
+          Surfen, Squash, Sportschießen, Angeln, Modelleisenbahn u. ä. Wer sich
+          engagiert an den anfallenden Vereinsarbeiten beteiligt, fliegt
+          günstig. Für Jugendliche und Studenten haben die meisten Vereine
+          außerdem Sondertarife, durch die das Fliegen sehr preiswert wird.
 
         actions: []
         colors: bg-dark-fg-light
