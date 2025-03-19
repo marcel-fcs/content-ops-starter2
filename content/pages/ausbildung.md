@@ -127,10 +127,23 @@ sections:
       - type: FeaturedItem
         title: Gibt es einen Flugzeugführerschein?
         subtitle: Engineering
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+          Ja, nur heißt er Luftfahrerschein für Segelflugzeugführer. Man bekommt
+          ihn nach einer gründlichen praktischen und theoretischen Ausbildung,
+          die sich in mehrere Abschnitte gliedert.
+
+
+          Die A-Prüfung beendet den ersten Ausbildungsabschnitt mit drei Flügen
+          ohne Lehrer.
+
+          Bei der B- und der C-Prüfung werden weitere fliegerische Fähigkeiten
+          nachgewiesen.
+
+          Erst dann steht die staatliche Luftfahrerscheinprüfung an, die die
+          Ausbildung abschließt.
+
+
+
         actions: []
         colors: bg-neutral-fg-dark
         styles:
