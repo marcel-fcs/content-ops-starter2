@@ -3,9 +3,9 @@ title: Anfliegen!
 slug: five-tips-for-starting-a-startup
 date: '2023-03-05'
 excerpt: >-
-  Sit ratione eligendi et quis distinctio et maiores accusantium aut accusamus
-  facere sit repellat quidem qui alias nostrum et earum enim. Cum quis sint eos
-  dolor quas ad odit ipsum qui quia eius.
+  So, nach langer Winterpause gehts jetzt endlich wieder los! Nachdem unsere
+  Vereinsflugzeuge am Freitag die jährliche Prüfung bekommen haben, wurde am
+  Samstag der erste Flugbetrieb des Jahres veranstaltet. 
 featuredImage:
   url: /images/Bild3.jpg
   altText: Thumbnail
