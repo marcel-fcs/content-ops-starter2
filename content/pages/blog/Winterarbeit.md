@@ -64,10 +64,13 @@ styles:
   self:
     flexDirection: col
 ---
-Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor pretium id. Sed imperdiet mattis eleifend. Vivamus suscipit et neque imperdiet venenatis.
+**Wie beschäftigt man sich eigentlich im Winter, wenn man nicht fliegt?** Man zehrt natürlich von der im Sommer angesammelten Arbeit, damit man auch zwischen Oktober und März Gründe hat, ein Feierabendbier nach abgeschlossener Arbeit zu genießen.
 
-> Vestibulum ullamcorper risus auctor eleifend consequat.
+![](https://www.fliegerclub-sbk.de/wp-content/uploads/2025/02/WhatsApp-Image-2025-02-01-at-15.46.16-300x169.jpeg)Dieses Jahr sind wir mit der Winterarbeit gut voran![](https://www.fliegerclub-sbk.de/wp-content/uploads/2025/02/WhatsApp-Image-2025-01-11-at-17.48.08-461x1024.jpeg) gekommen. So wurden unter anderem die Flugzeuge wieder fit gemacht, die nun also bis auf das sogenannte *Airworthiness Review Certificate (ARC)* wieder saisonbereit sind. Reparaturen wurden auch an den auf dem Flugplatz genutzten Autos durchgeführt, ebenso wie der Winde. Diese verfügt jetzt über zwei Kunststoffseile, womit der Schönebecker Verein nun auf dem neuesten Stand der (Winden)Technik ist.
 
-In malesuada sed urna eget vehicula. Donec fermentum tortor sit amet nisl elementum fringilla. Pellentesque dapibus suscipit faucibus. Nullam malesuada sed urna quis rutrum. Donec facilisis lorem id maximus mattis. Vestibulum quis elit magna. Vestibulum accumsan blandit consequat. Phasellus quis posuere quam.
+![](https://www.fliegerclub-sbk.de/wp-content/uploads/2025/02/WhatsApp-Image-2025-01-11-at-17.48.08-1-300x225.jpeg)
 
-Vivamus mollis in tellus ac ullamcorper. Vestibulum sit amet bibendum ipsum, vitae rutrum ex. Nullam cursus, urna et dapibus aliquam, urna leo euismod metus, eu luctus justo mi eget mauris. Proin felis leo, volutpat et purus in, lacinia luctus eros. Pellentesque lobortis massa scelerisque lorem ullamcorper, sit amet elementum nulla scelerisque. In volutpat efficitur nulla, aliquam ornare lectus ultricies ac. Mauris sagittis ornare dictum. Nulla vel felis ut purus fermentum pretium. Sed id lectus ac diam aliquet venenatis. Etiam ac auctor enim. Nunc velit mauris, viverra vel orci ut, egestas rhoncus diam. Morbi scelerisque nibh tellus, vel varius urna malesuada sed. Etiam ultricies sem consequat, posuere urna non, maximus ex. Mauris gravida diam sed augue condimentum pulvinar vel ac dui. Integer vel convallis justo.
+Auch wenn das Wetter aktuell noch winterlich ist, kitzelt es doch, wenn mal Sonnenschein und blauer Himmel zu sehen ist, in den Fingern. Um Abhilfe zu schaffen, ist der Saisonbeginn 2025 bereits Anfang März geplant. Interessierte können also gerne Samstags vorbeischauen, vorausgesetzt natürlich, das Wetter stimmt. Ein Artikel zum ersten Flugtag folgt.
+
+
+
