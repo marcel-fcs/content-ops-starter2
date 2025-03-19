@@ -24,7 +24,7 @@ sections:
         text: ''
         image:
           type: ImageBlock
-          url: /images/SKP.jpg
+          url: /images/Twin.jpg
           altText: Placeholder Image
           styles:
             self:
