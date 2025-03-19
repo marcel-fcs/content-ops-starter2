@@ -83,10 +83,6 @@ sections:
         icon: arrowRight
         iconPosition: right
         style: primary
-    badge:
-      type: Badge
-      label: ''
-      color: text-primary
     colors: bg-light-fg-dark
     styles:
       self:
