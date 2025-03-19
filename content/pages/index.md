@@ -246,7 +246,7 @@ sections:
             borderRadius: x-large
             flexDirection: col
       - type: FeaturedItem
-        title: Feature Item Three
+        title: Unser Norbert ist seit 51 Jahren Fluglehrer!
         tagline: Bericht
         subtitle: This is the item subtitle
         text: >
