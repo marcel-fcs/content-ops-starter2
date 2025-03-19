@@ -81,7 +81,7 @@ bottomSections:
         text: ''
         image:
           type: ImageBlock
-          url: /images/img-placeholder.svg
+          url: /images/norbert.jpg
           altText: Business consulting
           elementId: ''
           styles:
