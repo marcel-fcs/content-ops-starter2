@@ -146,7 +146,7 @@ sections:
       - type: Button
         label: ältere Beiträge
         altText: ''
-        url: /blogs
+        url: /blog
         showIcon: true
         icon: arrowRight
         iconPosition: right
