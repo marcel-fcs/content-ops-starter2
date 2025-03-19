@@ -287,7 +287,7 @@ sections:
       - type: FeaturedItem
         title: Flugbetrieb
         tagline: This is the tagline
-        subtitle: This is the item subtitle
+        subtitle: jeden Samstag von 10 Uhr bis 18 Uhr
         text: |
           Follow the tutorial to build your first Netlify Create site.
         image:
