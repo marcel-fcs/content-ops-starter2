@@ -92,7 +92,7 @@ sections:
           Motorsegler sein Triebwerk und kann so weiterfliegen.
 
         actions: []
-        colors: bg-neutral-fg-dark
+        colors: bg-dark-fg-light
         styles:
           self:
             padding:
