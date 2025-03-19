@@ -7,7 +7,7 @@ sections:
       type: TitleBlock
       text: Verein
       color: text-dark
-    subtitle: Increase your reach
+    subtitle: ''
     text: >+
       Der Fliegerclub Schönebeck besteht seit 1990 als eingetragener Verein. Die
       ersten Starts wurden aber bereits 1958 auf diesem Flugplatz
