@@ -2,7 +2,7 @@
 type: PostLayout
 title: Winterarbeit kurz vor dem Abschluss
 date: '2025-02-15'
-author: content/data/person1.json
+author: content/data/person2.json
 excerpt: >-
   Facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper.
   Donec sed facilisis nibh.
