@@ -8,7 +8,7 @@ excerpt: >-
   Donec sed facilisis nibh.
 featuredImage:
   type: ImageBlock
-  url: /images/Logo_Frequenz.jpg
+  url: /images/Bild2.jpg
   altText: Thumbnail
   elementId: ''
   styles:
