@@ -142,7 +142,16 @@ sections:
     showExcerpt: true
     showDate: true
     showAuthor: true
-    actions: []
+    actions:
+      - type: Button
+        label: Get started
+        altText: ''
+        url: /blogs
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: secondary
+        elementId: ''
     elementId: ''
     variant: three-col-grid
     colors: bg-light-fg-dark
