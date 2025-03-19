@@ -286,7 +286,7 @@ sections:
     items:
       - type: FeaturedItem
         title: Flugbetrieb
-        tagline: 'jeden Samstag von 10:00 - 18:00 Uhr'
+        tagline: ''
         subtitle: 'jeden Samstag von 10:00 - 18:00 Uhr'
         text: |
           zusätzlich an den gesetzlichen Feiertagen
