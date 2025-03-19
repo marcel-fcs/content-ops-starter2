@@ -96,10 +96,21 @@ sections:
           Wie kommt es, dass Segelflugzeuge viele hundert Kilometer weit fliegen
           können?
         subtitle: Marketing
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+          Während des Gleitfluges versucht der Segelflieger Thermik zu finden.
+          Thermik ist von der Sonneneinstrahlung erwärmte Luft, die vom Boden
+          aufsteigt. Diese aufsteigende Luft nutzt der Segelflieger. Durch
+          ständiges Kreisen bleibt er innerhalb des Aufwindes und klettert mit
+          ihm.
+
+          Beim Streckenflug gleitet er dann abwärts zum nächsten Aufwind,
+          gewinnt dort wieder Höhe, gleitet zum übernächsten usw.
+
+          Manche Segelflugzeuge besitzen einen Motor. Es sind echte
+          Segelflugzeuge, die ohne Motor ebenso gut fliegen. Reicht die Thermik
+          nicht aus, um den Heimatflugplatz zu erreichen, startet der
+          Motorsegler sein Triebwerk und kann so weiterfliegen.
+
         actions: []
         colors: bg-neutral-fg-dark
         styles:
