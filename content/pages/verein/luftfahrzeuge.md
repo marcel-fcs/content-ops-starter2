@@ -123,7 +123,7 @@ sections:
       - type: FeaturedItem
         title: Großflächenmäher
         tagline: ''
-        subtitle: John Deere Wam 1600
+        subtitle: unser Leistungs-Einsitzer
         text: ''
         image:
           type: ImageBlock
