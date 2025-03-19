@@ -190,7 +190,7 @@ sections:
     actions:
       - label: ältere Berichte
         altText: ''
-        url: /blog
+        url: /post
         showIcon: true
         icon: arrowRight
         iconPosition: right
