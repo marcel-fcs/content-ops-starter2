@@ -45,18 +45,18 @@ sections:
         tagline: ''
         subtitle: ''
         text: |
-          **Technische Daten \**
-          Spannweite: 15,0 m \
-          Rumpflänge: 6,75 m
-          Flügelfläche: 12,4 m²
-          Streckung: 18,0
-          Flächenbelastung: 30,6 kg/m²
-          Leergewicht: 260 kg
-          Max. Gewicht: 380 kg
-          Geringstes Sinken: 0,62 m/s bei 76 km/h
-          Gleitzahl: 36 bei 92 km/h
-          Höchstgeschwindigkeit: 250 km/h
-          Manövergeschwindigkeit: 170 km/h
+          \**Technische Daten <br />**
+          Spannweite: 15,0 m <br />
+          Rumpflänge: 6,75 m <br />
+          Flügelfläche: 12,4 m² <br />
+          Streckung: 18,0 <br />
+          Flächenbelastung: 30,6 kg/m² <br />
+          Leergewicht: 260 kg <br />
+          Max. Gewicht: 380 kg <br />
+          Geringstes Sinken: 0,62 m/s bei 76 km/h <br />
+          Gleitzahl: 36 bei 92 km/h<br />
+          Höchstgeschwindigkeit: 250 km/h<br />
+          Manövergeschwindigkeit: 170 km/h<br />
         image:
           type: ImageBlock
           url: /images/Feuerweher.jpg
