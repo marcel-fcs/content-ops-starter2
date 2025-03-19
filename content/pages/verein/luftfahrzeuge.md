@@ -16,8 +16,7 @@ sections:
         title: SKP
         tagline: ''
         subtitle: This is the item subtitle
-        text: |
-          Follow the tutorial to build your first Netlify Create site.
+        text: ''
         image:
           type: ImageBlock
           url: /images/SKP.jpg
