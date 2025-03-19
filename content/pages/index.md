@@ -12,7 +12,7 @@ sections:
           fontWeight: 400
     subtitle: Entdecke mit uns eine neue Dimension!
     text: |
-      Schon immer davon geträumt Pilot zu werden?         
+      Schon immer davon geträumt Pilot zu werden? 
       Mit uns kann Ihr Traum wahr werden!
     actions:
       - label: Hier geht's zu deinem Flug
@@ -62,16 +62,17 @@ sections:
       url: /images/GEPO1789.JPG
   - type: FeaturedItemsSection
     title:
+      type: TitleBlock
       text: Aktuelles
       color: text-dark
       styles:
         self:
           textAlign: center
-      type: TitleBlock
-    subtitle: "Sie erreichen den Flugplatz telefonisch unter 03928/400647. Das Telefon ist aber nicht immer besetzt. Bei dringenden Nachrichten sprechen sie bitte auf die Sprachbox. Danke!\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ Mitteilung an die Gäste des FCS:\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ Momentan sind leider keine Rundflüge mit unserem Motorsegler möglich. Sollten Sie bereits einen Gutschein dafür erworben haben, melden Sie sich gerne bei uns, über einen passenden Ersatz kann dann gemeinsam gesprochen werden. Vielen Dank für Ihr Verständnis!"
+    subtitle: "Sie erreichen den Flugplatz telefonisch unter 03928/400647. Das Telefon ist aber nicht immer besetzt. Bei dringenden Nachrichten sprechen sie bitte auf die Sprachbox. Danke!\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ Mitteilung an die Gäste des FCS:\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ Momentan sind leider keine Rundflüge mit unserem Motorsegler möglich. Sollten Sie bereits einen Gutschein dafür erworben haben, melden Sie sich gerne bei uns, über einen passenden Ersatz kann dann gemeinsam gesprochen werden. Vielen Dank für Ihr Verständnis!"
     items:
       - type: FeaturedItem
         title: 1.122 Kilometer im Segelflug
+        tagline: Bericht
         subtitle: ''
         text: >
           Vom 03. bis zum 13. Januar 2025 sind Norbert und Ralf in Bitterwasser
@@ -82,6 +83,13 @@ sections:
           haben beide einen der leistungsfähigsten Doppelsitzer der Welt
           gechartert, eine „EB 28 Edition“ mit einer Spannweite von über 28
           Metern....
+        image:
+          type: ImageBlock
+          url: /images/Bild2.jpg
+          altText: Placeholder Image
+          styles:
+            self:
+              borderRadius: x-large
         actions:
           - type: Link
             label: weiterlesen
@@ -92,7 +100,6 @@ sections:
             iconPosition: right
             style: secondary
             elementId: ''
-        elementId: null
         colors: bg-dark-fg-light
         styles:
           self:
@@ -102,19 +109,10 @@ sections:
               - pb-8
               - pr-8
             borderRadius: x-large
-            flexDirection: row
-            justifyContent: center
-            textAlign: left
-        image:
-          type: ImageBlock
-          altText: Lightning bolt symbol on red background
-          elementId: ''
-          url: /images/Bild2.jpg
-          styles:
-            self:
-              borderRadius: x-large
+            flexDirection: col
+      - type: FeaturedItem
+        title: Unser Norbert ist seit 51 Jahren Fluglehrer!
         tagline: Bericht
-      - title: Unser Norbert ist seit 51 Jahren Fluglehrer!
         subtitle: ''
         text: >+
           Norbert Oelze wurde am 8.3. auf der Hauptversammlung des
@@ -123,10 +121,9 @@ sections:
           Eine verdiente Auszeichnung!...
 
         image:
-          url: /images/Wam.jpg
-          altText: Featured icon two
-          elementId: ''
           type: ImageBlock
+          url: /images/norbert.jpg
+          altText: Placeholder image
           styles:
             self:
               borderRadius: x-large
@@ -149,19 +146,16 @@ sections:
               - pb-8
               - pr-8
             borderRadius: x-large
-            flexDirection: row
-            textAlign: left
-            justifyContent: center
-        type: FeaturedItem
+            flexDirection: col
+      - type: FeaturedItem
+        title: Anfliegen
         tagline: Bericht
-      - title: Anfliegen
         subtitle: ''
-        text: "So, nach langer Winterpause gehts jetzt endlich wieder los! Nachdem unsere Vereinsflugzeuge am Freitag die jährliche Prüfung bekommen haben, wurde am Samstag der erste Flugbetrieb des Jahres\_veranstaltet....\n\n![](https://www.fliegerclub-sbk.de/wp-content/uploads/2025/03/anfliegen_1-300x125.jpeg)\n\n![](https://www.fliegerclub-sbk.de/wp-content/uploads/2025/03/anfliegen_2-300x262.jpeg)\n"
+        text: "So, nach langer Winterpause gehts jetzt endlich wieder los! Nachdem unsere Vereinsflugzeuge am Freitag die jährliche Prüfung bekommen haben, wurde am Samstag der erste Flugbetrieb des Jahres\_veranstaltet....\n\n![](https://www.fliegerclub-sbk.de/wp-content/uploads/2025/03/anfliegen_1-300x125.jpeg)\n\n\n\n\n\n\n\n"
         image:
-          url: /images/Bild3.jpg
-          altText: Featured icon three
-          elementId: ''
           type: ImageBlock
+          url: /images/Bild3.jpg
+          altText: Placeholder image
           styles:
             self:
               borderRadius: x-large
@@ -184,33 +178,40 @@ sections:
               - pb-8
               - pr-8
             borderRadius: x-large
-            flexDirection: row
-        type: FeaturedItem
-        tagline: Bericht
+            flexDirection: col
     actions:
-      - label: ältere Berichte
+      - type: Button
+        label: ältere Berichte
         altText: ''
-        url: /blog/Ralf_Namibia
+        url: /blog
         showIcon: true
         icon: arrowRight
         iconPosition: right
         style: primary
         elementId: ''
-        type: Button
-    elementId: ''
     variant: three-col-grid
     colors: bg-light-fg-dark
     styles:
       self:
         padding:
-          - pb-16
           - pt-16
-          - pl-16
-          - pr-16
+          - pl-8
+          - pb-16
+          - pr-8
         justifyContent: center
       subtitle:
-        textAlign: left
-        fontWeight: 400
+        textAlign: justify
+  - type: DividerSection
+    title: Divider
+    elementId: ''
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        padding:
+          - pt-3
+          - pl-3
+          - pb-3
+          - pr-3
   - subtitle: Impressionen
     images:
       - url: /images/Bild3.jpg
@@ -283,175 +284,20 @@ sections:
           - pr-7
     type: DividerSection
   - type: CarouselSection
-    title: null
-    subtitle: What our customers say about us
     items:
-      - title: >-
-          “A designer knows he has achieved perfection not when there is nothing
-          left to add, but when there is nothing left to take away.”
-        tagline: Testimonial 1
-        subtitle: 'Maria Walters, Company'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+      - type: FeaturedItem
+        title: Flugbetrieb
+        tagline: ''
+        subtitle: 'jeden Samstag von 10:00 - 18:00 Uhr'
+        text: |
+          zusätzlich an den gesetzlichen Feiertagen
         image:
-          url: /images/person-placeholder-light.png
-          altText: Maria Walters
+          type: ImageBlock
+          url: /images/icon-uhr.png
+          altText: Featured item
           styles:
             self:
-              borderRadius: full
-          type: ImageBlock
-        actions: []
-        colors: bg-neutralAlt-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-9
-              - pb-9
-              - pl-9
-              - pr-9
-            textAlign: left
-            borderRadius: large
-            flexDirection: row
-            justifyContent: center
-        type: FeaturedItem
-      - title: >-
-          "Design is a plan for arranging elements in such a way as best to
-          accomplish a particular purpose."
-        tagline: Testimonial 2
-        subtitle: 'John Doe, Company'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
-        image:
-          url: /images/person-placeholder-light.png
-          altText: John Doe
-          styles:
-            self:
-              borderRadius: full
-          type: ImageBlock
-        actions: []
-        colors: bg-neutralAlt-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-9
-              - pb-9
-              - pl-9
-              - pr-9
-            textAlign: left
-            borderRadius: large
-            flexDirection: row
-            justifyContent: center
-        type: FeaturedItem
-      - title: >-
-          "Design is how it works, how it functions. Good design doesn't just
-          make a product aesthetically pleasing, it makes it a pleasure to use."
-        tagline: Testimonial 3
-        subtitle: 'Maria Walters, Company'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
-        image:
-          url: /images/person-placeholder-light.png
-          altText: Maria Walters
-          styles:
-            self:
-              borderRadius: full
-          type: ImageBlock
-        actions: []
-        colors: bg-neutralAlt-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-9
-              - pb-9
-              - pl-9
-              - pr-9
-            textAlign: left
-            borderRadius: large
-            flexDirection: row
-            justifyContent: center
-        type: FeaturedItem
-      - title: >-
-          “A designer knows he has achieved perfection not when there is nothing
-          left to add, but when there is nothing left to take away.”
-        tagline: Testimonial 4
-        subtitle: 'Maria Walters, Company'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
-        image:
-          url: /images/person-placeholder-light.png
-          altText: Maria Walters
-          styles:
-            self:
-              borderRadius: full
-          type: ImageBlock
-        actions: []
-        colors: bg-neutralAlt-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-9
-              - pb-9
-              - pl-9
-              - pr-9
-            textAlign: left
-            borderRadius: large
-            flexDirection: row
-            justifyContent: center
-        type: FeaturedItem
-      - title: >-
-          "Design can be art. Design can be aesthetics. Design is so simple,
-          that's why it is so complicated."
-        tagline: Testimonial 5
-        subtitle: 'Jane Walters, Company'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
-        image:
-          url: /images/person-placeholder-light.png
-          altText: Maria Walters
-          styles:
-            self:
-              borderRadius: full
-          type: ImageBlock
-        actions: []
-        colors: bg-neutralAlt-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-9
-              - pb-9
-              - pl-9
-              - pr-9
-            textAlign: left
-            borderRadius: large
-            flexDirection: row
-            justifyContent: center
-        type: FeaturedItem
-      - title: >-
-          “Quote from some important person goes right here. I love using
-          Netlify Create.”
-        tagline: Testimonial 6
-        subtitle: 'Jane Doe, Company'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
-        image:
-          url: /images/img-placeholder-dark.png
-          altText: Jane Doe
-          styles:
-            self:
-              borderRadius: full
-          type: ImageBlock
+              borderRadius: medium
         actions: []
         colors: bg-dark-fg-light
         styles:
@@ -465,9 +311,7 @@ sections:
             borderRadius: large
             flexDirection: row
             justifyContent: center
-        type: FeaturedItem
-    elementId: null
-    variant: next-prev-nav
+    variant: tabs-nav
     colors: bg-light-fg-dark
     styles:
       self:
