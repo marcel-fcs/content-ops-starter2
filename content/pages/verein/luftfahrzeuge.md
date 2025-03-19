@@ -13,7 +13,7 @@ sections:
     subtitle: ''
     items:
       - type: FeaturedItem
-        title: SKP
+        title: SKP - Startkontrollpunkt
         tagline: ''
         subtitle: "Hier sitzt der Startleiter. Er hat das Sagen\_und sorgt für einen reibungsfreien Flugbetrieb."
         text: ''
