@@ -3,9 +3,7 @@ type: PostLayout
 title: Winterarbeit kurz vor dem Abschluss
 date: '2025-02-15'
 author: content/data/person2.json
-excerpt: >-
-  Facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper.
-  Donec sed facilisis nibh.
+excerpt: "Wie beschäftigt man sich eigentlich im Winter, wenn man nicht fliegt?\_Man zehrt natürlich von der im Sommer angesammelten Arbeit, damit man auch zwischen Oktober und März Gründe hat, ein Feierabendbier nach abgeschlossener Arbeit zu genießen."
 featuredImage:
   type: ImageBlock
   url: /images/WhatsApp-Image-2025-02-01-at-15.46.16-768x432.jpeg
