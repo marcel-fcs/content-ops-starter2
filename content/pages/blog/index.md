@@ -1,5 +1,5 @@
 ---
-title: Verein
+title: alle Berichte
 slug: /blog
 numOfPostsPerPage: 0
 enableSearch: true
