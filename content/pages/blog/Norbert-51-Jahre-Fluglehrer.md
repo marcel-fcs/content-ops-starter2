@@ -4,8 +4,9 @@ title: Unser Norbert ist seit 51 Jahren Fluglehrer!
 date: '2025-03-14'
 author: content/data/person2.json
 excerpt: >-
-  Facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper.
-  Donec sed facilisis nibh.
+  Norbert Oelze wurde am 8.3. auf der Hauptversammlung des Luftsportverbands
+  Sachsen-Anhalt für 50 Jahre Fluglehrertätigkeit mit der goldenen Ehrennadel
+  ausgezeichnet (eigentlich waren es 51 Jahre…). Eine verdiente Auszeichnung!
 featuredImage:
   type: ImageBlock
   url: /images/norbert.jpg
@@ -19,6 +20,94 @@ featuredImage:
         - pb-0
         - pr-0
 bottomSections:
+  - type: CarouselSection
+    subtitle: ''
+    items:
+      - type: FeaturedItem
+        title: ''
+        tagline: ''
+        subtitle: ''
+        text: ''
+        actions: []
+        colors: bg-light-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-9
+              - pb-9
+              - pl-9
+              - pr-9
+            textAlign: left
+            borderRadius: large
+            flexDirection: row
+            justifyContent: center
+        image:
+          type: ImageBlock
+          url: /images/urkunde-638x1024.jpg
+          altText: Image alt text placeholder
+          elementId: ''
+          styles:
+            self:
+              borderRadius: medium
+      - type: FeaturedItem
+        title: ''
+        tagline: ''
+        subtitle: ''
+        text: ''
+        image:
+          type: ImageBlock
+          url: /images/PHOTO-2025-03-08-16-07-57-768x576.jpg
+          altText: Business consulting
+          elementId: ''
+          styles:
+            self:
+              borderRadius: medium
+        actions: []
+        colors: bg-dark-fg-light
+        styles:
+          self:
+            padding:
+              - pt-9
+              - pb-9
+              - pl-9
+              - pr-9
+            textAlign: left
+            borderRadius: large
+            flexDirection: row
+            justifyContent: center
+      - type: FeaturedItem
+        title: ''
+        tagline: ''
+        subtitle: ''
+        text: ''
+        image:
+          type: ImageBlock
+          url: /images/norbert.jpg
+          altText: Business consulting
+          elementId: ''
+          styles:
+            self:
+              borderRadius: medium
+        actions: []
+        colors: bg-dark-fg-light
+        styles:
+          self:
+            padding:
+              - pt-9
+              - pb-9
+              - pl-9
+              - pr-9
+            textAlign: left
+            borderRadius: large
+            flexDirection: row
+            justifyContent: center
+    variant: next-prev-nav
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        justifyContent: center
+      subtitle:
+        textAlign: center
   - type: DividerSection
     title: Divider
     elementId: ''
@@ -50,78 +139,8 @@ bottomSections:
     styles:
       self:
         justifyContent: center
-  - type: CarouselSection
-    subtitle: This is a subtitle
-    items:
-      - type: FeaturedItem
-        title: >-
-          “A designer knows he has achieved perfection not when there is nothing
-          left to add, but when there is nothing left to take away.”
-        tagline: Testimonial 1
-        subtitle: 'Maria Walters, Company'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
-        image:
-          type: ImageBlock
-          url: /images/norbert.jpg
-          altText: Maria Walters
-          styles:
-            self:
-              borderRadius: full
-        actions: []
-        colors: bg-neutralAlt-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-9
-              - pb-9
-              - pl-9
-              - pr-9
-            textAlign: left
-            borderRadius: large
-            flexDirection: row
-            justifyContent: center
-      - type: FeaturedItem
-        title: >-
-          “Quote from some important person goes right here. I love using
-          Netlify.”
-        tagline: Testimonial 2
-        subtitle: 'Jane Doe, Company'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
-        image:
-          type: ImageBlock
-          url: /images/img-placeholder-dark.png
-          altText: Jane Doe
-          styles:
-            self:
-              borderRadius: full
-        actions: []
-        colors: bg-dark-fg-light
-        styles:
-          self:
-            padding:
-              - pt-9
-              - pb-9
-              - pl-9
-              - pr-9
-            textAlign: left
-            borderRadius: large
-            flexDirection: row
-            justifyContent: center
-    variant: next-prev-nav
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        justifyContent: center
-      subtitle:
-        textAlign: center
 slug: Norbert-51-Jahre Fluglehrer
-isFeatured: false
+isFeatured: true
 isDraft: false
 seo:
   type: Seo
