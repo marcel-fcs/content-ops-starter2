@@ -27,32 +27,6 @@ bottomSections:
         title: ''
         tagline: ''
         subtitle: ''
-        text: |+
-
-        image:
-          type: ImageBlock
-          altText: ''
-          styles:
-            self:
-              borderRadius: full
-          url: /images/norbert.jpg
-        actions: []
-        colors: bg-neutralAlt-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-9
-              - pb-9
-              - pl-9
-              - pr-9
-            textAlign: left
-            borderRadius: large
-            flexDirection: row
-            justifyContent: center
-      - type: FeaturedItem
-        title: ''
-        tagline: ''
-        subtitle: ''
         text: ''
         image:
           type: ImageBlock
