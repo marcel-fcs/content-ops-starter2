@@ -64,10 +64,20 @@ sections:
       - type: FeaturedItem
         title: Wie fliegt ein Segelflugzeug?
         subtitle: Sales
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+          Segelflugzeuge brauchen zum Fliegen keinen Wind. Sie fliegen auch –
+          und genauso gut – wenn es windstill ist. Beim Start wird das
+          Segelflugzeug durch eine Winde oder ein Motorflugzeug auf eine
+          bestimmte Höhe gebracht. Anschließend fliegt es auf einer schwach nach
+          unten geneigten Bahn. Dabei muss es für seinen Gleitflug ständig etwas
+          von seiner Ausgangshöhe opfern. Das Segelflugzeug setzt seine Flughöhe
+          in Flugstrecke um – solange, bis die Höhe verbraucht ist und das
+          Flugzeug landen muss.
+
+          Moderne Segelflugzeuge erreichen spielend 250 km/h. Der
+          Höhenweltrekord liegt bei 14.000 Metern, die weiteste geflogene
+          Strecke bei 2050 km.
+
         actions: []
         colors: bg-neutral-fg-dark
         styles:
