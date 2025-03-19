@@ -15,7 +15,7 @@ sections:
       - type: FeaturedItem
         title: "TWIN II\_– unser Schulungs-Doppelsitzer"
         tagline: ''
-        subtitle: ''
+        subtitle: unser Schulungs-Doppelsitzer
         text: |
           **Technische Daten** <br />
           Spannweite: 17,5 m<br />
