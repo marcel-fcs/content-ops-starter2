@@ -26,7 +26,7 @@ sections:
         type: Link
     badge:
       label: ''
-      color: text-primary
+      color: text-light
       type: Badge
       styles:
         self:
@@ -38,9 +38,9 @@ sections:
         alignItems: center
         flexDirection: row
         padding:
-          - pt-32
+          - pt-44
           - pl-0
-          - pb-60
+          - pb-48
           - pr-72
         justifyContent: flex-start
         margin:
@@ -50,6 +50,8 @@ sections:
           - mr-0
       text:
         textAlign: left
+      subtitle:
+        fontWeight: 500
     backgroundImage:
       type: BackgroundImage
       altText: altText of the image
@@ -188,7 +190,7 @@ sections:
     actions:
       - label: ältere Berichte
         altText: ''
-        url: /blog
+        url: /blog/Ralf_Namibia
         showIcon: true
         icon: arrowRight
         iconPosition: right
