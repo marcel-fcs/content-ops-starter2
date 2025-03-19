@@ -124,7 +124,7 @@ sections:
         title: LS-4a
         tagline: ''
         subtitle: unser Leistungs-Einsitzer
-        text: ''
+        text: "**Technische Daten:**<br />\nSpannweite: 15,00 m<br />\nLänge: 6,84 m<br />\nFlügelfläche: 10,5 m²<br />\nFlügelstreckung: 21,4<br />\nLeermasse: 235 kg<br />\nMax. Gewicht: 525 kg<br />\nGleitzahl 40,5 bei ca. 100 km/h<br />\nFlächenbelastung: 31–45 kg/m²<br />\nHöchstgeschwindigkeit: 280 km/h<br />\nMindestgeschwindigkeit: 68 km/h<br />\n\n\_\n\n\n\n"
         image:
           type: ImageBlock
           url: /images/LS4-768x485.jpeg
