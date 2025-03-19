@@ -1,7 +1,7 @@
 ---
 title: Verein
 slug: /blog
-numOfPostsPerPage: 8
+numOfPostsPerPage: 0
 enableSearch: true
 topSections:
   - title:
