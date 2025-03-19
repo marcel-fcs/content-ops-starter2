@@ -126,7 +126,7 @@ sections:
             justifyContent: center
       - type: FeaturedItem
         title: Gibt es einen Flugzeugführerschein?
-        subtitle: Engineering
+        subtitle: ''
         text: >+
           Ja, nur heißt er Luftfahrerschein für Segelflugzeugführer. Man bekommt
           ihn nach einer gründlichen praktischen und theoretischen Ausbildung,
