@@ -32,7 +32,7 @@ sections:
         self:
           textAlign: center
     elementId: ''
-    colors: bg-dark-fg-light
+    colors: bg-light-fg-dark
     styles:
       self:
         alignItems: center
@@ -93,7 +93,7 @@ sections:
             style: secondary
             elementId: ''
         elementId: null
-        colors: bg-neutralAlt-fg-dark
+        colors: bg-dark-fg-light
         styles:
           self:
             padding:
@@ -140,7 +140,7 @@ sections:
             iconPosition: right
             style: secondary
             elementId: ''
-        colors: bg-neutralAlt-fg-dark
+        colors: bg-dark-fg-light
         styles:
           self:
             padding:
@@ -175,7 +175,7 @@ sections:
             iconPosition: right
             style: secondary
             elementId: ''
-        colors: bg-neutralAlt-fg-dark
+        colors: bg-dark-fg-light
         styles:
           self:
             padding:
@@ -199,7 +199,7 @@ sections:
         type: Button
     elementId: ''
     variant: three-col-grid
-    colors: bg-neutral-fg-dark
+    colors: bg-light-fg-dark
     styles:
       self:
         padding:
@@ -272,16 +272,6 @@ sections:
       backgroundRepeat: repeat
       opacity: 36
       url: /images/LS4-768x485.jpeg
-  - title: Divider
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        padding:
-          - pt-7
-          - pl-7
-          - pb-7
-          - pr-7
-    type: DividerSection
   - title: Divider
     colors: bg-light-fg-dark
     styles:
