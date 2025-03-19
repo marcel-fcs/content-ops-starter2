@@ -13,26 +13,6 @@ sections:
     subtitle: Wie werde ich Pilot?
     text: "Der FCS bildet auch aus!\n\nWer gerne Segelflieger werden möchte, kann gerne zu uns kommen und wird als Flugschüler aufgenommen. Die Ausbildung ist bereits im Vereinsbeitrag enthalten und fängt mit Schulstarts mit Fluglehrer an.\_ Wenn dann alle Grundtechniken beherrscht werden, darf der Flugschüler zum ersten Mal alleine fliegen, später auch auf Einsitzern. Nach weiteren Ausbildungsabschnitten und einigem Theorieunterricht kann dann der Luftfahrerschein abgelegt werden. Für weitere Fragen zu dem Thema finden sich unten auf der Seite weitere Links.\n\nHier mal eine sehr informative Seite zum Thema:\_[Segelfliegen lernen](https://www.segelfliegen-lernen.de/#videos)\n\nWir haben einen Doppelsitzer für die Ausbildung und zwei Einsitzer für Schüler, die bereits alleine fliegen dürfen. Der Fliegerclub hat derzeit 3 Segelfluglehrer und 5 Flugschüler in verschiedenen Ausbildungsabschnitten. Wir freuen uns immer über neue Anwärter!\n\n\n\n"
     actions: []
-    media:
-      type: VideoBlock
-      title: Title of the video
-      url: /images/placeholder-video.mp4
-      autoplay: true
-      loop: true
-      muted: true
-      controls: false
-      aspectRatio: '16:9'
-      styles:
-        self:
-          padding:
-            - pt-2
-            - pb-2
-            - pl-2
-            - pr-2
-          borderColor: border-dark
-          borderStyle: solid
-          borderWidth: 1
-          borderRadius: large
     colors: bg-light-fg-dark
     styles:
       self:
