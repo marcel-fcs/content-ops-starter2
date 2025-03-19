@@ -63,7 +63,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: ''
+      text: Aktuelles
       color: text-dark
     subtitle: ''
     text: >
