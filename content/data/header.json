@@ -38,9 +38,9 @@
             "links": [
                 {
                     "type": "Link",
-                    "label": "Vorstand",
+                    "label": "Geschichte",
                     "altText": "",
-                    "url": "/verein/vorstand",
+                    "url": "/verein/geschichte",
                     "showIcon": false,
                     "icon": "arrowRight",
                     "iconPosition": "right",
@@ -49,9 +49,9 @@
                 },
                 {
                     "type": "Link",
-                    "label": "Geschichte",
+                    "label": "Vorstand",
                     "altText": "",
-                    "url": "/verein/geschichte",
+                    "url": "/verein/vorstand",
                     "showIcon": false,
                     "icon": "arrowRight",
                     "iconPosition": "right",
