@@ -30,7 +30,7 @@ bottomSections:
 
         image:
           type: ImageBlock
-          altText: Maria Walters
+          altText: ''
           styles:
             self:
               borderRadius: full
