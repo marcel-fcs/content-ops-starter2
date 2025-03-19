@@ -39,8 +39,9 @@ sections:
         title: Feuerwehr
         tagline: ''
         subtitle: This is the item subtitle
-        text: |
-          Follow the tutorial to build your first awesome Netlify Create site.
+        text: |+
+
+
         image:
           type: ImageBlock
           url: /images/Feuerweher.jpg
