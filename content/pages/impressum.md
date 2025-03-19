@@ -27,7 +27,7 @@ sections:
         style: primary
     media:
       type: ImageBlock
-      url: /images/FLiegerclub_Logo.jpg
+      url: /images/FLiegerclub_Logo_klein.jpg
       altText: Dope design preview
     badge:
       type: Badge
