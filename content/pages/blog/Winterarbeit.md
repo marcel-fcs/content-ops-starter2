@@ -49,7 +49,7 @@ bottomSections:
       self:
         justifyContent: center
 slug: Winterarbeit
-isFeatured: false
+isFeatured: true
 isDraft: false
 seo:
   type: Seo
