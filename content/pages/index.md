@@ -254,7 +254,7 @@ sections:
           site.
         image:
           type: ImageBlock
-          url: /images/abstract-feature1.svg
+          url: /images/norbert.jpg
           altText: Placeholder image
           styles:
             self:
