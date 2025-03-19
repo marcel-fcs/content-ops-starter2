@@ -19,7 +19,7 @@ sections:
       - content/data/person6.json
     actions: []
     variant: three-col-grid
-    colors: bg-light-fg-dark
+    colors: bg-dark-fg-light
     styles:
       self:
         padding:
