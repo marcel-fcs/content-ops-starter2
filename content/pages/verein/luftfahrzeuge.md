@@ -91,7 +91,7 @@ sections:
 
         image:
           type: ImageBlock
-          url: /images/POCM5700.JPG
+          url: /images/Mose-1.jpg
           altText: Placeholder image
           styles:
             self:
