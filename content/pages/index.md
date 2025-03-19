@@ -284,8 +284,7 @@ sections:
         title: Anfliegen
         tagline: Bericht
         subtitle: ''
-        text: |
-          Follow the tutorial to build your first awesome Netlify Create site.
+        text: "So, nach langer Winterpause gehts jetzt endlich wieder los! Nachdem unsere Vereinsflugzeuge am Freitag die jährliche Prüfung bekommen haben, wurde am Samstag der erste Flugbetrieb des Jahres\_veranstaltet....\n\n![](https://www.fliegerclub-sbk.de/wp-content/uploads/2025/03/anfliegen_1-300x125.jpeg)\n\n\n\n\n\n\n\n"
         image:
           type: ImageBlock
           url: /images/Bild3.jpg
