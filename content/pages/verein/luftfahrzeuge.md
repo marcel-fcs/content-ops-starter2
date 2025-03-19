@@ -41,7 +41,7 @@ sections:
             borderRadius: x-large
             flexDirection: col
       - type: FeaturedItem
-        title: Feuerwehr
+        title: "Astir STD III\_– unser Schulungs-Einsitzer"
         tagline: ''
         subtitle: This is the item subtitle
         text: |+
