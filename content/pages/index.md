@@ -283,7 +283,7 @@ sections:
       - type: FeaturedItem
         title: Anfliegen
         tagline: Bericht
-        subtitle: This is the item subtitle
+        subtitle: ''
         text: |
           Follow the tutorial to build your first awesome Netlify Create site.
         image:
