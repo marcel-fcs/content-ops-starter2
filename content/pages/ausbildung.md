@@ -431,11 +431,10 @@ sections:
         self:
           textAlign: left
     subtitle: ''
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >+
+      Der Text wurde zum überwiegenden Teil von der Segelfluggruppe Wershofen
+      übernommen.
+
     actions: []
     colors: bg-light-fg-dark
     styles:
