@@ -5,7 +5,7 @@ sections:
   - type: FeaturedPeopleSection
     title:
       type: TitleBlock
-      text: Vostand
+      text: Vorstand
       color: text-dark
       styles:
         self:
