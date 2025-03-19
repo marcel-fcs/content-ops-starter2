@@ -75,7 +75,7 @@ bottomSections:
             flexDirection: row
             justifyContent: center
       - type: FeaturedItem
-        title: Test
+        title: ''
         tagline: Feature 2
         subtitle: Be in good company
         text: >-
