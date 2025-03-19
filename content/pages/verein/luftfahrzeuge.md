@@ -50,7 +50,7 @@ sections:
       - type: FeaturedItem
         title: "Astir STD III\_– unser Schulungs-Einsitzer"
         tagline: ''
-        subtitle: ''
+        subtitle: unser Schulungs-Einsitzer
         text: |
           **Technische Daten** <br />
           Spannweite: 15,0 m<br />
