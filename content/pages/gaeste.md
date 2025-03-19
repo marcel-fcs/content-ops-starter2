@@ -10,12 +10,7 @@ sections:
           textAlign: center
       type: TitleBlock
     subtitle: Section subtitle
-    text: >
-      There are many variations of passages of Lorem Ipsum available, but the
-      majority have suffered alteration in some form, by injected humour, or
-      randomised words which don't look even slightly believable. If you are
-      going to use a passage of Lorem Ipsum, you need to be sure there isn't
-      anything embarrassing hidden in the middle of text.
+    text: "Der gute Rod Steward wollte sicher einmal Segelflieger werden. Denn was gibt es schöneres, als wie ein Vogel durch die Lüfte zu fliegen. Bei uns können Sie diese einmalige Gefühl an Bord eines unserer Flugzeuge erleben. Wenn Sie dazu mehr wissen wollen, rufen sie uns an: +49 3928 400647. Wenn keiner da ist, besprechen Sie bitte den Anrufbeantworter, oder schreiben uns eine eMail:\_<info@fliegerclub-sbk.de>. Sie haben dabei die freie Auswahl zwischen dem Segelflug oder dem Motorflug.\n\n"
     actions:
       - label: See open positions
         url: /
