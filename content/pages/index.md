@@ -50,6 +50,8 @@ sections:
           - mr-0
       text:
         textAlign: left
+      subtitle:
+        fontWeight: 500
     backgroundImage:
       type: BackgroundImage
       altText: altText of the image
