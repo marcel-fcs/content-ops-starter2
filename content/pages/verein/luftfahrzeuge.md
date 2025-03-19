@@ -21,7 +21,20 @@ sections:
           Gewicht: 580 kgGeringstes Sinken: 0,64 m/s bei 80 km/hGleitzahl: 38,5
           bei 95 km/hHöchstgeschwindigkeit: 250 km/hManövergeschwindigkeit: 170
           km/h
-        text: ''
+        text: |+
+          **Technische Daten**
+          Spannweite: 17,5 m
+          Rumpflänge: 8,18 m
+          Flügelfläche: 17,8 m²
+          Streckung: 17,1
+          Flächenbelastung: 32,5 kg/m²
+          Leergewicht: 370 kg
+          Max. Gewicht: 580 kg
+          Geringstes Sinken: 0,64 m/s bei 80 km/h
+          Gleitzahl: 38,5 bei 95 km/h
+          Höchstgeschwindigkeit: 250 km/h
+          Manövergeschwindigkeit: 170 km/h
+
         image:
           type: ImageBlock
           url: /images/Twin.jpg
