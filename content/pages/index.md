@@ -26,7 +26,7 @@ sections:
         type: Link
     badge:
       label: ''
-      color: text-primary
+      color: text-light
       type: Badge
       styles:
         self:
