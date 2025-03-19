@@ -246,7 +246,7 @@ sections:
             label: weiterlesen
             altText: ''
             url: /blog/Ralf_Namibia
-            showIcon: false
+            showIcon: true
             icon: arrowRight
             iconPosition: right
             style: secondary
