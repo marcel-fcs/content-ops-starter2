@@ -60,6 +60,41 @@ sections:
       backgroundRepeat: no-repeat
       opacity: 100
       url: /images/GEPO1789.JPG
+  - type: CarouselSection
+    items:
+      - type: FeaturedItem
+        title: Flugbetrieb
+        tagline: ''
+        subtitle: 'jeden Samstag von 10:00 - 18:00 Uhr'
+        text: |
+          zusätzlich an den gesetzlichen Feiertagen
+        image:
+          type: ImageBlock
+          url: /images/icon-uhr.png
+          altText: Featured item
+          styles:
+            self:
+              borderRadius: medium
+        actions: []
+        colors: bg-dark-fg-light
+        styles:
+          self:
+            padding:
+              - pt-9
+              - pb-9
+              - pl-9
+              - pr-9
+            textAlign: left
+            borderRadius: large
+            flexDirection: row
+            justifyContent: center
+    variant: tabs-nav
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        justifyContent: center
+      subtitle:
+        textAlign: center
   - type: GenericSection
     title:
       type: TitleBlock
@@ -205,41 +240,6 @@ sections:
       backgroundRepeat: repeat
       opacity: 36
       url: /images/LS4-768x485.jpeg
-  - type: CarouselSection
-    items:
-      - type: FeaturedItem
-        title: Flugbetrieb
-        tagline: ''
-        subtitle: 'jeden Samstag von 10:00 - 18:00 Uhr'
-        text: |
-          zusätzlich an den gesetzlichen Feiertagen
-        image:
-          type: ImageBlock
-          url: /images/icon-uhr.png
-          altText: Featured item
-          styles:
-            self:
-              borderRadius: medium
-        actions: []
-        colors: bg-dark-fg-light
-        styles:
-          self:
-            padding:
-              - pt-9
-              - pb-9
-              - pl-9
-              - pr-9
-            textAlign: left
-            borderRadius: large
-            flexDirection: row
-            justifyContent: center
-    variant: tabs-nav
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        justifyContent: center
-      subtitle:
-        textAlign: center
 seo:
   metaTitle: Fliegerclub Schönebeck e.V.
   metaDescription: 'Segelflug, Motorflug und Modellflug'
