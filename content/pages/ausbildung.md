@@ -63,7 +63,7 @@ sections:
     items:
       - type: FeaturedItem
         title: Wie fliegt ein Segelflugzeug?
-        subtitle: Sales
+        subtitle: ''
         text: >+
           Segelflugzeuge brauchen zum Fliegen keinen Wind. Sie fliegen auch –
           und genauso gut – wenn es windstill ist. Beim Start wird das
