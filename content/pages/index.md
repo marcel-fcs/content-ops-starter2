@@ -40,7 +40,7 @@ sections:
         padding:
           - pt-60
           - pl-0
-          - pb-60
+          - pb-44
           - pr-72
         justifyContent: flex-start
         margin:
