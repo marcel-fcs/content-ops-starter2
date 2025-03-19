@@ -15,7 +15,7 @@
         },
         "type": "ImageBlock"
     },
-    "colors": "bg-neutral-fg-dark",
+    "colors": "bg-neutralAlt-fg-dark",
     "elementId": null,
     "styles": {
         "self": {
