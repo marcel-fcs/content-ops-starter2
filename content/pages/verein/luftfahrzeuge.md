@@ -91,7 +91,7 @@ sections:
 
         image:
           type: ImageBlock
-          url: /images/Winde.jpg
+          url: /images/POCM5700.JPG
           altText: Placeholder image
           styles:
             self:
