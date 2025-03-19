@@ -83,7 +83,7 @@ sections:
             borderRadius: x-large
             flexDirection: col
       - type: FeaturedItem
-        title: Winde
+        title: "Motorsegler Grob G109B\_– unser Schleppflugzeug"
         tagline: ''
         subtitle: This is the item subtitle
         text: |+
