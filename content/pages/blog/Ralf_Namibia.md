@@ -2,7 +2,7 @@
 type: PostLayout
 title: 1.122 Kilometer im Segelflug
 date: '2025-03-17'
-author: content/data/person1.json
+author: content/data/person3.json
 excerpt: >-
   Facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper.
   Donec sed facilisis nibh.
