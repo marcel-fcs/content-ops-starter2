@@ -222,7 +222,7 @@ sections:
     subtitle: Featured items section subtitle
     items:
       - type: FeaturedItem
-        title: Feature Item One
+        title: 1.122 Kilometer im Segelflug
         tagline: Bericht
         subtitle: This is the item subtitle
         text: >
