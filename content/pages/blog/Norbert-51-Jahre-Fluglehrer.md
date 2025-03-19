@@ -43,7 +43,7 @@ bottomSections:
             justifyContent: center
         image:
           type: ImageBlock
-          url: /images/hero2.svg
+          url: /images/urkunde-638x1024.jpg
           altText: Image alt text placeholder
           elementId: ''
           styles:
