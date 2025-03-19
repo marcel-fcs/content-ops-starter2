@@ -285,30 +285,6 @@ sections:
   - type: CarouselSection
     items:
       - type: FeaturedItem
-        title: Flugbetrieb
-        tagline: This is the tagline
-        subtitle: jeden Samstag von 10 Uhr bis 18 Uhr
-        text: |
-          zusätzlich an gesetzlichen Feiertagen
-        image:
-          type: ImageBlock
-          url: /images/icon-uhr.png
-          altText: Placeholder text
-          styles:
-            self:
-              borderRadius: x-large
-        actions: []
-        colors: bg-dark-fg-light
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: row
-      - type: FeaturedItem
         title: Business Consulting
         tagline: Feature 2
         subtitle: Be in good company
