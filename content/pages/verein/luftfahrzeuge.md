@@ -15,12 +15,7 @@ sections:
       - type: FeaturedItem
         title: "TWIN II\_– unser Schulungs-Doppelsitzer"
         tagline: ''
-        subtitle: >-
-          Technische DatenSpannweite: 17,5 mRumpflänge: 8,18 mFlügelfläche: 17,8
-          m²Streckung: 17,1Flächenbelastung: 32,5 kg/m²Leergewicht: 370 kgMax.
-          Gewicht: 580 kgGeringstes Sinken: 0,64 m/s bei 80 km/hGleitzahl: 38,5
-          bei 95 km/hHöchstgeschwindigkeit: 250 km/hManövergeschwindigkeit: 170
-          km/h
+        subtitle: ''
         text: |+
           **Technische Daten**
           Spannweite: 17,5 m
