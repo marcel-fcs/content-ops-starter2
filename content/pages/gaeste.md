@@ -3,7 +3,7 @@ title: Gästeflug
 slug: gaeste
 sections:
   - title:
-      text: A team that works closely together
+      text: Für einen Tag Pilot werden
       color: text-dark
       styles:
         self:
