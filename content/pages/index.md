@@ -324,7 +324,7 @@ sections:
           - pr-8
         justifyContent: center
       subtitle:
-        textAlign: center
+        textAlign: left
   - subtitle: Impressionen
     images:
       - url: /images/Bild3.jpg
