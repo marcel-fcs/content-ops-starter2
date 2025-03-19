@@ -61,7 +61,7 @@ bottomSections:
             self:
               borderRadius: full
         actions: []
-        colors: bg-dark-fg-light
+        colors: bg-light-fg-dark
         styles:
           self:
             padding:
