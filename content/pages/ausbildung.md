@@ -82,7 +82,9 @@ sections:
             flexDirection: row
             justifyContent: center
       - type: FeaturedItem
-        title: Open Source Engineer
+        title: >-
+          Wie kommt es, dass Segelflugzeuge viele hundert Kilometer weit fliegen
+          können?
         subtitle: Marketing
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
