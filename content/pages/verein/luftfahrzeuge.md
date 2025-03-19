@@ -89,7 +89,7 @@ sections:
             borderRadius: x-large
             flexDirection: col
     actions: []
-    variant: three-col-grid
+    variant: small-list
     colors: bg-light-fg-dark
     styles:
       self:
