@@ -35,7 +35,6 @@ bottomSections:
           styles:
             self:
               borderRadius: full
-          url: /images/norbert.jpg
         actions: []
         colors: bg-neutralAlt-fg-dark
         styles:
