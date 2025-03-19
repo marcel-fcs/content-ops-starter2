@@ -64,15 +64,16 @@ sections:
             borderRadius: x-large
             flexDirection: col
       - type: FeaturedItem
-        title: Feature Item One
-        tagline: This is the tagline
+        title: Winde
+        tagline: ''
         subtitle: This is the item subtitle
-        text: |
-          Follow the tutorial to build your first Netlify Create site.
+        text: |+
+
+
         image:
           type: ImageBlock
-          url: /images/abstract-feature1.svg
-          altText: Placeholder text
+          url: /images/Winde.jpg
+          altText: Placeholder image
           styles:
             self:
               borderRadius: x-large
@@ -88,16 +89,15 @@ sections:
             borderRadius: x-large
             flexDirection: col
       - type: FeaturedItem
-        title: Winde
-        tagline: ''
+        title: Feature Item One
+        tagline: This is the tagline
         subtitle: This is the item subtitle
-        text: |+
-
-
+        text: |
+          Follow the tutorial to build your first Netlify Create site.
         image:
           type: ImageBlock
-          url: /images/Winde.jpg
-          altText: Placeholder image
+          url: /images/abstract-feature1.svg
+          altText: Placeholder text
           styles:
             self:
               borderRadius: x-large
