@@ -10,7 +10,7 @@ sections:
       styles:
         self:
           textAlign: center
-    subtitle: Featured items section subtitle
+    subtitle: Informationen für Piloten
     items:
       - type: FeaturedItem
         title: Feature Item One
