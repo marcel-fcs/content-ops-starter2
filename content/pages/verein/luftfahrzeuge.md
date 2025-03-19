@@ -91,7 +91,7 @@ sections:
       - type: FeaturedItem
         title: Großflächenmäher
         tagline: ''
-        subtitle: This is the item subtitle
+        subtitle: John Deere Wam 1600
         text: |
           Follow the tutorial to build your first Netlify Create site.
         image:
