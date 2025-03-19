@@ -87,7 +87,20 @@ sections:
         tagline: ''
         subtitle: unser Schleppflugzeug
         text: |+
-
+          **Technische Daten** <br />
+          Spannweite: 17,4m<br />
+          Rumpflänge: 8,1m<br />
+          Flügelfläche: 19,00m²<br />
+          Streckung: 15,90<br />
+          Leergewicht: 650kg<br />
+          Max. Gewicht: 850kg<br />
+          Geringstes Sinken: 1,1 m/s bei 105 km/h<br />
+          Reisegeschwindigkeit:170 km/h<br />
+          Höchstgeschwindigkeit: 240 km/h<br />
+          Gleitzahl: 25 bei 104 km/h<br />
+          Flächenbelastung: 44,75 kg/m²<br />
+          Reichweite: ca. 700 km<br />
+          Motor: Limbach 2400 DT1 96KW/130PS<br />
 
         image:
           type: ImageBlock
