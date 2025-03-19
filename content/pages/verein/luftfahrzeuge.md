@@ -121,7 +121,7 @@ sections:
             borderRadius: x-large
             flexDirection: col
       - type: FeaturedItem
-        title: Großflächenmäher
+        title: LS-4a
         tagline: ''
         subtitle: unser Leistungs-Einsitzer
         text: ''
