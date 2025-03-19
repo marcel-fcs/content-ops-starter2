@@ -74,6 +74,17 @@
                 "iconPosition": "right",
                 "style": "secondary",
                 "type": "Link"
+            },
+            {
+                "type": "Link",
+                "label": "Kontakt",
+                "altText": "",
+                "url": "/kontakt",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "style": "secondary",
+                "elementId": ""
             }
         ],
         "type": "FooterLinksGroup"
@@ -94,20 +105,23 @@
     ],
     "legalLinks": [
         {
-            "label": "Terms",
-            "url": "/",
+            "label": "Impressum",
+            "url": "/impressum",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
             "type": "Link"
         },
         {
-            "label": "Privacy",
-            "url": "/",
+            "type": "Link",
+            "label": "Datenschutz",
+            "altText": "",
+            "url": "/datenschutz",
+            "showIcon": false,
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
-            "type": "Link"
+            "elementId": ""
         }
     ],
     "copyrightText": "Powered by [Netlify](https://www.netlify.com/)\n",
