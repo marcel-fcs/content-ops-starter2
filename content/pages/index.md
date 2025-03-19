@@ -47,7 +47,7 @@ sections:
           - ml-0
           - mt-0
           - mb-0
-          - mr-0
+          - mr-7
       text:
         textAlign: left
     backgroundImage:
