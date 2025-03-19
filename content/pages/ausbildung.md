@@ -72,7 +72,7 @@ sections:
             flexDirection: row
     actions:
       - type: Button
-        label: Apply now
+        label: Werde jetzt Mitglied
         url: /
         icon: arrowRight
         iconPosition: right
