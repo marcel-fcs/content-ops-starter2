@@ -147,7 +147,7 @@ sections:
         label: ältere Beiträge
         altText: ''
         url: /blogs
-        showIcon: false
+        showIcon: true
         icon: arrowRight
         iconPosition: right
         style: primary
