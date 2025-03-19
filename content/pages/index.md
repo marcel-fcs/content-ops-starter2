@@ -60,6 +60,17 @@ sections:
       backgroundRepeat: no-repeat
       opacity: 100
       url: /images/GEPO1789.JPG
+  - type: DividerSection
+    title: Divider
+    elementId: ''
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        padding:
+          - pt-3
+          - pl-3
+          - pb-3
+          - pr-3
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
@@ -68,120 +79,115 @@ sections:
       styles:
         self:
           textAlign: center
-    subtitle: "Sie erreichen den Flugplatz telefonisch unter 03928/400647. Das Telefon ist aber nicht immer besetzt. Bei dringenden Nachrichten sprechen sie bitte auf die Sprachbox. Danke!\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ Mitteilung an die Gäste des FCS:\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ Momentan sind leider keine Rundflüge mit unserem Motorsegler möglich. Sollten Sie bereits einen Gutschein dafür erworben haben, melden Sie sich gerne bei uns, über einen passenden Ersatz kann dann gemeinsam gesprochen werden. Vielen Dank für Ihr Verständnis!"
     items:
       - type: FeaturedItem
-        title: 1.122 Kilometer im Segelflug
-        tagline: Bericht
+        title: ''
         subtitle: ''
-        text: >
-          Vom 03. bis zum 13. Januar 2025 sind Norbert und Ralf in Bitterwasser
-          geflogen. Auf diesem weltberühmten Segelflugplatz in Namibia wurden in
-          den letzten Jahren in der dortigen Flugsaison (November bis Januar)
-          jeweils weltweit die größte Anzahl an Segelflügen über 1.000 Kilometer
-          geflogen, neben vielen Landes- und auch Weltrekorden. Als Flugzeug
-          haben beide einen der leistungsfähigsten Doppelsitzer der Welt
-          gechartert, eine „EB 28 Edition“ mit einer Spannweite von über 28
-          Metern....
+        text: "### Sie erreichen den Flugplatz telefonisch unter 03928/400647. Das Telefon ist aber nicht immer besetzt. Bei dringenden Nachrichten sprechen sie bitte auf die Sprachbox. Danke!\_\n\n### Mitteilung an die Gäste des FCS:\n\n### Momentan sind leider keine Rundflüge mit unserem Motorsegler möglich. Sollten Sie bereits einen Gutschein dafür erworben haben, melden Sie sich gerne bei uns, über einen passenden Ersatz kann dann gemeinsam gesprochen werden. Vielen Dank für Ihr Verständnis!\n\n"
         image:
           type: ImageBlock
-          url: /images/Bild2.jpg
-          altText: Placeholder Image
+          altText: Faux Fur Throw
+          elementId: ''
           styles:
             self:
-              borderRadius: x-large
-        actions:
-          - type: Link
-            label: weiterlesen
-            altText: ''
-            url: /blog/Ralf_Namibia
-            showIcon: true
-            icon: arrowRight
-            iconPosition: right
-            style: secondary
-            elementId: ''
-        colors: bg-dark-fg-light
+              borderRadius: medium
+              padding:
+                - pt-0
+                - pl-0
+                - pb-0
+                - pr-0
+        actions: []
+        colors: bg-light-fg-dark
         styles:
           self:
             padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: col
+              - pt-6
+              - pl-6
+              - pb-6
+              - pr-6
+            textAlign: left
+            borderColor: border-neutralAlt
+            borderWidth: 2
+            borderRadius: x-small
+            flexDirection: row-reverse
+            justifyContent: center
+            borderStyle: dotted
+    actions: []
+    elementId: ''
+    variant: big-list
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        padding:
+          - pt-0
+          - pl-0
+          - pb-0
+          - pr-0
+        justifyContent: center
+      subtitle:
+        textAlign: center
+  - type: CarouselSection
+    items:
       - type: FeaturedItem
-        title: Unser Norbert ist seit 51 Jahren Fluglehrer!
-        tagline: Bericht
-        subtitle: ''
-        text: >+
-          Norbert Oelze wurde am 8.3. auf der Hauptversammlung des
-          Luftsportverbands Sachsen-Anhalt für 50 Jahre Fluglehrertätigkeit mit
-          der goldenen Ehrennadel ausgezeichnet (eigentlich waren es 51 Jahre…).
-          Eine verdiente Auszeichnung!...
-
+        title: Flugbetrieb
+        tagline: ''
+        subtitle: 'jeden Samstag von 10:00 - 18:00 Uhr'
+        text: |
+          zusätzlich an den gesetzlichen Feiertagen
         image:
           type: ImageBlock
-          url: /images/norbert.jpg
-          altText: Placeholder image
+          url: /images/icon-uhr.png
+          altText: Featured item
           styles:
             self:
-              borderRadius: x-large
-        actions:
-          - type: Link
-            label: weiterlesen
-            altText: ''
-            url: /blog
-            showIcon: true
-            icon: arrowRight
-            iconPosition: right
-            style: secondary
-            elementId: ''
+              borderRadius: medium
+        actions: []
         colors: bg-dark-fg-light
         styles:
           self:
             padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: col
-      - type: FeaturedItem
-        title: Anfliegen
-        tagline: Bericht
-        subtitle: ''
-        text: "So, nach langer Winterpause gehts jetzt endlich wieder los! Nachdem unsere Vereinsflugzeuge am Freitag die jährliche Prüfung bekommen haben, wurde am Samstag der erste Flugbetrieb des Jahres\_veranstaltet....\n\n![](https://www.fliegerclub-sbk.de/wp-content/uploads/2025/03/anfliegen_1-300x125.jpeg)\n\n\n\n\n\n\n\n"
-        image:
-          type: ImageBlock
-          url: /images/Bild3.jpg
-          altText: Placeholder image
-          styles:
-            self:
-              borderRadius: x-large
-        actions:
-          - type: Link
-            label: weiterlesen
-            altText: ''
-            url: /blog
-            showIcon: true
-            icon: arrowRight
-            iconPosition: right
-            style: secondary
-            elementId: ''
-        colors: bg-dark-fg-light
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: col
+              - pt-9
+              - pb-9
+              - pl-9
+              - pr-9
+            textAlign: left
+            borderRadius: large
+            flexDirection: row
+            justifyContent: center
+    variant: tabs-nav
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        justifyContent: center
+      subtitle:
+        textAlign: center
+  - type: DividerSection
+    title: Divider
+    elementId: ''
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        padding:
+          - pt-3
+          - pl-3
+          - pb-3
+          - pr-3
+  - type: RecentPostsSection
+    title:
+      type: TitleBlock
+      text: Letzte Beiträge
+      color: text-dark
+      styles:
+        self:
+          textAlign: center
+    recentCount: 3
+    showThumbnail: true
+    showExcerpt: true
+    showDate: true
+    showAuthor: true
     actions:
       - type: Button
-        label: ältere Berichte
+        label: ältere Beiträge
         altText: ''
         url: /blog
         showIcon: true
@@ -189,18 +195,13 @@ sections:
         iconPosition: right
         style: primary
         elementId: ''
+    elementId: ''
     variant: three-col-grid
     colors: bg-light-fg-dark
+    hoverEffect: thin-underline
     styles:
       self:
-        padding:
-          - pt-16
-          - pl-8
-          - pb-16
-          - pr-8
         justifyContent: center
-      subtitle:
-        textAlign: justify
   - type: DividerSection
     title: Divider
     elementId: ''
@@ -273,51 +274,6 @@ sections:
       backgroundRepeat: repeat
       opacity: 36
       url: /images/LS4-768x485.jpeg
-  - title: Divider
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        padding:
-          - pt-7
-          - pl-7
-          - pb-7
-          - pr-7
-    type: DividerSection
-  - type: CarouselSection
-    items:
-      - type: FeaturedItem
-        title: Flugbetrieb
-        tagline: ''
-        subtitle: 'jeden Samstag von 10:00 - 18:00 Uhr'
-        text: |
-          zusätzlich an den gesetzlichen Feiertagen
-        image:
-          type: ImageBlock
-          url: /images/icon-uhr.png
-          altText: Featured item
-          styles:
-            self:
-              borderRadius: medium
-        actions: []
-        colors: bg-dark-fg-light
-        styles:
-          self:
-            padding:
-              - pt-9
-              - pb-9
-              - pl-9
-              - pr-9
-            textAlign: left
-            borderRadius: large
-            flexDirection: row
-            justifyContent: center
-    variant: tabs-nav
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        justifyContent: center
-      subtitle:
-        textAlign: center
 seo:
   metaTitle: Fliegerclub Schönebeck e.V.
   metaDescription: 'Segelflug, Motorflug und Modellflug'

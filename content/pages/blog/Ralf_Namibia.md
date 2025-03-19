@@ -2,10 +2,15 @@
 type: PostLayout
 title: 1.122 Kilometer im Segelflug
 date: '2025-03-17'
-author: content/data/person1.json
+author: content/data/person3.json
 excerpt: >-
-  Facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper.
-  Donec sed facilisis nibh.
+  Vom 03. bis zum 13. Januar 2025 sind Norbert und Ralf in Bitterwasser
+  geflogen. Auf diesem weltberühmten Segelflugplatz in Namibia wurden in den
+  letzten Jahren in der dortigen Flugsaison (November bis Januar) jeweils
+  weltweit die größte Anzahl an Segelflügen über 1.000 Kilometer geflogen, neben
+  vielen Landes- und auch Weltrekorden. Als Flugzeug haben beide einen der
+  leistungsfähigsten Doppelsitzer der Welt gechartert, eine „EB 28 Edition“ mit
+  einer Spannweite von über 28 Metern. 
 featuredImage:
   type: ImageBlock
   url: /images/Bild2.jpg
