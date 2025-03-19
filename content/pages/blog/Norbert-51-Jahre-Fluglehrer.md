@@ -30,7 +30,6 @@ bottomSections:
           ![](/images/PHOTO-2025-03-08-16-07-57-768x576.jpg)
         image:
           type: ImageBlock
-          url: /images/norbert.jpg
           altText: Maria Walters
           styles:
             self:
