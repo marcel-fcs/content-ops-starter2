@@ -10,7 +10,7 @@
         "size": "6xl",
         "weight": "normal",
         "decoration": "none",
-        "case": "lowercase",
+        "case": "uppercase",
         "letterSpacing": "normal",
         "type": "ThemeStyleHeading"
     },
