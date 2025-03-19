@@ -286,7 +286,7 @@ sections:
     items:
       - type: FeaturedItem
         title: Flugbetrieb
-        tagline: Feature 1
+        tagline: 'jeden Samstag von 10:00 - 18:00 Uhr'
         subtitle: Increase your reach
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
