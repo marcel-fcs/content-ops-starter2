@@ -69,7 +69,7 @@ sections:
           site.
         image:
           type: ImageBlock
-          url: /images/abstract-feature1.svg
+          url: /images/Winde.jpg
           altText: Placeholder image
           styles:
             self:
