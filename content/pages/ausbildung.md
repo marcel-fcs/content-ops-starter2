@@ -160,7 +160,7 @@ sections:
             flexDirection: row
             justifyContent: center
       - type: FeaturedItem
-        title: Wie fliegt ein Segelflugzeug?
+        title: Gibt es Altersgrenzen?
         subtitle: ''
         text: >+
           Jeder Jugendliche ab 14 Jahren und jeder noch Junggebliebene, dem es
