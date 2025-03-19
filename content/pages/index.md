@@ -92,11 +92,7 @@ sections:
         self:
           textAlign: left
     subtitle: ''
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: "Sie erreichen den Flugplatz telefonisch unter 03928/400647. Das Telefon ist aber nicht immer besetzt. Bei dringenden Nachrichten sprechen sie bitte auf die Sprachbox. Danke!\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ Mitteilung an die Gäste des FCS:\_ \_ \_ \nMomentan sind leider keine Rundflüge mit unserem Motorsegler möglich. Sollten Sie bereits einen Gutschein dafür erworben haben, melden Sie sich gerne bei uns, über einen passenden Ersatz kann dann gemeinsam gesprochen werden. Vielen Dank für Ihr Verständnis!\n\n"
     actions: []
     colors: bg-light-fg-dark
     styles:
