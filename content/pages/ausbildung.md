@@ -43,7 +43,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: 'Hier ein paar Antworten auf oft gestellte Fragen:'
+      text: ''
       color: text-dark
       styles:
         self:
