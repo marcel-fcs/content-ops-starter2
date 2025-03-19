@@ -113,7 +113,7 @@ bottomSections:
       self:
         justifyContent: center
 slug: Norbert-51-Jahre Fluglehrer
-isFeatured: false
+isFeatured: true
 isDraft: false
 seo:
   type: Seo
