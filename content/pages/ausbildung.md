@@ -43,7 +43,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: Wie werde ich Pilot?
+      text: 'Hier ein paar Antworten auf oft gestellte Fragen:'
       color: text-dark
       styles:
         self:
