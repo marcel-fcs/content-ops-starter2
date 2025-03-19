@@ -93,7 +93,7 @@ sections:
           textAlign: center
     items:
       - type: FeaturedItem
-        title: Faux Fur Throw
+        title: ''
         subtitle: $ 88 – $ 176
         text: >+
           Available in a range of colors and patterns, we make it easy to pick
