@@ -243,7 +243,7 @@ sections:
               borderRadius: x-large
         actions:
           - type: Link
-            label: See Tutorials
+            label: weiterlesen
             altText: ''
             url: /blog/Ralf_Namibia
             showIcon: false
