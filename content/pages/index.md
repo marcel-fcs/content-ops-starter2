@@ -225,8 +225,15 @@ sections:
         title: Feature Item One
         tagline: Bericht
         subtitle: This is the item subtitle
-        text: |
-          Follow the tutorial to build your first Netlify Create site.
+        text: >
+          Vom 03. bis zum 13. Januar 2025 sind Norbert und Ralf in Bitterwasser
+          geflogen. Auf diesem weltberühmten Segelflugplatz in Namibia wurden in
+          den letzten Jahren in der dortigen Flugsaison (November bis Januar)
+          jeweils weltweit die größte Anzahl an Segelflügen über 1.000 Kilometer
+          geflogen, neben vielen Landes- und auch Weltrekorden. Als Flugzeug
+          haben beide einen der leistungsfähigsten Doppelsitzer der Welt
+          gechartert, eine „EB 28 Edition“ mit einer Spannweite von über 28
+          Metern....
         image:
           type: ImageBlock
           url: /images/Bild2.jpg
