@@ -35,7 +35,7 @@
                 "type": "Link",
                 "label": "Fahrzeuge",
                 "altText": "",
-                "url": "/verein",
+                "url": "/verein/fahrzeuge",
                 "showIcon": false,
                 "icon": "arrowRight",
                 "iconPosition": "right",
