@@ -53,7 +53,7 @@ bottomSections:
       self:
         justifyContent: center
 slug: Anfliegen!
-isFeatured: true
+isFeatured: false
 isDraft: false
 seo:
   type: Seo
