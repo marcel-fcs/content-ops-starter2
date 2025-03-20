@@ -48,7 +48,7 @@ bottomSections:
         image:
           type: ImageBlock
           url: /images/Bild2.jpg
-          altText: Image alt text placeholder
+          altText: Bild
           elementId: ''
           styles:
             self:
