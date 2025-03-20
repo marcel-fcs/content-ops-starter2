@@ -64,7 +64,7 @@ styles:
 ---
 **Wie beschäftigt man sich eigentlich im Winter, wenn man nicht fliegt?** Man zehrt natürlich von der im Sommer angesammelten Arbeit, damit man auch zwischen Oktober und März Gründe hat, ein Feierabendbier nach abgeschlossener Arbeit zu genießen.
 
-![](https://www.fliegerclub-sbk.de/wp-content/uploads/2025/02/WhatsApp-Image-2025-02-01-at-15.46.16-300x169.jpeg)![](https://www.fliegerclub-sbk.de/wp-content/uploads/2025/02/WhatsApp-Image-2025-01-11-at-17.48.08-461x1024.jpeg) Dieses Jahr sind wir mit der Winterarbeit gut voran gekommen. So wurden unter anderem die Flugzeuge wieder fit gemacht, die nun also bis auf das sogenannte *Airworthiness Review Certificate (ARC)* wieder saisonbereit sind. Reparaturen wurden auch an den auf dem Flugplatz genutzten Autos durchgeführt, ebenso wie der Winde. Diese verfügt jetzt über zwei Kunststoffseile, womit der Schönebecker Verein nun auf dem neuesten Stand der (Winden)Technik ist.
+![](https://www.fliegerclub-sbk.de/wp-content/uploads/2025/02/WhatsApp-Image-2025-02-01-at-15.46.16-300x169.jpeg)![](https://www.fliegerclub-sbk.de/wp-content/uploads/2025/02/WhatsApp-Image-2025-01-11-at-17.48.08-461x1024.jpeg)Dieses Jahr sind wir mit der Winterarbeit gut voran gekommen. So wurden unter anderem die Flugzeuge wieder fit gemacht, die nun also bis auf das sogenannte *Airworthiness Review Certificate (ARC)* wieder saisonbereit sind. Reparaturen wurden auch an den auf dem Flugplatz genutzten Autos durchgeführt, ebenso wie der Winde. Diese verfügt jetzt über zwei Kunststoffseile, womit der Schönebecker Verein nun auf dem neuesten Stand der (Winden)Technik ist.
 
 ![](https://www.fliegerclub-sbk.de/wp-content/uploads/2025/02/WhatsApp-Image-2025-01-11-at-17.48.08-1-300x225.jpeg)
 
