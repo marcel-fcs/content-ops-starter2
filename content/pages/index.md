@@ -3,8 +3,8 @@ title: Home
 slug: /
 sections:
   - type: GenericSection
-    title: Herzlich Willkommen!
-      text: ''
+    title: 
+      text: 'Herzlich Willkommen!'
       color: text-dark
       type: TitleBlock
       styles:
