@@ -24,59 +24,98 @@ featuredImage:
         - pb-0
         - pr-0
 bottomSections:
-  - type: ImageGallerySection
+  - type: CarouselSection
     subtitle: ''
-    images:
-      - type: ImageBlock
-        url: /images/Bild2.jpg
-        altText: Empathy logo
-        elementId: ''
-      - type: ImageBlock
-        url: /images/wellster-logo.svg
-        altText: Wellster logo
-        elementId: ''
-      - type: ImageBlock
-        url: /images/vise-logo.svg
-        altText: Vise logo
-        elementId: ''
-      - type: ImageBlock
-        url: /images/telus-logo.svg
-        altText: Telus logo
-        elementId: ''
-      - type: ImageBlock
-        url: /images/contenful-logo.svg
-        altText: Contentful logo
-        elementId: ''
-      - type: ImageBlock
-        url: /images/sanity-logo.svg
-        altText: Sanity logo
-        elementId: ''
-      - type: ImageBlock
-        url: /images/rangle-logo.svg
-        altText: Rangle logo
-        elementId: ''
-    elementId: ''
-    motion: static
+    items:
+      - type: FeaturedItem
+        title: ''
+        tagline: ''
+        subtitle: ''
+        text: ''
+        actions: []
+        colors: bg-dark-fg-light
+        styles:
+          self:
+            padding:
+              - pt-9
+              - pb-9
+              - pl-9
+              - pr-9
+            textAlign: left
+            borderRadius: large
+            flexDirection: row
+            justifyContent: center
+        image:
+          type: ImageBlock
+          url: /images/Bild2.jpg
+          altText: Bild
+          elementId: ''
+          styles:
+            self:
+              borderRadius: medium
+      - type: FeaturedItem
+        title: ''
+        tagline: ''
+        subtitle: ''
+        text: ''
+        image:
+          type: ImageBlock
+          url: /images/Afrika_1-1024x768.jpeg
+          altText: Bild
+          elementId: ''
+          styles:
+            self:
+              borderRadius: medium
+        actions: []
+        colors: bg-dark-fg-light
+        styles:
+          self:
+            padding:
+              - pt-9
+              - pb-9
+              - pl-9
+              - pr-9
+            textAlign: left
+            borderRadius: large
+            flexDirection: row
+            justifyContent: center
+      - type: FeaturedItem
+        title: ''
+        tagline: ''
+        subtitle: ''
+        text: ''
+        image:
+          type: ImageBlock
+          url: /images/Afrika_3-1024x768.jpeg
+          altText: Bild
+          elementId: ''
+          styles:
+            self:
+              borderRadius: medium
+        actions: []
+        colors: bg-dark-fg-light
+        styles:
+          self:
+            padding:
+              - pt-9
+              - pb-9
+              - pl-9
+              - pr-9
+            textAlign: left
+            borderRadius: large
+            flexDirection: row
+            justifyContent: center
+    variant: next-prev-nav
     colors: bg-light-fg-dark
     styles:
       self:
-        margin:
-          - mt-0
-          - ml-0
-          - mb-0
-          - mr-0
-        padding:
-          - pt-16
-          - pl-16
-          - pb-16
-          - pr-16
         justifyContent: center
       subtitle:
         textAlign: center
   - type: DividerSection
     title: Divider
     elementId: ''
-    colors: bg-neutral-fg-dark
+    colors: bg-light-fg-dark
     styles:
       self:
         padding:
