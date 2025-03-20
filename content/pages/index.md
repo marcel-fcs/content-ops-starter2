@@ -60,18 +60,6 @@ sections:
       backgroundRepeat: no-repeat
       opacity: 100
       url: /images/GEPO1789.JPG
-    media:
-      type: ImageBlock
-      url: /images/hero2.svg
-      altText: Image alt text placeholder
-      elementId: ''
-      styles:
-        self:
-          borderRadius: medium
-          padding:
-            - pl-5
-          margin:
-            - ml-52
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
