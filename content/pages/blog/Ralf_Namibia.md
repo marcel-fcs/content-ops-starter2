@@ -54,7 +54,7 @@ bottomSections:
             self:
               borderRadius: medium
       - type: FeaturedItem
-        title: Business Consulting
+        title: ''
         tagline: ''
         subtitle: Be in good company
         text: >-
