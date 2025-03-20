@@ -60,7 +60,7 @@ bottomSections:
         text: ''
         image:
           type: ImageBlock
-          url: /images/img-placeholder.svg
+          url: /images/Afrika_1-1024x768.jpeg
           altText: Business consulting
           elementId: ''
           styles:
