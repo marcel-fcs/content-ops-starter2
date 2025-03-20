@@ -184,7 +184,7 @@ sections:
         altText: ''
         url: /blog
         showIcon: true
-        icon: arrowRight
+        icon: vereinsflieger
         iconPosition: right
         style: primary
         elementId: ''
