@@ -14,8 +14,10 @@ sections:
     text: |
       Schon immer davon geträumt Pilot zu werden?<br/>
       Mit uns kann Ihr Traum wahr werden!
+    color: text-neutral
     actions:
       - label: Hier geht's zu deinem Flug
+        color: text-neutral
         altText: ''
         url: /gaeste
         showIcon: true
@@ -184,7 +186,7 @@ sections:
         altText: ''
         url: /blog
         showIcon: true
-        icon: vereinsflieger
+        icon: arrowRight
         iconPosition: right
         style: primary
         elementId: ''
