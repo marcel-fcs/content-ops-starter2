@@ -35,7 +35,7 @@ bottomSections:
   - type: RecentPostsSection
     title:
       type: TitleBlock
-      text: Recent posts
+      text: weitere Berichte
       color: text-dark
       styles:
         self:

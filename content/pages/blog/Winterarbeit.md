@@ -31,7 +31,7 @@ bottomSections:
   - type: RecentPostsSection
     title:
       type: TitleBlock
-      text: Recent posts
+      text: weitere Berichte
       color: text-dark
       styles:
         self:
@@ -49,7 +49,7 @@ bottomSections:
       self:
         justifyContent: center
 slug: Winterarbeit
-isFeatured: true
+isFeatured: false
 isDraft: false
 seo:
   type: Seo
