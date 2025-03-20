@@ -61,7 +61,7 @@ bottomSections:
         image:
           type: ImageBlock
           url: /images/Afrika_1-1024x768.jpeg
-          altText: Business consulting
+          altText: Bild
           elementId: ''
           styles:
             self:
