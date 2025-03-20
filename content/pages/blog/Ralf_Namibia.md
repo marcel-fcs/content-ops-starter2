@@ -32,13 +32,6 @@ bottomSections:
         tagline: ''
         subtitle: ''
         text: ''
-        image:
-          type: ImageBlock
-          url: /images/Bild2.jpg
-          altText: Maria Walters
-          styles:
-            self:
-              borderRadius: full
         actions: []
         colors: bg-neutralAlt-fg-dark
         styles:
