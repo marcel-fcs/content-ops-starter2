@@ -53,7 +53,7 @@ sections:
           - ml-0
           - mt-0
           - mb-0
-          - mr-0
+          - mr-8
       text:
         textAlign: left
       subtitle:
