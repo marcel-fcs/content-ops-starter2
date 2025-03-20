@@ -1,7 +1,7 @@
 ---
 title: alle Berichte
 slug: /blog
-numOfPostsPerPage: 0
+numOfPostsPerPage: 1000
 enableSearch: true
 topSections:
   - title:
