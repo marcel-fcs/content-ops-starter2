@@ -70,6 +70,8 @@ sections:
           borderRadius: medium
           padding:
             - pl-5
+          margin:
+            - ml-52
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
