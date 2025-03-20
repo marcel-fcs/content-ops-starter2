@@ -4,8 +4,8 @@ slug: /
 sections:
   - type: GenericSection
     title: 
-      text: 'Herzlich Willkommen!'
-      color: text-dark
+      text: 'Herzlich Willkommen beim Fliegerclub Schönebeck e.V.!'
+      color: #000000
       type: TitleBlock
       styles:
         self:
