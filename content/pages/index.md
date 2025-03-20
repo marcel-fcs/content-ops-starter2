@@ -15,7 +15,7 @@ sections:
        <span style="color:red">Schon immer davon geträumt Pilot zu werden?<br/>
             Mit uns kann Ihr Traum wahr werden! </span> 
     actions:
-      - label: '| ''<span style="color:red">Hier geht''s zu deinem Flug </span>'''
+      - label: '| <span style="color:red">Hier geht''s zu deinem Flug </span>'
         altText: ''
         url: /gaeste
         showIcon: true
