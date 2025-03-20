@@ -99,7 +99,7 @@
         {
             "altText": "Email link",
             "url": "/kontakt",
-            "icon": "vereinsflieger",
+            "icon": "mail",
             "type": "Social"
         }
     ],
