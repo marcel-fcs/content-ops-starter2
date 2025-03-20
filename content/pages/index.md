@@ -44,10 +44,10 @@ sections:
         alignItems: center
         flexDirection: row
         padding:
-          - pt-32
-          - pl-0
-          - pb-48
-          - pr-72
+          - pt-6
+          - pl-6
+          - pb-6
+          - pr-6
         justifyContent: flex-start
         margin:
           - ml-0
