@@ -1,0 +1,55 @@
+{
+    "model": "FeaturedItem",
+    "srcType": "git",
+    "srcProjectId": "9a0364b9",
+    "presets": [
+        {
+            "label": "Bilder",
+            "locale": null,
+            "metadata": {
+                "categories": [
+                    "Verein"
+                ],
+                "canDelete": true
+            },
+            "data": {
+                "title": "",
+                "tagline": "",
+                "subtitle": "",
+                "text": "",
+                "image": {
+                    "$$type": "ImageBlock",
+                    "url": {
+                        "$$ref": "stackbit_asset_id:static:public/images/Afrika_1-1024x768.jpeg",
+                        "$$type": "__asset_model"
+                    },
+                    "altText": "Bild",
+                    "elementId": "",
+                    "styles": {
+                        "self": {
+                            "borderRadius": "medium"
+                        }
+                    }
+                },
+                "actions": [],
+                "elementId": null,
+                "colors": "bg-dark-fg-light",
+                "styles": {
+                    "self": {
+                        "padding": [
+                            "pt-9",
+                            "pb-9",
+                            "pl-9",
+                            "pr-9"
+                        ],
+                        "textAlign": "left",
+                        "borderRadius": "large",
+                        "flexDirection": "row",
+                        "justifyContent": "center"
+                    }
+                }
+            },
+            "thumbnail": "images/featured-item-bilder-b840.png"
+        }
+    ]
+}
