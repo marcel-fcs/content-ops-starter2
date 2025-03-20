@@ -2,7 +2,7 @@
     "model": "Button",
     "presets": [
         {
-            "label": "vereinsflieger button",
+            "label": "Vereinsflieger button",
             "locale": null,
             "data": {
                 "label": "Log in",
