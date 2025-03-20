@@ -46,7 +46,7 @@
                 "type": "Link",
                 "label": "Geschichte",
                 "altText": "",
-                "url": "/verein",
+                "url": "/verein/geschichte",
                 "showIcon": false,
                 "icon": "arrowRight",
                 "iconPosition": "right",
