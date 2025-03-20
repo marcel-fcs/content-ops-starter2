@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title: 
       text: 'Herzlich Willkommen beim Fliegerclub Schönebeck e.V.!'
-      color: text-black
+      color: text-neutral
       type: TitleBlock
       styles:
         self:
