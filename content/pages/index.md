@@ -15,7 +15,7 @@ sections:
       <h2><span style="color:#ba0b20">Fliegerclub Schönebeck
       e.V.<br/></span></h2>
 
-      <br/><br/><br/><br/>
+      <br/><br/><br/><br/><br/><br/><br/>
 
       <span style="color:#ba0b20">Schon immer davon geträumt Pilot zu werden?
 
