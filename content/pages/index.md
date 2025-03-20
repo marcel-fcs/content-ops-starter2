@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title: 
-      text: 'Herzlich Willkommen beim Fliegerclub Schönebeck e.V.!'
+      text: ''
       color: text-neutral
       type: TitleBlock
       styles:
@@ -28,7 +28,7 @@ sections:
       <br/>Mit uns kann Ihr Traum wahr werden!</span>
 
     actions:
-      - label: <span style="color:red">Hier geht's zu deinem Flug </span> 
+      - label: Hier geht's zu deinem Flug
         color: text-neutral
         altText: ''
         url: /gaeste
