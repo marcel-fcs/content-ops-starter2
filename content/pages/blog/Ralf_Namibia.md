@@ -80,7 +80,7 @@ bottomSections:
             flexDirection: row
             justifyContent: center
       - type: FeaturedItem
-        title: Bild
+        title: ''
         tagline: ''
         subtitle: ''
         text: ''
