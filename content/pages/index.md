@@ -51,7 +51,7 @@ sections:
         justifyContent: flex-start
         margin:
           - ml-0
-          - mt-1
+          - mt-0
           - mb-7
           - mr-0
       text:
