@@ -86,7 +86,7 @@ bottomSections:
         text: ''
         image:
           type: ImageBlock
-          url: /images/Afrika_1-1024x768.jpeg
+          url: /images/Afrika_3-1024x768.jpeg
           altText: Bild
           elementId: ''
           styles:
