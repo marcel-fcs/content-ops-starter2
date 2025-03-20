@@ -79,6 +79,32 @@ bottomSections:
             borderRadius: large
             flexDirection: row
             justifyContent: center
+      - type: FeaturedItem
+        title: Bild
+        tagline: ''
+        subtitle: ''
+        text: ''
+        image:
+          type: ImageBlock
+          url: /images/Afrika_1-1024x768.jpeg
+          altText: Bild
+          elementId: ''
+          styles:
+            self:
+              borderRadius: medium
+        actions: []
+        colors: bg-dark-fg-light
+        styles:
+          self:
+            padding:
+              - pt-9
+              - pb-9
+              - pl-9
+              - pr-9
+            textAlign: left
+            borderRadius: large
+            flexDirection: row
+            justifyContent: center
     variant: next-prev-nav
     colors: bg-light-fg-dark
     styles:
