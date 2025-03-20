@@ -73,7 +73,7 @@ sections:
       backgroundSize: auto
       backgroundPosition: center
       backgroundRepeat: no-repeat
-      opacity: 100
+      opacity: 60
       url: /images/GEPO1789.JPG
   - type: FeaturedItemsSection
     title:
