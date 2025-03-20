@@ -34,7 +34,7 @@ bottomSections:
         text: ''
         image:
           type: ImageBlock
-          url: /images/person-placeholder-light.png
+          url: /images/Bild2.jpg
           altText: Maria Walters
           styles:
             self:
