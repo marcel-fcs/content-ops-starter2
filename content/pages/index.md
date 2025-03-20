@@ -14,7 +14,8 @@ sections:
     text: >
       <span style="color:#fcba03">Schon immer davon geträumt Pilot zu
       werden?<br/>
-            Mit uns kann Ihr Traum wahr werden!<br/>Mit uns kann Ihr Traum wahr werden!</span>
+
+      <br/>Mit uns kann Ihr Traum wahr werden!</span>
     actions:
       - label: Hier geht's zu deinem Flug
         altText: ''
