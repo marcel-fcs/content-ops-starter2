@@ -11,9 +11,9 @@ sections:
         self:
           fontWeight: 400
     subtitle: ''
-    text: |2-
-       <span style="color:red">Schon immer davon geträumt Pilot zu werden?<br/>
-            Mit uns kann Ihr Traum wahr werden! </span> 
+    text: |+
+      <span style="color:#fcba03"><br/></span>
+
     actions:
       - label: Hier geht's zu deinem Flug
         altText: ''
