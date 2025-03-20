@@ -98,7 +98,7 @@
         },
         {
             "altText": "Email link",
-            "url": "/",
+            "url": "/kontakt",
             "icon": "mail",
             "type": "Social"
         }
