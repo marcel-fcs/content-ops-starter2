@@ -10,10 +10,23 @@ sections:
       styles:
         self:
           fontWeight: 400
-    subtitle: 'Entdecke mit uns eine neue Dimension!'
-    text: |
-     <span style="color:red">Schon immer davon geträumt Pilot zu werden?<br/>
-      Mit uns kann Ihr Traum wahr werden! </span> 
+    subtitle: ''
+    text: >+
+      <h2><span style="color:#0c0b7e">Fliegerclub Schönebeck
+      e.V.<br/></span></h2>
+
+      <br/><br/><br/><br/><br/><br/><br/><br/><br/>
+
+
+
+
+      <br/>
+
+
+      <span style="color:#0c0b7e">Schon immer davon geträumt Pilot zu werden?
+
+      <br/>Mit uns kann Ihr Traum wahr werden!</span>
+
     actions:
       - label: <span style="color:red">Hier geht's zu deinem Flug </span> 
         color: text-neutral
@@ -38,15 +51,15 @@ sections:
         alignItems: center
         flexDirection: row
         padding:
-          - pt-44
+          - pt-8
           - pl-0
-          - pb-48
-          - pr-72
+          - pb-28
+          - pr-60
         justifyContent: flex-start
         margin:
           - ml-0
           - mt-0
-          - mb-0
+          - mb-7
           - mr-0
       text:
         textAlign: left
@@ -58,7 +71,7 @@ sections:
       backgroundSize: auto
       backgroundPosition: center
       backgroundRepeat: no-repeat
-      opacity: 100
+      opacity: 75
       url: /images/GEPO1789.JPG
   - type: FeaturedItemsSection
     title:
