@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title: 
       text: 'Herzlich Willkommen beim Fliegerclub Schönebeck e.V.!'
-      color: #ee7621
+      color: text-neutral
       type: TitleBlock
       styles:
         self:
@@ -14,10 +14,10 @@ sections:
     text: |
       Schon immer davon geträumt Pilot zu werden?<br/>
       Mit uns kann Ihr Traum wahr werden!
-    color: #ee7621
+    color: text-neutral
     actions:
       - label: Hier geht's zu deinem Flug
-        color: '#ee7621'
+        color: text-neutral
         altText: ''
         url: /gaeste
         showIcon: true
