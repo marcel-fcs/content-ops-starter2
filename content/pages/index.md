@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Fliegerclub Schönebeck e.V.
+      text: ''
       color: text-dark
       type: TitleBlock
       styles:
