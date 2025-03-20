@@ -52,7 +52,7 @@ sections:
         margin:
           - ml-0
           - mt-6
-          - mb-0
+          - mb-7
           - mr-0
       text:
         textAlign: left
