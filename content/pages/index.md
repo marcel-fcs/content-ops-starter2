@@ -51,7 +51,7 @@ sections:
         padding:
           - pt-8
           - pl-0
-          - pb-10
+          - pb-16
           - pr-60
         justifyContent: flex-start
         margin:
