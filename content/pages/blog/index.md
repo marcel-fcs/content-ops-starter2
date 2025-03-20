@@ -1,14 +1,14 @@
 ---
-title: Blog
+title: alle Berichte
 slug: /blog
-numOfPostsPerPage: 8
+numOfPostsPerPage: 0
 enableSearch: true
 topSections:
   - title:
-      text: Featured Post
+      text: Highlight
       color: text-dark
       type: TitleBlock
-    subtitle: This is the subtitle
+    subtitle: ''
     posts:
       - content/pages/blog/top-ten-lessons-we-learned.md
     showThumbnail: true
@@ -51,5 +51,5 @@ postFeed:
   elementId: null
   variant: three-col-grid
   colors: bg-light-fg-dark
-  hoverEffect: move-up
+  hoverEffect: shadow-plus-move-up
 ---
