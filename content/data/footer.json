@@ -13,7 +13,7 @@
                 "type": "Link",
                 "label": "Vorstand",
                 "altText": "",
-                "url": "/verein",
+                "url": "/verein/vorstand",
                 "showIcon": false,
                 "icon": "arrowRight",
                 "iconPosition": "right",
@@ -24,7 +24,7 @@
                 "type": "Link",
                 "label": "Luftfahrzeuge",
                 "altText": "",
-                "url": "/verein",
+                "url": "/verein/luftfahrzeuge",
                 "showIcon": false,
                 "icon": "arrowRight",
                 "iconPosition": "right",
@@ -35,7 +35,7 @@
                 "type": "Link",
                 "label": "Fahrzeuge",
                 "altText": "",
-                "url": "/verein",
+                "url": "/verein/fahrzeuge",
                 "showIcon": false,
                 "icon": "arrowRight",
                 "iconPosition": "right",
@@ -46,7 +46,7 @@
                 "type": "Link",
                 "label": "Geschichte",
                 "altText": "",
-                "url": "/verein",
+                "url": "/verein/geschichte",
                 "showIcon": false,
                 "icon": "arrowRight",
                 "iconPosition": "right",
@@ -69,7 +69,7 @@
             },
             {
                 "label": "FAQ",
-                "url": "/kontakt",
+                "url": "/ausbildung",
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
@@ -98,7 +98,7 @@
         },
         {
             "altText": "Email link",
-            "url": "/",
+            "url": "/kontakt",
             "icon": "mail",
             "type": "Social"
         }
