@@ -12,7 +12,7 @@ sections:
           fontWeight: 400
     subtitle: ''
     text: |
-      <span style="color:#ba0b20">Fliegerclub Schönebeck e.V.</span>
+      <span style="color:#ba0b20">Fliegerclub Schönebeck e.V.<br/></span>
 
       <span style="color:#ba0b20">Schon immer davon geträumt Pilot zu werden?
       <br/>Mit uns kann Ihr Traum wahr werden!</span>
