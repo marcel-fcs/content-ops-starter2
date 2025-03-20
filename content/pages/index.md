@@ -10,7 +10,7 @@ sections:
       styles:
         self:
           fontWeight: 400
-    subtitle: Entdecke mit uns eine neue Dimension!
+    subtitle: ''
     text: |2-
        <span style="color:red">Schon immer davon geträumt Pilot zu werden?<br/>
             Mit uns kann Ihr Traum wahr werden! </span> 
