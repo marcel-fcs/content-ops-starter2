@@ -11,25 +11,22 @@ sections:
         self:
           fontWeight: 400
     subtitle: ''
-    text: >+
-      <h2><span style="color:#0c0b7e">Fliegerclub Schönebeck
-      e.V.<br/></span></h2>
+    text: >
+      <h2><span style="color:#0c0b7e"><nobr>Fliegerclub</nobr><nobr>Schönebeck
+      e.V.</nobr><br/></span></h2>
 
       <br/><br/><br/><br/><br/><br/><br/><br/><br/>
-
-
 
 
       <br/>
 
 
-      <span style="color:#0c0b7e">Schon immer davon geträumt Pilot zu werden?
+      <span style="color:#0c0b7e"><nobr>Schon immer davon geträumt Pilot zu
+      werden?</nobr>
 
-      <br/>Mit uns kann Ihr Traum wahr werden!</span>
-
+      <br/><nobr>Mit uns kann Ihr Traum wahr werden!</nobr></span>
     actions:
-      - label: Hier geht's zu deinem Flug
-        color: text-neutral
+      - label: Hier geht's zu Deinem Flug
         altText: ''
         url: /gaeste
         showIcon: true
@@ -52,7 +49,7 @@ sections:
         flexDirection: row
         padding:
           - pt-8
-          - pl-0
+          - pl-1
           - pb-28
           - pr-60
         justifyContent: flex-start
