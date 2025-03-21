@@ -26,7 +26,7 @@ sections:
 
       <br/><nobr>Mit uns kann Ihr Traum wahr werden!</nobr></span>
     actions:
-      - label: <nobr>Hier geht's zu deinem Flug</nobr>
+      - label: Hier geht's zu deinem Flug
         altText: ''
         url: /gaeste
         showIcon: true
