@@ -11,8 +11,8 @@ sections:
         self:
           fontWeight: 400
     subtitle: ''
-    text: >
-      <h2><span style="color:#0c0b7e"><nobr>Fliegerclub</nobr><nobr>Schönebeck
+    text: >+
+      <h2><span style="color:#0c0b7e"><nobr>Fliegerclub</nobr> <nobr>Schönebeck
       e.V.</nobr><br/></span></h2>
 
       <br/><br/><br/><br/><br/><br/><br/><br/><br/>
@@ -25,6 +25,7 @@ sections:
       werden?</nobr>
 
       <br/><nobr>Mit uns kann Ihr Traum wahr werden!</nobr></span>
+
     actions:
       - label: Hier geht's zu Deinem Flug
         altText: ''
