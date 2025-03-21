@@ -13,7 +13,7 @@ sections:
     subtitle: ''
     text: >+
       <h2><span style="color:#0c0b7e">```Fliegerclub Schönebeck
-      e.V.<br/>```</span></h2>
+      e.V.```<br/></span></h2>
 
       <br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
