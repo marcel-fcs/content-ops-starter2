@@ -23,8 +23,16 @@ const CookieConsentBanner = () => {
         console.log("Cookies declined");
       }}
     >
-      This website uses cookies to enhance your experience. By using our website, you consent to the use of cookies. 
-      You can read more in our <Link href="/privacy-policy"><a>privacy policy</a></Link>.
+      Um unsere Webseite für Sie optimal zu gestalten und fortlaufend verbessern zu können, verwenden wir Cookies. 
+      Bei Cookies handelt es sich um kleine Textdateien, die auf Ihrer Festplatte dem von Ihnen verwendeten Browser zugeordnet gespeichert werden und durch welche der Stelle,
+      die den Cookie setzt (hier durch uns), bestimmte Informationen zufließen. 
+      Cookies können keine Programme ausführen oder Viren auf Ihren Computer übertragen. 
+      Sie dienen dazu, das Internetangebot insgesamt nutzerfreundlicher und effektiver zu machen. 
+      Rechtsgrundlage für die Verwendung von Cookies ist Art. 6 Abs. 1 Satz 1 lit f) DSGVO. 
+      Durch die weitere Nutzung der Webseite stimmen Sie der Verwendung von Cookies zu. 
+      Weitere Informationen zu Cookies erhalten Sie in unter 'Weiterlesen'. 
+      Wenn Sie mit der Verwendung von Cookies Einverstanden sind, und diesen Hinweis ausblenden wollen, klicken Sie bitte auf 'OK'. 
+      Die Datenschutzerklärung ist hier einsehbar <Link href="/datenschutz/"style={{ color: "#4CAF50" }}><a>Datenschutzerklärung</a></Link>.
     </CookieConsent>
   );
 };
