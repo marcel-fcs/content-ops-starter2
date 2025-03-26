@@ -8,7 +8,7 @@ const CookieConsentBanner = () => {
       location="bottom"
       buttonText="Akzeptieren"
       //declineButtonText="Ablehnen"
-      enableDeclineButton
+    //  enableDeclineButton
       cookieName="CookieConsent"
       style={{ background: "#2B373B", color: "#FFF" }}
       buttonStyle={{ backgroundColor: "#4CAF50", color: "#FFF", fontSize: "14px" }}
