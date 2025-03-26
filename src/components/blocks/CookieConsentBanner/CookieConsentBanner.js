@@ -20,7 +20,8 @@ const CookieConsentBanner = () => {
       }}
       onDecline={() => {
         // Add functionality when user declines cookies
-        document.cookie = "user_cookie_consent=; expires=Thu, 01 Jan 1970 00:00:00 UTC; path=/";
+        document.cookie = "user_cookie_consent=; expires=Thu, 01 Jan 1970 00:00:00 UTC; path=/; domain=https://fliegerclub-sbk.netlify.app/;"
+        document.cookie = "other_cookie=; expires=Thu, 01 Jan 1970 00:00:00 UTC; path=/; domain=https://fliegerclub-sbk.netlify.app/;"
         console.log("Cookies declined");
       }}
     >
