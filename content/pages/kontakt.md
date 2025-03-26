@@ -9,7 +9,8 @@ sections:
       color: text-dark
     subtitle: 'Sie können uns so erreichen:'
     text: "| Anschrift: | **Fliegerclub\_Schönebeck e.V.**            |\n| ---------- | ------------------------------------------ |\n|            | **Flugplatz Zackmünde**                    |\n|            | **39249\_Pömmelte**                         |\n|            |                                            |\n|            |                                            |\n| Telefon:   | **+49 3928 400647** -Nur am Wochenende-    |\n|            | **+49\_170 1601004** -Auch unter der Woche- |\n| Telefax:   | **+49 3928 400647**                        |\n| E-Mail:    | <info@fliegerclub-sbk.de>                |\n\n"
- <iframe src="/karte" width="100%" height="500px" frameborder="0"></iframe>
+<!-- Karte: -->
+      <iframe src="/karte" width="100%" height="500px" frameborder="0"></iframe>
     actions: []
     media:
       type: ImageBlock
