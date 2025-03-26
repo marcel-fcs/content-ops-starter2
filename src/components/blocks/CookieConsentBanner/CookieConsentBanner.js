@@ -6,8 +6,8 @@ const CookieConsentBanner = () => {
   return (
     <CookieConsent
       location="bottom"
-      buttonText="Accept All"
-      declineButtonText="Decline"
+      buttonText="Akzeptieren"
+      declineButtonText="Ablehnen"
       enableDeclineButton
       cookieName="yourAppCookieConsent"
       style={{ background: "#2B373B", color: "#FFF" }}
@@ -20,6 +20,7 @@ const CookieConsentBanner = () => {
       }}
       onDecline={() => {
         // Add functionality when user declines cookies
+        document.cookie = "user_cookie_consent=; expires=Thu, 01 Jan 1970 00:00:00 UTC; path=/";
         console.log("Cookies declined");
       }}
     >
@@ -30,9 +31,8 @@ const CookieConsentBanner = () => {
       Sie dienen dazu, das Internetangebot insgesamt nutzerfreundlicher und effektiver zu machen. 
       Rechtsgrundlage für die Verwendung von Cookies ist Art. 6 Abs. 1 Satz 1 lit f) DSGVO. 
       Durch die weitere Nutzung der Webseite stimmen Sie der Verwendung von Cookies zu. 
-      Weitere Informationen zu Cookies erhalten Sie in unter 'Weiterlesen'. 
-      Wenn Sie mit der Verwendung von Cookies Einverstanden sind, und diesen Hinweis ausblenden wollen, klicken Sie bitte auf 'OK'. 
-      Die Datenschutzerklärung ist hier einsehbar <Link href="/datenschutz/"style={{ color: "#4CAF50" }}><a>Datenschutzerklärung</a></Link>.
+      Wenn Sie mit der Verwendung von Cookies Einverstanden sind, und diesen Hinweis ausblenden wollen, klicken Sie bitte auf 'Akzeptieren'. 
+      Die Datenschutzerklärung ist hier einsehbar: <Link href="/datenschutz/"style={{ color: "#4CAF50" }}><a>Datenschutzerklärung</a></Link>.
     </CookieConsent>
   );
 };
