@@ -12,7 +12,7 @@ sections:
           fontWeight: 400
     subtitle: ''
     text: >
-      <h2><span style="color:#0c0b7e"><nobr>Fliegerclub </nobr><nobr>Schönebeck
+      <h2><span style="color:#0c0b7e"><nobr>Fliegerclub</nobr>&nbsp;<nobr>Schönebeck
       e.V.</nobr><br/></span></h2>
 
       <br/><br/><br/><br/><br/><br/><br/><br/><br/>
