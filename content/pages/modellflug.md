@@ -8,9 +8,8 @@ sections:
       text: Modellflug
       color: text-dark
     subtitle: ''
-    text: >
-      A service that helps businesses to manage their social media accounts and
-      posts.
+    text: |
+      Sparte Modellflug mit eigenem Modellflugplatz
     actions:
       - type: Button
         label: Get started
