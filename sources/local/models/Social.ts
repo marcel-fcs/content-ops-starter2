@@ -63,6 +63,10 @@ export const Social: Model = {
           value: 'twitter'
         },
         {
+          label: 'Vereinsflieger',
+          value: 'vereinsflieger'
+        },
+        {
           label: 'Vimeo',
           value: 'vimeo'
         },

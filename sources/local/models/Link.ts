@@ -130,6 +130,10 @@ export const Link: Model = {
           value: 'twitter'
         },
         {
+          label: 'Vereinsflieger',
+          value: 'vereinsflieger'
+        },
+        {
           label: 'Vimeo',
           value: 'vimeo'
         },

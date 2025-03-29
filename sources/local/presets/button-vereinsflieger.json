@@ -1,0 +1,20 @@
+{
+    "model": "Button",
+    "presets": [
+        {
+            "label": "Vereinsflieger button",
+            "locale": null,
+            "data": {
+                "label": "Log in",
+                "altText": "",
+                "url": "/",
+                "showIcon": true,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "style": "secondary",
+                "elementId": ""
+            },
+            "thumbnail": "images/button-vereinsflieger.png"
+        }
+    ]
+}

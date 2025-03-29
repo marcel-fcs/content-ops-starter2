@@ -4,7 +4,7 @@ import classNames from 'classnames';
 import { mapStylesToClassNames as mapStyles } from '../../../utils/map-styles-to-class-names';
 
 export default function TitleBlock(props) {
-    const { className, text = [], color = 'text-dark', styles = {} } = props;
+    const { className, text = [], color = '#ffffff', styles = {} } = props;
     const fieldPath = props['data-sb-field-path'];
     if (!text) {
         return null;

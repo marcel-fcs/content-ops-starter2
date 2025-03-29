@@ -2,7 +2,7 @@
  * @type {import('next').NextConfig}
  */
 const nextConfig = {
-    env: {
+         env: {
         stackbitPreview: process.env.STACKBIT_PREVIEW
     },
     trailingSlash: true,
