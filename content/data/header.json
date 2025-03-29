@@ -94,9 +94,9 @@
         },
         {
             "type": "Link",
-            "label": "Flugplatz",
+            "label": "Hier Landen: Fliegen ohne Betriebsleiter",
             "altText": "",
-            "url": "/piloten",
+            "url": "/landen",
             "showIcon": false,
             "icon": "arrowRight",
             "iconPosition": "right",
@@ -105,9 +105,9 @@
         },
         {
             "type": "Link",
-            "label": "Hier Landen: Fliegen ohne Betriebsleiter",
+            "label": "Modellflug",
             "altText": "",
-            "url": "/landen",
+            "url": "/modellflug",
             "showIcon": false,
             "icon": "arrowRight",
             "iconPosition": "right",
