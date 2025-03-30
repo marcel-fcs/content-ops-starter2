@@ -35,7 +35,7 @@ sections:
         textAlign: center
     type: GenericSection
 seo:
-  metaTitle: Careers - Demo site
+  metaTitle: Gästeflug - Fliegerclub Schönebeck e.V.
   metaDescription: This is the careers page built with Netlify Create.
   socialImage: /images/main-hero.jpg
   type: Seo
