@@ -283,9 +283,7 @@ seo:
   metaDescription: 'Segelflug, Motorflug und Modellflug'
   socialImage: /images/FLiegerclub_Logo_klein.jpg
   type: Seo
-  addTitleSuffix: true
-  metaTags:
-    - type: MetaTag
+  addTitleSuffix: false
 type: PageLayout
 isDraft: false
 ---

@@ -57,9 +57,9 @@ isFeatured: false
 isDraft: false
 seo:
   type: Seo
-  metaTitle: lorem-ipsum
-  metaDescription: lorem-ipsum
-  addTitleSuffix: false
+  metaTitle: Anfliegen!
+  metaDescription: Blog
+  addTitleSuffix: true
   metaTags: []
 colors: bg-light-fg-dark
 styles:
