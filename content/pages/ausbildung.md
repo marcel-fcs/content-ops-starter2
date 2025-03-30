@@ -449,7 +449,7 @@ slug: /ausbildung
 isDraft: false
 seo:
   type: Seo
-  metaTitle: Ausbildung - Fliegerclub Schönebeck e.V.
+  metaTitle: Ausbildung
   metaDescription: Write here your new page's description including most relevant keywords.
   addTitleSuffix: true
   socialImage: /images/main-hero.jpg
