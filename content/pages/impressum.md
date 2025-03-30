@@ -24,7 +24,7 @@ slug: /impressum
 isDraft: false
 seo:
   type: Seo
-  metaTitle: Impressum - Fliegerclub Schönebeck e.V.
+  metaTitle: Impressum
   metaDescription: Write here your new page's description including most relevant keywords.
   addTitleSuffix: true
   socialImage: /images/main-hero.jpg
