@@ -144,9 +144,9 @@ isFeatured: false
 isDraft: false
 seo:
   type: Seo
-  metaTitle: lorem-ipsum
-  metaDescription: lorem-ipsum
-  addTitleSuffix: false
+  metaTitle: Norbert-51 Jahre Fluglehrer
+  metaDescription: Blog
+  addTitleSuffix: true
   metaTags: []
 colors: bg-light-fg-dark
 styles:
