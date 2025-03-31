@@ -162,7 +162,7 @@
         {
             "label": "Vf Log in",
             "url": "https://www.vereinsflieger.de",
-            "icon": "chevronBigRight",
+            "icon": "vereinsflieger",
             "iconPosition": "right",
             "style": "primary",
             "type": "Button",
