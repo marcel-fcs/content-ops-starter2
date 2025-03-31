@@ -20,6 +20,7 @@ import Reddit from './reddit';
 import Send from './send';
 import ShoppingBag from './shopping-bag';
 import Twitter from './twitter';
+import Vereinsflieger from './vereinsflieger';
 import Vimeo from './vimeo';
 import YouTube from './youtube';
 
@@ -46,6 +47,7 @@ export const iconMap = {
     send: Send,
     shoppingBag: ShoppingBag,
     twitter: Twitter,
+    vereinsflieger: Vereinsflieger,
     vimeo: Vimeo,
     youtube: YouTube
 };
