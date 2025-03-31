@@ -4,8 +4,10 @@ import CookieConsentBanner from '../components/blocks/CookieConsentBanner/Cookie
 export default function MyApp({ Component, pageProps }) {
    
     return (
-            <CookieConsentBanner /> 
+            <>
+            <CookieConsentBanner /> {/* Cookie-Banner-Komponente hier einfügen */}
             <Component {...pageProps} />
-           )
+        </>
+    );
     
 }
