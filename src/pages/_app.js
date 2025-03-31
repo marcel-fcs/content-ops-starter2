@@ -8,6 +8,6 @@ export default function MyApp({ Component, pageProps }) {
             <CookieConsentBanner /> {/* Cookie-Banner-Komponente hier einfügen */}
             <Component {...pageProps} />
         </>
-    );
+    )
     
 }
