@@ -18,12 +18,6 @@ const CookieConsentBanner = () => {
         // Add functionality when user accepts cookies
         console.log("Cookies accepted");
       }}
-    /*  onDecline={() => {
-        // Add functionality when user declines cookies
-        document.cookie = "user_cookie_consent=; expires=Thu, 01 Jan 1970 00:00:00 UTC; path=/; domain=https://fliegerclub-sbk.netlify.app;"
-        document.cookie = "other_cookie=; expires=Thu, 01 Jan 1970 00:00:00 UTC; path=/; domain=https://fliegerclub-sbk.netlify.app;"
-        console.log("Cookies declined");
-      }}*/    >
       Um unsere Webseite für Sie optimal zu gestalten und fortlaufend verbessern zu können, verwenden wir Cookies. 
       Bei Cookies handelt es sich um kleine Textdateien, die auf Ihrer Festplatte dem von Ihnen verwendeten Browser zugeordnet gespeichert werden und durch welche der Stelle,
       die den Cookie setzt (hier durch uns), bestimmte Informationen zufließen. 
