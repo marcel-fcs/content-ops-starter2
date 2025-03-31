@@ -5,7 +5,7 @@ export default function MyApp({ Component, pageProps }) {
    
     return (
             <>
-            <CookieConsentBanner /> {/* Cookie-Banner-Komponente hier einfügen */}
+            <CookieConsentBanner />
             <Component {...pageProps} />
         </>
     )
