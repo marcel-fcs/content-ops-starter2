@@ -17,7 +17,7 @@ const CookieConsentBanner = () => {
       onAccept={() => {
         // Add functionality when user accepts cookies
         console.log("Cookies accepted");
-      }}
+      }} >
       Um unsere Webseite für Sie optimal zu gestalten und fortlaufend verbessern zu können, verwenden wir Cookies. 
       Bei Cookies handelt es sich um kleine Textdateien, die auf Ihrer Festplatte dem von Ihnen verwendeten Browser zugeordnet gespeichert werden und durch welche der Stelle,
       die den Cookie setzt (hier durch uns), bestimmte Informationen zufließen. 
