@@ -82,4 +82,4 @@ async function indexObjects(objectsToIndex) {
     });
     await client.destroy();
     console.log(`Indexed ${response.objectIDs.length} objects`);
-}
+};
