@@ -85,4 +85,4 @@ export function seoGenerateOgImage(page, site) {
         }
     }
     return null;
-}
+};
