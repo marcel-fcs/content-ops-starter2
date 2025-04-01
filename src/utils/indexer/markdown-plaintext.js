@@ -88,4 +88,4 @@ export default class PlainTextRenderer {
     text(text) {
         return text;
     }
-}
+};
