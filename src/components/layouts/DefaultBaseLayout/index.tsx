@@ -17,4 +17,4 @@ export default function DefaultBaseLayout(props) {
             </div>
         </div>
     );
-}
+};
