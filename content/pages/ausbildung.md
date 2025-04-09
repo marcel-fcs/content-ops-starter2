@@ -282,19 +282,18 @@ sections:
       - type: FeaturedItem
         title: Was wäre wenn....?
         subtitle: ''
-        text: >+
-          Segelflugzeuge brauchen zum Fliegen keinen Wind. Sie fliegen auch –
-          und genauso gut – wenn es windstill ist. Beim Start wird das
-          Segelflugzeug durch eine Winde oder ein Motorflugzeug auf eine
-          bestimmte Höhe gebracht. Anschließend fliegt es auf einer schwach nach
-          unten geneigten Bahn. Dabei muss es für seinen Gleitflug ständig etwas
-          von seiner Ausgangshöhe opfern. Das Segelflugzeug setzt seine Flughöhe
-          in Flugstrecke um – solange, bis die Höhe verbraucht ist und das
-          Flugzeug landen muss.
+        text: |+
+          *   man in ein Luftloch kommt?
+              Nichts, denn es gibt keine Luftlöcher, nur Auf- und Abwinde, die das Flugzeug ganz einfach durchfliegt.
 
-          Moderne Segelflugzeuge erreichen spielend 250 km/h. Der
-          Höhenweltrekord liegt bei 14.000 Metern, die weiteste geflogene
-          Strecke bei 2050 km.
+          *   kein Aufwind mehr vorhanden ist?
+              Man landet auf dem Flugplatz.
+
+          *   der Flugplatz nicht mehr erreichbar ist?
+              Dann landet man auf einem geeigneten Feld. Jedes Segelflugzeug ist hierfür konstruiert.
+
+          *   das Schleppseil beim Start reißt?
+              Hierfür wird in der Ausbildung ein spezielles Verfahren geübt, das jeder Pilot beherrschen muss.
 
         actions: []
         colors: bg-dark-fg-light
