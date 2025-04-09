@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Satzung und FInanzordnung
+      text: Satzung und Finanzordnung
       color: text-dark
     subtitle: ''
     text: >
