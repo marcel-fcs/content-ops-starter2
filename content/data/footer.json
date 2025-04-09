@@ -5,6 +5,9 @@
         "type": "ImageBlock"
     },
     "text": "Fliegerclub Schönebeck e.V.\n\nZackmünde 11\n\n39249  Barby / OT Pömmelte\n\nTelefon:  +49 3928 400647\n\nEmail:  <info@fliegerclub-sbk.de>\n",
+    "map": {
+      "center": [51.505, -0.09],  // Beispiel Koordinaten für die Karte
+      "zoom": 13}
     "primaryLinks": {
         "type": "FooterLinksGroup",
         "title": "Verein",
