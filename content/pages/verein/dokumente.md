@@ -9,7 +9,7 @@ sections:
       color: text-dark
     subtitle: ''
     text: >
-      Hier finden Sie unsere aktuelle Satzung und Finanzordnung zur Verfügung:
+      Hier finden Sie unsere aktuelle Satzung und Finanzordnung zur Verfügung:<br/>
          [Unsere
       Satzung](https://www.fliegerclub-sbk.de/wp-content/uploads/2020/02/SatzungFCS_12_2019.pdf)<br/><br/>
 
