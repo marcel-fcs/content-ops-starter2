@@ -237,7 +237,7 @@ sections:
             flexDirection: row
             justifyContent: center
       - type: FeaturedItem
-        title: ist Segelfliegen teuer?
+        title: Ist Segelfliegen teuer?
         subtitle: ''
         text: >+
           Schwer zu sagen. Jedenfalls nicht teurer als beispielsweise Skifahren,
