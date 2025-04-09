@@ -9,8 +9,14 @@ sections:
       color: text-dark
     subtitle: ''
     text: >
-      A service that helps businesses to manage their social media accounts and
-      posts.
+      Hier finden Sie unsere aktuelle Satzung und Finanzordnung zur Verfügung:
+
+
+      [Unsere
+      Satzung](/https://www.fliegerclub-sbk.de/wp-content/uploads/2020/02/SatzungFCS_12_2019.pdf)
+
+      [Unsere
+      Finanzordnung](/https://www.fliegerclub-sbk.de/wp-content/uploads/2023/09/Finanzordnung-des-Fliegerclub-Schoenebeck-2022-06-01.pdf)
     actions:
       - type: Button
         label: Get started
