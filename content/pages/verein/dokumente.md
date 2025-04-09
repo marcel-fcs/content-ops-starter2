@@ -18,10 +18,6 @@ sections:
       [Unsere
       Finanzordnung](/https://www.fliegerclub-sbk.de/wp-content/uploads/2023/09/Finanzordnung-des-Fliegerclub-Schoenebeck-2022-06-01.pdf)
     actions: []
-    badge:
-      type: Badge
-      label: ''
-      color: text-primary
     colors: bg-light-fg-dark
     styles:
       self:
