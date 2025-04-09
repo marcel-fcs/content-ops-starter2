@@ -1,6 +1,10 @@
 'use client';
 
-import { MapContainer, TileLayer, Marker, Popup } from 'react-leaflet';
+import {
+  MapContainer,
+  TileLayer,
+  useMap,
+} from 'https://cdn.esm.sh/react-leaflet'
 import 'leaflet/dist/leaflet.css';
 import L from 'leaflet';
 import { useEffect } from 'react';
