@@ -13,10 +13,10 @@ sections:
 
 
       [Unsere
-      Satzung](/https://www.fliegerclub-sbk.de/wp-content/uploads/2020/02/SatzungFCS_12_2019.pdf)<br/>
+      Satzung](https://www.fliegerclub-sbk.de/wp-content/uploads/2020/02/SatzungFCS_12_2019.pdf)<br/>
 
       [Unsere
-      Finanzordnung](/https://www.fliegerclub-sbk.de/wp-content/uploads/2023/09/Finanzordnung-des-Fliegerclub-Schoenebeck-2022-06-01.pdf)
+      Finanzordnung](https://www.fliegerclub-sbk.de/wp-content/uploads/2023/09/Finanzordnung-des-Fliegerclub-Schoenebeck-2022-06-01.pdf)
     actions: []
     colors: bg-light-fg-dark
     styles:
