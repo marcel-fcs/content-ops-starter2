@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Social Media Management
+      text: Satzung und FInanzordnung
       color: text-dark
     subtitle: ''
     text: >
