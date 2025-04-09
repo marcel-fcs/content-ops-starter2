@@ -237,7 +237,7 @@ sections:
             flexDirection: row
             justifyContent: center
       - type: FeaturedItem
-        title: ist Segelfliegen teuer?
+        title: Ist Segelfliegen teuer?
         subtitle: ''
         text: >+
           Schwer zu sagen. Jedenfalls nicht teurer als beispielsweise Skifahren,
@@ -389,7 +389,7 @@ sections:
       - type: FeaturedItem
         title: Sie haben Interesse?
         subtitle: ''
-        text: "Besuchen Sie uns einfach am Wochenende, schreiben eine Mail oder rufen Sie an. In uns finden Sie immer einen verlässlichen Ansprechpartner für Ihre Fragen.\n\nFür weitere Informationen insbesondere was Kosten und Dauer einer Flugausbildung betrifft, stehen wir gerne zur Verfügung,\_[schreiben Sie uns](http://www.fliegerclub-sbk.de/kontakt/).\n\n"
+        text: "Besuchen Sie uns einfach am Wochenende, schreiben eine Mail oder rufen Sie an. In uns finden Sie immer einen verlässlichen Ansprechpartner für Ihre Fragen.\n\nFür weitere Informationen insbesondere was Kosten und Dauer einer Flugausbildung betrifft, stehen wir gerne zur Verfügung, schreiben Sie uns!"
         actions: []
         colors: bg-dark-fg-light
         styles:
