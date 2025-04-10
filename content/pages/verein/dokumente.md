@@ -15,9 +15,9 @@ sections:
     actions:
       - label: Unsere Satzung
         url: https://www.fliegerclub-sbk.de/wp-content/uploads/2020/02/SatzungFCS_12_2019.pdf
-        showIcon: false
+        showIcon: true
         newtab: true
-        icon: 
+        icon: arrowRight
         iconPosition: right
         style: primary
         elementId: ''
@@ -27,9 +27,10 @@ sections:
         url: https://www.fliegerclub-sbk.de/wp-content/uploads/2023/09/Finanzordnung-des-Fliegerclub-Schoenebeck-2022-06-01.pdf
         showIcon: false
         newtab: true
-        icon: 
+        icon: arrowRight
         iconPosition: right
-        style: secondary
+        style: primary
+        className: underline
         elementId: ''
         type: Link
 
