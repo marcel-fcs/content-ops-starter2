@@ -36,14 +36,14 @@ export default function Footer(props) {
                     {(logo?.url || title || text) && (
                         <div className="pb-8 sm:col-span-3 lg:col-auto">
                             {(logo?.url || title) && (
-                                <Link href="/" className="flex flex-col items-start">
+                                <Link href="/" className="flex flex-col items-start" target="_blank" rel="noopener noreferrer">
                                     {logo && (
                                         <ImageBlock {...logo} className="inline-block w-auto" {...(enableAnnotations && { 'data-sb-field-path': 'logo' })} />
                                     )}
                                     {title && (
                                         <div className="h4" {...(enableAnnotations && { 'data-sb-field-path': 'title' })}>
                                             {title}
-                                        </div>
+                                        </div> 
                                     )}
                                 </Link>
                             )}
