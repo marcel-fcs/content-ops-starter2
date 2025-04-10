@@ -96,7 +96,7 @@
         },
         {
             "label": "Gästeflug",
-            "altText": "Careers page",
+            "altText": "",
             "url": "/gaeste",
             "icon": "arrowRight",
             "iconPosition": "right",
@@ -173,6 +173,7 @@
         {
             "label": "Vf Log in",
             "url": "https://www.vereinsflieger.de",
+            "newtab": true,
             "icon": "chevronBigRight",
             "iconPosition": "right",
             "style": "primary",
