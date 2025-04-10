@@ -65,7 +65,7 @@ export default function Footer(props) {
                             <ul className="flex flex-wrap items-center" {...(enableAnnotations && { 'data-sb-field-path': 'socialLinks' })}>
                                 {socialLinks.map((link, index) => (
                                     <li key={index} className="text-2xl mb-2 mr-8 lg:mr-12 last:mr-0">
-                                        <Social {...link} {...(enableAnnotations && { 'data-sb-field-path': `.${index}` })} />
+                                        <Social {...link} target="_blank" rel="noopener noreferrer" {...(enableAnnotations && { 'data-sb-field-path': `.${index}` })} />
                                     </li>
                                 ))}
                             </ul>
