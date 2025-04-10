@@ -132,6 +132,7 @@
                 {
                     "label": "Deutsche Flugsicherung",
                     "url": "https://secais.dfs.de/pilotservice/home.jsp",
+                    "newtab": true,
                     "icon": "arrowRight",
                     "iconPosition": "left",
                     "style": "secondary",
@@ -140,6 +141,7 @@
                 {
                     "label": "Deutscher Aero Club",
                     "url": "https://www.daec.de/",
+                    "newtab": true,
                     "icon": "arrowRight",
                     "iconPosition": "right",
                     "style": "secondary",
@@ -148,6 +150,7 @@
                 {
                     "label": "Ringheiligtum Pömmelte",
                     "url": "https://www.himmelswege.de/orte/ringheiligtum-poemmelte",
+                    "newtab": true,
                     "icon": "arrowRight",
                     "iconPosition": "right",
                     "style": "secondary",
@@ -158,6 +161,7 @@
                     "label": "Freiwillige Feuerwehr Pömmelte",
                     "altText": "",
                     "url": "https://xn--gemeinde-pmmelte-vwb.de/feuerwehr/",
+                    "newtab": true,
                     "showIcon": false,
                     "icon": "arrowRight",
                     "iconPosition": "right",
