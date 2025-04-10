@@ -15,6 +15,8 @@ export default function Action(props) {
     return (
         <Link
             href={url}
+            target="_blank" 
+            rel="noopener noreferrer"
             aria-label={altText}
             id={elementId}
             className={classNames(
