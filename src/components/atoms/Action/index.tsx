@@ -15,7 +15,7 @@ export default function Action(props) {
     return (
         <Link
             href={url}
-            {newtab ? target="_blank" rel="noopener noreferrer"}
+            {newtab ? 'target="_blank" rel="noopener noreferrer"' : null}
             aria-label={altText}
             id={elementId}
             className={classNames(
