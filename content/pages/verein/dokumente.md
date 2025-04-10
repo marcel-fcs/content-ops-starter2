@@ -43,7 +43,8 @@ sections:
         newtab: true
         icon: arrowRight
         iconPosition: right
-        style: 
+        style:      
+    
     colors: bg-light-fg-dark
     styles:
       self:
