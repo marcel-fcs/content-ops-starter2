@@ -43,7 +43,7 @@ export default function Footer(props) {
                                     {title && (
                                         <div className="h4" {...(enableAnnotations && { 'data-sb-field-path': 'title' })}>
                                             {title}
-                                        </div>
+                                        </div> 
                                     )}
                                 </Link>
                             )}
