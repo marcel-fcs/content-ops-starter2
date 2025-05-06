@@ -6,7 +6,7 @@ sections:
     title:
       type: TitleBlock
       text: Verein
-      color: text-dark
+      color: text-primary
     subtitle: ''
     text: >+
       Der Fliegerclub Schönebeck besteht seit 1990 als eingetragener Verein. Die
