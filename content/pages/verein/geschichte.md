@@ -10,8 +10,7 @@ sections:
     subtitle: ''
     text: >+
       Der Fliegerclub Schönebeck besteht seit 1990 als eingetragener Verein. Die
-      ersten Starts wurden aber bereits 1958 auf diesem Flugplatz
-      ([EDOZ](https://www.fliegerclub-sbk.de/kontakt/)) durchgeführt. Derzeit
+      ersten Starts wurden aber bereits 1958 auf diesem Flugplatz EDOZ durchgeführt. Derzeit
       setzt sich der Verein aus den Sektionen Segelflug und Modellflug zusammen.
       Prinzipiell steht unser Verein aber allen Luftsportarten offen gegenüber.
 
