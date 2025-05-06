@@ -75,7 +75,7 @@ sections:
     title:
       type: TitleBlock
       text: Aktuelles
-      color: text-dark
+      color: text-primary
       styles:
         self:
           textAlign: center
@@ -180,7 +180,7 @@ sections:
     title:
       type: TitleBlock
       text: Letzte Beiträge
-      color: text-dark
+      color: text-primary
       styles:
         self:
           textAlign: center
@@ -220,16 +220,16 @@ sections:
   - subtitle: Impressionen
     images:
       - url: /images/Bild3.jpg
-        altText: Empathy logo
+        altText: 
         type: ImageBlock
       - url: /images/Astir.jpg
-        altText: Wellster logo
+        altText: 
         type: ImageBlock
-      - url: /images/Feuerweher.jpg
-        altText: Vise logo
+      - url: /images/Twin_Startvorbereitung2.jpg
+        altText: 
         type: ImageBlock
       - url: /images/Bild2.jpg
-        altText: Telus logo
+        altText:
         type: ImageBlock
       - type: ImageBlock
         url: /images/Twin.jpg
@@ -258,14 +258,14 @@ sections:
       self:
         justifyContent: center
         padding:
-          - pt-5
+          - pt-0
           - pl-0
-          - pb-5
+          - pb-0
           - pr-0
         margin:
-          - mt-7
+          - mt-0
           - ml-0
-          - mb-7
+          - mb-0
           - mr-0
       subtitle:
         textAlign: center
@@ -277,7 +277,7 @@ sections:
       backgroundPosition: left-top
       backgroundRepeat: repeat
       opacity: 36
-      url: /images/LS4-768x485.jpeg
+      url: 
 seo:
   metaTitle: Fliegerclub Schönebeck e.V.
   metaDescription: 'Segelflug, Motorflug und Modellflug'

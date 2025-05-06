@@ -6,7 +6,7 @@ sections:
     title:
       type: TitleBlock
       text: Modellflug
-      color: text-dark
+      color: text-primary
     subtitle: ''
     text: |
       Sparte Modellflug mit eigenem Modellflugplatz
