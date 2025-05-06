@@ -220,16 +220,16 @@ sections:
   - subtitle: Impressionen
     images:
       - url: /images/Bild3.jpg
-        altText: 
+        altText: null
         type: ImageBlock
       - url: /images/Astir.jpg
-        altText: 
+        altText: null
         type: ImageBlock
-      - url: /images/Twin_Startvorbereitung2.jpg
-        altText: 
+      - url: /images/EDOZ.jpg
+        altText: null
         type: ImageBlock
       - url: /images/Bild2.jpg
-        altText:
+        altText: null
         type: ImageBlock
       - type: ImageBlock
         url: /images/Twin.jpg
@@ -277,7 +277,7 @@ sections:
       backgroundPosition: left-top
       backgroundRepeat: repeat
       opacity: 36
-      url: 
+      url: null
 seo:
   metaTitle: Fliegerclub Schönebeck e.V.
   metaDescription: 'Segelflug, Motorflug und Modellflug'
