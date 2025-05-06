@@ -41,7 +41,7 @@ sections:
       - type: FeaturedItem
         title: Feuerwehr
         tagline: ''
-        subtitle: This is the item subtitle
+        subtitle: 
         text: |+
 
 
@@ -66,7 +66,7 @@ sections:
       - type: FeaturedItem
         title: Winde
         tagline: ''
-        subtitle: This is the item subtitle
+        subtitle: 
         text: |+
 
 
