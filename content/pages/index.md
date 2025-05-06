@@ -75,7 +75,7 @@ sections:
     title:
       type: TitleBlock
       text: Aktuelles
-      color: text-dark
+      color: text-primary
       styles:
         self:
           textAlign: center
@@ -180,7 +180,7 @@ sections:
     title:
       type: TitleBlock
       text: Letzte Beiträge
-      color: text-dark
+      color: text-primary
       styles:
         self:
           textAlign: center
