@@ -75,7 +75,7 @@ sections:
     title:
       type: TitleBlock
       text: Aktuelles
-      color: text-neutralAlt
+      color: text-primary
       styles:
         self:
           textAlign: center
