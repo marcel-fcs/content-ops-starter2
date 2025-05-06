@@ -225,7 +225,7 @@ sections:
       - url: /images/Astir.jpg
         altText: 
         type: ImageBlock
-      - url: /images/Twin_Startvorbereitung.HEIC
+      - url: /images/Twin_Startvorbereitung2.jpg
         altText: 
         type: ImageBlock
       - url: /images/Bild2.jpg
