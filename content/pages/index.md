@@ -220,16 +220,16 @@ sections:
   - subtitle: Impressionen
     images:
       - url: /images/Bild3.jpg
-        altText: Empathy logo
+        altText: 
         type: ImageBlock
       - url: /images/Astir.jpg
-        altText: Wellster logo
+        altText: 
         type: ImageBlock
-      - url: /images/Feuerweher.jpg
-        altText: Vise logo
+      - url: /images/Twin_Startvorbereitung.HEIC
+        altText: 
         type: ImageBlock
       - url: /images/Bild2.jpg
-        altText: Telus logo
+        altText:
         type: ImageBlock
       - type: ImageBlock
         url: /images/Twin.jpg
