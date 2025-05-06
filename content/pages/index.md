@@ -277,7 +277,7 @@ sections:
       backgroundPosition: left-top
       backgroundRepeat: repeat
       opacity: 36
-      url: /images/LS4-768x485.jpeg
+      url: 
 seo:
   metaTitle: Fliegerclub Schönebeck e.V.
   metaDescription: 'Segelflug, Motorflug und Modellflug'
