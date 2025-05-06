@@ -6,7 +6,7 @@ sections:
     title:
       type: TitleBlock
       text: Satzung und Finanzordnung
-      color: text-dark
+      color: text-primary
     subtitle: ''
     text: >
       Hier finden Sie unsere aktuelle Satzung und Finanzordnung zur Verfügung:<br/>
