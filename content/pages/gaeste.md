@@ -4,7 +4,7 @@ slug: gaeste
 sections:
   - title:
       text: Für einen Tag Pilot werden
-      color: text-dark
+      color: text-primary
       styles:
         self:
           textAlign: center
