@@ -6,7 +6,7 @@ sections:
     title:
       type: TitleBlock
       text: Segelflugausbildung
-      color: text-dark
+      color: text-primary
       styles:
         self:
           textAlign: left
