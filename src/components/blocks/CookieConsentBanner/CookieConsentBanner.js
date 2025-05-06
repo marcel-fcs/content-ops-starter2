@@ -26,7 +26,7 @@ const CookieConsentBanner = () => {
       Rechtsgrundlage für die Verwendung von Cookies ist Art. 6 Abs. 1 Satz 1 lit f) DSGVO. 
       Durch die weitere Nutzung der Webseite stimmen Sie der Verwendung von Cookies zu. 
       Wenn Sie mit der Verwendung von Cookies Einverstanden sind, und diesen Hinweis ausblenden wollen, klicken Sie bitte auf 'Akzeptieren'. 
-      Die Datenschutzerklärung ist hier einsehbar: <Link href="/datenschutz/"style={{ color: "#4CAF50" }}><a>Datenschutzerklärung</a></Link>.
+      Die Datenschutzerklärung ist hier einsehbar: <Link href="/datenschutz/"style={{ color: "#4CAF50" }}Datenschutzerklärung</Link>.
     </CookieConsent>
   );
 };
