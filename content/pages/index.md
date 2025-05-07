@@ -222,6 +222,9 @@ sections:
       - url: /images/Bild3.jpg
         altText: null
         type: ImageBlock
+      - url: /images/Twin_Startvorbereitung2.jpg
+        altText: null
+        type: ImageBlock
       - url: /images/Astir.jpg
         altText: null
         type: ImageBlock
@@ -240,14 +243,14 @@ sections:
             borderRadius: medium
       - type: ImageBlock
         url: /images/Winde.jpg
-        altText: Image alt text placeholder
+        altText: null
         elementId: ''
         styles:
           self:
             borderRadius: medium
       - type: ImageBlock
         url: /images/SKP.jpg
-        altText: Image alt text placeholder
+        altText: null
         elementId: ''
         styles:
           self:
