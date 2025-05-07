@@ -1,0 +1,138 @@
+---
+type: PostLayout
+title: Neulackierung unserer LS-4a
+date: '2025-04-22'
+author: content/data/person2.json
+excerpt: >-
+  Heute war ein besonderer Tag für den Fliegerclub Schönebeck e.V. Im Beisein von Herrn Oberbürgermeister Knoblauch und Herrn Landrat Bauer mit dem Vereinsvorstand fand eine feierliche Scheckübergabe für die finanzielle Unterstützung der bereits erfolgte Neulackierung unseres Leistungs-Einsitzers, der LS4a, in Höhe von 7.000 Euro statt.
+featuredImage:
+  type: ImageBlock
+  url: /images/ScheckSparkassenstiftungLS4.jpg
+  altText: Thumbnail
+  elementId: ''
+  styles:
+    self:
+      padding:
+        - pt-0
+        - pl-0
+        - pb-0
+        - pr-0
+bottomSections:
+  - type: DividerSection
+    title: Divider
+    elementId: ''
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        padding:
+          - pt-3
+          - pl-3
+          - pb-3
+          - pr-3
+bottomSections:
+  - type: CarouselSection
+    subtitle: ''
+    items:
+      - type: FeaturedItem
+        title: ''
+        tagline: ''
+        subtitle: ''
+        text: ''
+        actions: []
+        colors: bg-dark-fg-light
+        styles:
+          self:
+            padding:
+              - pt-9
+              - pb-9
+              - pl-9
+              - pr-9
+            textAlign: left
+            borderRadius: large
+            flexDirection: row
+            justifyContent: center
+        image:
+          type: ImageBlock
+          url: /images/ScheckSparkassenstiftungLS4.jpg
+          altText: Bild
+          elementId: ''
+          styles:
+            self:
+              borderRadius: medium
+      - type: FeaturedItem
+        title: ''
+        tagline: ''
+        subtitle: ''
+        text: ''
+        image:
+          type: ImageBlock
+          url: /images/FotoScheckuebergabe.jpeg
+          altText: Bild
+          elementId: ''
+          styles:
+            self:
+              borderRadius: medium
+        actions: []
+        colors: bg-dark-fg-light
+        styles:
+          self:
+            padding:
+              - pt-9
+              - pb-9
+              - pl-9
+              - pr-9
+            textAlign: left
+            borderRadius: large
+            flexDirection: row
+            justifyContent: center      
+    variant: next-prev-nav
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        justifyContent: center
+      subtitle:
+        textAlign: center
+  - type: RecentPostsSection
+    title:
+      type: TitleBlock
+      text: weitere Berichte
+      color: text-dark
+      styles:
+        self:
+          textAlign: center
+    recentCount: 3
+    showThumbnail: true
+    showExcerpt: true
+    showDate: true
+    showAuthor: true
+    actions: []
+    elementId: ''
+    variant: three-col-grid
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        justifyContent: center
+slug: Neulackierung LS4
+isFeatured: false
+isDraft: false
+seo:
+  type: Seo
+  metaTitle: Neulackierung LS4
+  metaDescription: Blog
+  addTitleSuffix: true
+  metaTags: []
+colors: bg-light-fg-dark
+styles:
+  self:
+    flexDirection: col
+    borderColor: border-dark
+---
+Heute war ein besonderer Tag für den Fliegerclub Schönebeck e.V. Im Beisein von Herrn Oberbürgermeister Knoblauch und Herrn Landrat Bauer mit dem Vereinsvorstand fand eine feierliche Scheckübergabe für die finanzielle Unterstützung der bereits erfolgte Neulackierung unseres Leistungs-Einsitzers, der LS4a, in Höhe von 7.000 Euro statt. Diese Neulackierung war notwendig, da dieses Flugzeug mit 32 Jahren von den Flugleistungen und Flugeigenschaften noch absolut konkurrenzfähig ist, die Lackoberfläche im Laufe der jahrzehntelangen Nutzung des Flugzeugs aber stark gelitten hatte. Eine solche Neulackierung kann nur von wenigen Spezialbetrieben in reiner Handarbeit durchgeführt werden und ist entsprechend kostenintensiv. Durch die Lackierung wurde das Flugzeug quasi in einen Neuzustand versetzt und wird den Mitgliedern des Fliegerclub Schönebeck noch viele, viele Jahre Freude bereiten. Auch das ist ein Beitrag des Fliegerclubs zur Nachhaltigkeit.
+
+Wir bedanken uns ausdrücklich und aufs herzlichste bei der Stiftung der ehemaligen Kreissparkasse Bernburg und allen Entscheidungsträgern für den außergewöhnlichen Förderungsbetrag.
+
+Wir Mitglieder des Fliegerclub Schönebeck e.V. bedanken sich auch herzlichst bei unserem ersten Vorsitzenden, Henning Schulte, der durch seine Bemühungen und persönlichen Kontakte diese Unterstützung für die Neulackierung beantragt und somit erst möglich gemacht hat. Da die symbolische Scheckübergabe durch den Oberbürgermeister und den Landrat auch noch an Hennings 70. Geburtstag stattfand, wurde dieses zum Anlass genommen, anschließend auch auf Hennings Wohl anzustoßen.
+
+
+
+Im Bild von links nach rechts: Henning Schulte (erster Vorsitzender), Ralf Gerigk (Schatzmeister), Markus Bauer (Landrat des Salzlandkreises), Bert Knoblauch (Oberbürgermeister Schönebeck), Dr. Hartmut Schütze (zweiter Vorsitzender)
